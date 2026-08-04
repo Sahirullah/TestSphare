@@ -94,7 +94,7 @@ const Footer = () => {
               </div>
               <div className="contact-item">
                 <span className="contact-icon">📞</span>
-                <span>+234 9046631937</span>
+                <span>+92 3191954292</span>
               </div>
             </div>
           </div>
