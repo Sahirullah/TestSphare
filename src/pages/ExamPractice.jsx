@@ -2,14 +2,12 @@ import { useState, useEffect } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { examPracticeData, quizCategories, getQuestionSet } from '../data/examPracticeData';
-import { midtermExamPracticeData, midtermExamPracticeCategories as midtermExamCategories } from '../data/midtermExamPracticeData';
-import { finalTermExamPracticeData, finalTermExamPracticeCategories as finalTermExamCategories } from '../data/finalTermExamPracticeData';
 import { useTheme } from '../context/ThemeContext';
 import './ExamPractice.css';
 
 const ExamPractice = () => {
   const { isDarkMode } = useTheme();
-  const [examType, setExamType] = useState('exam'); // 'exam', 'midterm', or 'finalterm'
+  const [examType, setExamType] = useState('exam');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [currentExam, setCurrentExam] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -24,27 +22,11 @@ const ExamPractice = () => {
 
   // Get appropriate data based on exam type
   const getExamData = () => {
-    switch(examType) {
-      case 'midterm':
-        return midtermExamPracticeData;
-      case 'finalterm':
-        return finalTermExamPracticeData;
-      case 'exam':
-      default:
-        return examPracticeData;
-    }
+    return examPracticeData;
   };
 
   const getCategories = () => {
-    switch(examType) {
-      case 'midterm':
-        return midtermExamCategories;
-      case 'finalterm':
-        return finalTermExamCategories;
-      case 'exam':
-      default:
-        return quizCategories;
-    }
+    return quizCategories;
   };
 
   const allExamData = getExamData();
@@ -173,8 +155,8 @@ const ExamPractice = () => {
         <div className="exam-hero">
           <div className="hero-content">
             <div className="hero-icon">📝</div>
-            <h1>{examType === 'midterm' ? 'MIDTERM PRACTICE' : examType === 'finalterm' ? 'FINAL TERM PRACTICE' : 'EXAM PRACTICE'}</h1>
-            <p>All Types Of Jobs/Books Complete {examType === 'midterm' ? 'Midterm' : examType === 'finalterm' ? 'Final Term' : 'Exam'} Practice Tests</p>
+            <h1>EXAM PRACTICE</h1>
+            <p>All Types Of Jobs/Books Complete Exam Practice Tests</p>
           </div>
         </div>
 
