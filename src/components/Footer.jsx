@@ -90,7 +90,7 @@ const Footer = () => {
             <div className="footer-contact">
               <div className="contact-item">
                 <span className="contact-icon">📧</span>
-                <span>info@virtuallibrary.com</span>
+                <span>info.testsphare@gmail.com</span>
               </div>
               <div className="contact-item">
                 <span className="contact-icon">📞</span>

@@ -76,7 +76,7 @@ const Header = () => {
                 <span className="contact-icon">✉️</span>
                 <div className="contact-text">
                   <span className="contact-label">Mail Us</span>
-                  <span className="contact-value">info@virtuallibrary.com</span>
+                  <span className="contact-value">info.testsphare@gmail.com</span>
                 </div>
               </div>
             </div>
