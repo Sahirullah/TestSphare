@@ -13,7 +13,7 @@ const About = () => {
         {/* Hero Section */}
         <section className="about-hero">
           <div className="about-hero-container">
-            <h1 className="about-hero-title">About Virtual Uni Hub</h1>
+            <h1 className="about-hero-title">About Test Spare</h1>
             <p className="about-hero-subtitle">
               Empowering Pakistani students with quality educational resources since 2024
             </p>
@@ -26,15 +26,15 @@ const About = () => {
             <div className="mission-content">
               <div className="mission-text">
                 <div className="mission-logo">
-                  <img src={logoImage} alt="Virtual Uni Hub Logo" className="mission-logo-image" />
+                  <img src={logoImage} alt="Test Spare Logo" className="mission-logo-image" />
                   <div className="mission-logo-text">
-                    <h3 className="mission-logo-title">VIRTUAL UNI HUB</h3>
+                    <h3 className="mission-logo-title">Test Spare</h3>
                     <p className="mission-logo-subtitle">Educational Resources</p>
                   </div>
                 </div>
                 <h2 className="section-title">Our Mission</h2>
                 <p className="mission-description">
-                  Virtual Uni Hub is dedicated to providing Pakistani university students with 
+                  Test Spare is dedicated to providing Pakistani university students with 
                   easy access to high-quality educational resources. We believe that every student 
                   deserves access to comprehensive study materials, regardless of their financial 
                   situation or geographical location.
@@ -74,7 +74,7 @@ const About = () => {
             <div className="story-content">
               <div className="story-text">
                 <p>
-                  Virtual Uni Hub was born from the shared struggles of Pakistani university students 
+                  Test Spare was born from the shared struggles of Pakistani university students 
                   who faced difficulties accessing quality study materials. Founded by a group of 
                   passionate students and educators, we recognized the gap between academic requirements 
                   and resource availability.

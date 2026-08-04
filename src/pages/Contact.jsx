@@ -68,7 +68,7 @@ const Contact = () => {
       <section className="contact-hero">
         <div className="hero-overlay">
           <div className="hero-content">
-            <h1>Contact Virtual Uni Hub</h1>
+            <h1>Contact Test Spare</h1>
             <p>Get in touch with us for educational support, resources, and assistance</p>
           </div>
         </div>
@@ -214,7 +214,7 @@ const Contact = () => {
                 <i className="fas fa-graduation-cap"></i>
               </div>
               <h3>VU Students</h3>
-              <p>Access Virtual University study materials, handouts, and past papers</p>
+              <p>AccessAll Types Of Careers study materials, handouts, and past papers</p>
               <a href="#virtual-university" className="quick-btn">Browse VU Resources</a>
             </div>
 

@@ -11,11 +11,11 @@ const Blogs = () => {
   const blogs = [
     {
       id: 1,
-      title: 'Getting Started with Virtual University',
+      title: 'Getting Started withAll Types Of Careers',
       author: 'Ahmed Khan',
       date: 'November 15, 2024',
       category: 'Guides',
-      excerpt: 'Learn how to navigate Virtual University and make the most of our educational resources.',
+      excerpt: 'Learn how to navigateAll Types Of Careers and make the most of our educational resources.',
       image: '📚',
     },
     {

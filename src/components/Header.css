@@ -345,7 +345,7 @@ html {
   }
 }
 
-/* Virtual Uni Hub Navigation */
+/* Test Spare Navigation */
 .vu-nav {
   background: #D13535;
   padding: 0;
@@ -888,7 +888,7 @@ html {
     display: none !important;
   }
   
-  /* Force first submenu to show when Virtual University dropdown opens */
+  /* Force first submenu to show whenAll Types Of Careers dropdown opens */
   .dropdown-menu.mobile-open .dropdown-submenu:first-of-type {
     background: rgba(255, 255, 255, 0.2) !important;
   }

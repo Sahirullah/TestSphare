@@ -11,9 +11,9 @@ const Footer = () => {
         <div className="footer-main">
           <div className="footer-section footer-brand">
             <div className="footer-logo">
-              <img src={logoImage} alt="Virtual Uni Hub Logo" className="footer-logo-image" />
+              <img src={logoImage} alt="Test Spare Logo" className="footer-logo-image" />
               <div>
-                <h3 className="footer-logo-text">VIRTUAL UNI HUB</h3>
+                <h3 className="footer-logo-text">Test Spare</h3>
                 <p className="footer-logo-subtitle">Educational Resources</p>
               </div>
             </div>
@@ -103,7 +103,7 @@ const Footer = () => {
         {/* Footer Bottom */}
         <div className="footer-bottom">
           <div className="footer-bottom-left">
-            <p>&copy; 2024 Virtual Uni Hub. All rights reserved.</p>
+            <p>&copy; 2024 Test Spare. All rights reserved.</p>
             <div className="footer-legal">
               <a href="#privacy">Privacy Policy</a>
               <a href="#terms">Terms of Service</a>

@@ -15,7 +15,7 @@ const Hero = () => {
           </h1>
           <p className="hero-subtitle">
             Discover thousands of high-quality handouts, assignments, and study materials 
-            for Virtual Uni Hub and Allama Iqbal University students.
+            for Test Spare and Allama Iqbal University students.
           </p>
           <div className="hero-search">
             <input 

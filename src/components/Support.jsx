@@ -51,7 +51,7 @@ const Support = () => {
     <section className="support">
       <div className="support-container">
         <div className="support-header">
-          <h2 className="support-title">Why Choose Virtual Uni Hub?</h2>
+          <h2 className="support-title">Why Choose Test Spare?</h2>
           <p className="support-subtitle">
             Everything you need for academic success, all in one place
           </p>

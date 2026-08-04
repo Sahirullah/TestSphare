@@ -55,9 +55,9 @@ const Header = () => {
         <div className="top-bar-container">
           <div className="logo-section">
             <Link to="/" className="logo-link">
-              <img src={logoImage} alt="Virtual Uni Hub Logo" className="logo-image" />
+              <img src={logoImage} alt="Test Spare Logo" className="logo-image" />
               <div>
-                <h1 className="logo">VIRTUAL UNI HUB</h1>
+                <h1 className="logo">Test Spare</h1>
                 <div className="logo-subtitle">Educational Resources</div>
               </div>
             </Link>
@@ -120,7 +120,7 @@ const Header = () => {
 
 
 
-      {/* Virtual Uni Hub Navigation */}
+      {/* Test Spare Navigation */}
       <div className="vu-nav">
         <div className="vu-nav-container">
           <ul className={`vu-nav-links ${isVUMenuOpen ? 'vu-open' : ''}`}>

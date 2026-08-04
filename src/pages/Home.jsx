@@ -22,22 +22,22 @@ const Home = () => {
             <div className="mission-content">
               <div className="mission-text">
                 <div className="mission-logo">
-                  <img src={logoImage} alt="Virtual Uni Hub Logo" className="mission-logo-image" />
+                  <img src={logoImage} alt="Test Spare Logo" className="mission-logo-image" />
                   <div className="mission-logo-text">
-                    <h3 className="mission-logo-title">VIRTUAL UNI HUB</h3>
+                    <h3 className="mission-logo-title">Test Spare</h3>
                     <p className="mission-logo-subtitle">Educational Resources</p>
                   </div>
                 </div>
                 <h2 className="section-title">Our Mission</h2>
                 <p className="mission-description">
-                  <b>Virtual Uni Hub</b> is dedicated to providing students around the globe with easy access to high-quality educational resources. We believe that every learner deserves access to comprehensive study materials, regardless of their location or financial situation.
+                  <b>Test Spare</b> is dedicated to providing students around the globe with easy access to high-quality educational resources. We believe that every learner deserves access to comprehensive study materials, regardless of their location or financial situation.
                 </p>
                 <p className="mission-description">
-                 Our platform acts as a bridge between academic excellence and accessibility, offering handouts, assignments, past papers, and study notes from top universities worldwide. Whether you are preparing for exams, researching, or expanding your knowledge, <b>Virtual Uni Hub</b> ensures you have reliable and up-to-date resources at your fingertips.
+                 Our platform acts as a bridge between academic excellence and accessibility, offering handouts, assignments, past papers, and study notes from top universities worldwide. Whether you are preparing for exams, researching, or expanding your knowledge, <b>Test Spare</b> ensures you have reliable and up-to-date resources at your fingertips.
                 </p>
               </div>
               <div className="mission-image">
-                <img src={aboutImage} alt="About Virtual Uni Hub" className="mission-image-img" />
+                <img src={aboutImage} alt="About Test Spare" className="mission-image-img" />
               </div>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Home = () => {
             <div className="story-content">
               <div className="story-text">
                 <p>
-                  Virtual Uni hub was born from the shared struggles of Pakistani university students 
+                  Test Spare was born from the shared struggles of Pakistani university students 
                   who faced difficulties accessing quality study materials. Founded by a group of 
                   passionate students and educators, we recognized the gap between academic requirements 
                   and resource availability.
