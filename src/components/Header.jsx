@@ -132,7 +132,7 @@ const Header = () => {
                 className="vu-dropdown-toggle"
                 onClick={() => setIsVUFilesOpen(!isVUFilesOpen)}
               >
-                VU Files
+                All Books
               </button>
               <ul className={`vu-dropdown-menu ${isVUFilesOpen ? 'vu-dropdown-open' : ''}`}>
                 <li><Link to="/vu-handout" onClick={() => { setIsVUMenuOpen(false); setIsVUFilesOpen(false); }}>Handouts</Link></li>

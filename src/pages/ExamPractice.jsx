@@ -174,27 +174,13 @@ const ExamPractice = () => {
           <div className="hero-content">
             <div className="hero-icon">📝</div>
             <h1>{examType === 'midterm' ? 'MIDTERM PRACTICE' : examType === 'finalterm' ? 'FINAL TERM PRACTICE' : 'EXAM PRACTICE'}</h1>
-            <p>Virtual University Complete {examType === 'midterm' ? 'Midterm' : examType === 'finalterm' ? 'Final Term' : 'Exam'} Practice Tests</p>
+            <p>All Types Of Jobs/Books Complete {examType === 'midterm' ? 'Midterm' : examType === 'finalterm' ? 'Final Term' : 'Exam'} Practice Tests</p>
           </div>
         </div>
 
         <div className="exam-container">
           <div className="exam-type-filter">
             <h2>Select Exam Type</h2>
-            <div className="exam-type-buttons">
-              <button 
-                className={`exam-type-btn ${examType === 'midterm' ? 'active' : ''}`}
-                onClick={() => { setExamType('midterm'); setSelectedCategory('all'); }}
-              >
-                📚 Midterm Practice
-              </button>
-              <button 
-                className={`exam-type-btn ${examType === 'finalterm' ? 'active' : ''}`}
-                onClick={() => { setExamType('finalterm'); setSelectedCategory('all'); }}
-              >
-                🎓 Final Term Practice
-              </button>
-            </div>
           </div>
 
           <div className="category-filter">

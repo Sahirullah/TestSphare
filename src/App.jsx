@@ -16,8 +16,6 @@ const MidtermReviews = lazy(() => import('./pages/MidtermReviews'))
 const Blogs = lazy(() => import('./pages/Blogs'))
 const ImportantSoftwares = lazy(() => import('./pages/ImportantSoftwares'))
 const ExamPractice = lazy(() => import('./pages/ExamPractice'))
-const MidtermPractice = lazy(() => import('./pages/MidtermPractice'))
-const FinalTermPractice = lazy(() => import('./pages/FinalTermExamPractice'))
 const HighlightedHandout = lazy(() => import('./pages/HighlightedHandout'))
 const Notes = lazy(() => import('./pages/Notes'))
 
@@ -44,8 +42,6 @@ function App() {
               <Route path="/notes" element={<Notes />} />
               <Route path="/softwares" element={<ImportantSoftwares />} />
               <Route path="/exam-practice" element={<ExamPractice />} />
-              <Route path="/midterm-practice" element={<MidtermPractice />} />
-              <Route path="/final-term-practice" element={<FinalTermPractice />} />
             </Routes>
           </Suspense>
         </div>
