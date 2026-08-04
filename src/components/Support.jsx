@@ -10,9 +10,9 @@ const Support = () => {
       icon: '📚',
       features: [
         'Handouts & Notes',
-        'Past Papers',
-        'Assignments',
-        'Study Guides'
+        'Short Notes',
+        'Current Papers',
+        'Past Papers'
       ],
       color: '#FF741F',
       bgGradient: 'linear-gradient(135deg, #FF741F 0%, #ff8c42 100%)'

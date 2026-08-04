@@ -19,7 +19,7 @@ const Footer = () => {
             </div>
             <p className="footer-description">
               Your trusted platform for educational resources and study materials. 
-              Access high-quality handouts, assignments, and academic content for Pakistani universities.
+              Access high-quality handouts, assignments, and academic content for All types of careers.
             </p>
             <div className="footer-social">
               <a href="https://www.facebook.com/virtuallibrary" target="_blank" rel="noopener noreferrer" className="social-link facebook">
