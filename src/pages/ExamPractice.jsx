@@ -7,7 +7,6 @@ import './ExamPractice.css';
 
 const ExamPractice = () => {
   const { isDarkMode } = useTheme();
-  const [examType, setExamType] = useState('exam');
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [currentExam, setCurrentExam] = useState(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -20,17 +19,8 @@ const ExamPractice = () => {
   const [isSaved, setIsSaved] = useState(true);
   const [showSummary, setShowSummary] = useState(false);
 
-  // Get appropriate data based on exam type
-  const getExamData = () => {
-    return examPracticeData;
-  };
-
-  const getCategories = () => {
-    return quizCategories;
-  };
-
-  const allExamData = getExamData();
-  const currentCategories = getCategories();
+  const allExamData = examPracticeData;
+  const currentCategories = quizCategories;
 
   const filteredExams = selectedCategory === 'all'
     ? allExamData

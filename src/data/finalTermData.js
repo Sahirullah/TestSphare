@@ -3,16 +3,7 @@ import { Link, Links } from "react-router-dom";
 export const finalTermData = [
   // ACC - Accounting
   { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘',links :[
-    'https://drive.google.com/file/d/1pniKI0Zn2RUI2m1cROG5QV9TtzUnQF3t/view?usp=sharing',
-    'https://drive.google.com/file/d/1-CSWpyk5eH2pzPupxzvO13XF-dGgYnnz/view?usp=sharing',
-    'https://drive.google.com/file/d/1ULCHYuaWO_v3twpgz-mVaYOEkxiyNGcJ/view?usp=sharing',
-    'https://docs.google.com/document/d/1x1l_fcJhdr4ivlUydbylblkdlgwFEQgG/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1BqXaJLhfCYT8Ljza5dKqT0ZRyJIpXFjG/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://drive.google.com/file/d/1xas-FpxGYyPs6FtcX8W85d2T6G8rL7C1/view?usp=sharing',
-    'https://docs.google.com/document/d/1EWzZVo_zNHZo_F4hatwukCj29FP7kX9r/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1mx6dPdMUwfFEJxNnk8SEt3ShitVHmtoo/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1uF_fBr9Y4qPFcvlh8oSuhwvLQU76A450/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://drive.google.com/file/d/1JjBp_nFQTyIaxI23tT8wiZKiN8ITkQtk/view?usp=sharing'
+    'https://drive.google.com/file/d/1pniKI0Zn2RUI2m1cROG5QV9TtzUnQF3t/view?usp=sharing'
   ]},
   { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘',links :[
     'https://drive.google.com/file/d/1Z9kO5hXTrXFBPaYD_jclvji7lNspbt7p/view?usp=sharing',
