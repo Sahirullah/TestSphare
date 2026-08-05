@@ -14,7 +14,6 @@ export const finalTermData = [
   { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬' ,Link:''},
   { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬' ,links :[
     'https://drive.google.com/file/d/1cSMoO4CPXQnR_teSethiXsUp7S730Zp5/view?usp=sharing',
-    'https://drive.google.com/file/d/1kyA6Tce6ATpCeo_xQcw0PW9NNUC01gZx/view?usp=sharing',
     'https://docs.google.com/document/d/1hjLw6Jzw3rOb5vpVxlU4YO3coPrnpt1a/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1RAuP9xX8XrXutkqq0C3r6TouTYlBQ8dy/view?usp=sharing'
   ]},
@@ -26,7 +25,6 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1z5cOBBOroT6cZeuVWHfhB6Vff0RxOzC0/view?usp=sharing',
     'https://drive.google.com/file/d/1c-dJsyJfMPCyFbrrL4smoEz5l6GeJNqN/view?usp=sharing',
     'https://drive.google.com/file/d/1fqzkquApj-pBVJHADDYbxaDaKBQLIP4Z/view?usp=sharing',
-    'https://drive.google.com/file/d/1Q-RPx225RtPJqw0JNfDXZvmVit4gKnB4/view?usp=sharing',
     'https://docs.google.com/document/d/11W-GEbMWJyTbYEWvcGnq688uATrEo9MT/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1Mv0j6oYOZN22hGeE9ubXmMR3BUqS4kCt/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1-72wrW0ZFeIERQXG3QAHCRg2B-9PKamq/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
