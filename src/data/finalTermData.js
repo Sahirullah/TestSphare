@@ -22,7 +22,6 @@ export const finalTermData = [
   { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' ,links:[
     'https://drive.google.com/file/d/154JbhwFtsIhmiA5WCuS9sU4T0c1UYvGt/view?usp=sharing',
     'https://drive.google.com/file/d/1z5cOBBOroT6cZeuVWHfhB6Vff0RxOzC0/view?usp=sharing',
-    'https://drive.google.com/file/d/1c-dJsyJfMPCyFbrrL4smoEz5l6GeJNqN/view?usp=sharing',
     'https://docs.google.com/document/d/11W-GEbMWJyTbYEWvcGnq688uATrEo9MT/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1Mv0j6oYOZN22hGeE9ubXmMR3BUqS4kCt/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1-72wrW0ZFeIERQXG3QAHCRg2B-9PKamq/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
