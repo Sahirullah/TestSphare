@@ -20,13 +20,8 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1CD44mp3vjH6Et-2Rd2ewGyBoY-o7FS-i/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
   { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' ,links:[
-    'https://drive.google.com/file/d/154JbhwFtsIhmiA5WCuS9sU4T0c1UYvGt/view?usp=sharing',
-    'https://docs.google.com/document/d/11W-GEbMWJyTbYEWvcGnq688uATrEo9MT/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1Mv0j6oYOZN22hGeE9ubXmMR3BUqS4kCt/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1-72wrW0ZFeIERQXG3QAHCRg2B-9PKamq/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1VKoZSH_UwsavKZVGm893QxJcpz0uuYsG/view?usp=sharing',
-    'https://docs.google.com/presentation/d/1oO28hfGrotVyLTr6_d8JWMyGyJkG9Bmf/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    ''
+    'https://docs.google.com/presentation/d/1oO28hfGrotVyLTr6_d8JWMyGyJkG9Bmf/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
   { id: 7, code: 'BIF601', title: 'Bioinformatics Computing I', category: 'bif', image: '🧬',Link:'' },
   { id: 8, code: 'BIF602', title: 'Bioinformatics Computing II', category: 'bif', image: '🧬' ,Link:''},
