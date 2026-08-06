@@ -28,7 +28,9 @@ const VUHandout = () => {
         <div className="hero-content">
           <div className="hero-icon">📚</div>
           <h1>Download All Books For Free</h1>
-          <p>World Complete Study Materials</p>
+          <p>World Complete Study Materials.This is online books library you can access anytime anywhere.</p>
+          <p>Download your study materials in PDF,Doc for free.</p>
+          <p>5000000+ free books available.</p>
         </div>
       </div>
 
