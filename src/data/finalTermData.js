@@ -13,7 +13,6 @@ export const finalTermData = [
   // BIF - Bioinformatics
   { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬' ,Link:''},
   { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬' ,links :[
-    'https://drive.google.com/file/d/1cSMoO4CPXQnR_teSethiXsUp7S730Zp5/view?usp=sharing',
     'https://docs.google.com/document/d/1hjLw6Jzw3rOb5vpVxlU4YO3coPrnpt1a/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1RAuP9xX8XrXutkqq0C3r6TouTYlBQ8dy/view?usp=sharing'
   ]},
