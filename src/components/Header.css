@@ -117,7 +117,7 @@ html {
 
 .contact-icon {
   font-size: 20px;
-  color: #FF741F;
+  color: #39B6FE;
 }
 
 .contact-text {
@@ -139,7 +139,7 @@ html {
 
 /* Main Navigation */
 .main-nav {
-  background: #FF741F;
+  background: #A6A6A6;
   padding: 0;
   width: 70%;
   margin-left: 0;
@@ -313,7 +313,7 @@ html {
     top: 100%;
     left: 0;
     width: 100%;
-    background: #FF741F;
+    background: #39B6FE;
     flex-direction: column;
     transform: translateY(-100%);
     opacity: 0;
@@ -347,7 +347,7 @@ html {
 
 /* Test Spare Navigation */
 .vu-nav {
-  background: #D13535;
+  background: #212E58;
   padding: 0;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   position: relative;
@@ -559,7 +559,7 @@ html {
     left: 0;
     right: 0;
     flex-direction: column;
-    background: linear-gradient(135deg, #e53e3e 0%, #c53030 100%);
+    background: linear-gradient(135deg,#39B6FE 100%);
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.4s ease;
