@@ -27,8 +27,8 @@ const VUHandout = () => {
       <div className="handout-hero">
         <div className="hero-content">
           <div className="hero-icon">📚</div>
-          <h1>VU HANDOUT</h1>
-          <p>Virtual University Complete Study Materials</p>
+          <h1>Download All Books For Free</h1>
+          <p>World Complete Study Materials</p>
         </div>
       </div>
 
