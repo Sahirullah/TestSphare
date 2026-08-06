@@ -58,8 +58,6 @@ export const finalTermData = [
   ]},
   { id: 15, code: 'BIO202', title: 'Biochemistry I', category: 'bio', image: '🧪' ,links:[
     'https://docs.google.com/document/d/14x9MGGHgewEptDXUKt19o3ydjy0OkiM_/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1WakhNa0ybKRoClb6fTON1Z12i1cPEz56/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1jn35wAUNnaD5Zy_HhMZbwvOq__ydqLsz/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1dx_TVfoeMgelHqA47czYfq2bhg_c-GuZ/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1AE_B2HmRvdHV_aG4PXGaT2D-Zuje9odQ/view?usp=sharing',
     'https://drive.google.com/file/d/17NdI1ZWKEQSLGhYPb6tqwekzcN1wAxue/view?usp=sharing'
