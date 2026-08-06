@@ -64,7 +64,6 @@ export const finalTermData = [
   ]},
   { id: 16, code: 'BIO203', title: 'Methods in Molecular Biology', category: 'bio', image: '🧪' ,links:[
     'https://drive.google.com/file/d/1PjP_qlNPqsbTjAA2Ay6ywFgTsD1SC_s-/view?usp=sharing',
-    'https://drive.google.com/file/d/1xs5uAUxEybup0coIye95dPgMUSacClj_/view?usp=sharing',
     'https://drive.google.com/file/d/1P9rQQrWoKo3eUQ-g4ITulXooeoEVANL1/view?usp=sharing',
     'https://docs.google.com/document/d/1cSWU9VZ84HcT8iIM-SJW8e7v86un7Xmw/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
