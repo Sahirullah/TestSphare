@@ -87,7 +87,6 @@ export const finalTermData = [
   { id: 19, code: 'BIO302', title: 'Molecular Biology', category: 'bio', image: '🧪' ,links:[
     'https://docs.google.com/document/d/1iJ6zdYoRQnXtknL69cg_M23QX-N60XGA/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1-ccpnNDC23SEU2oN3KTcGo-Q8i4i59F1/view?usp=sharing',
-    'https://drive.google.com/file/d/1tklL1WYxFQ83ZqaKb1SB1HOwhzg2WJMK/view?usp=sharing',
     'https://drive.google.com/file/d/1shFme46xYzwVcu0CTwHN9GkSCmqn474J/view?usp=sharing',
     'https://docs.google.com/document/d/1whMlynILuztxI8VRwpYa7TwLg0a472os/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1W__cErmKaYn9_aZwKl0onB4ZVx6dcHrI/view?usp=sharing',
