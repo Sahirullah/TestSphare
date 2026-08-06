@@ -146,7 +146,8 @@ const ExamPractice = () => {
           <div className="hero-content">
             <div className="hero-icon">📝</div>
             <h1>EXAM PRACTICE</h1>
-            <p>All Types Of Jobs/Books Complete Exam Practice Tests</p>
+            <p>Secure,free,fast and fully digital exam practice platform for all students around the world.</p>
+            <p>Practice for any exam get results instantly.Get your selected wrongAnswers and its correct answers.</p>
           </div>
         </div>
 
