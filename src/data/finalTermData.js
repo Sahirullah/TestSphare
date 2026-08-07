@@ -423,8 +423,7 @@ export const finalTermDataPart2 = [
     'https://drive.google.com/file/d/14VhyJ7iDsFh7XUE6xrRJ5F7FzSFX2o0G/view?usp=sharing',
     'https://drive.google.com/file/d/1Q6NLtEcl7cvhcR2Bp19xnJK3Xnx_BdXO/view?usp=sharing',
     'https://drive.google.com/file/d/114CRaF4ui925VclXxhnO1LUZFBqJ0lWk/view?usp=sharing',
-    'https://docs.google.com/document/d/1n_w3eGOJOpWw8JB-S1PQ47gdo0bkYixh/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://drive.google.com/file/d/1GMiK00S1u4MtgwDbkOP-ECq96pl9MMbC/view?usp=sharing',
+
     'https://drive.google.com/file/d/1BanEgy_qzXWst3Lf97jytt9T8hhOJdeN/view?usp=sharing',
     'https://drive.google.com/file/d/1zjCpFIBEMOXah_xnFlPBXf0VDGAsCsfx/view?usp=sharing'
   ] },
