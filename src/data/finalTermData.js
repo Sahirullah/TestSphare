@@ -386,9 +386,6 @@ export const finalTermDataPart2 = [
   { id: 68, code: 'CS410', title: 'Visual Programming', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1BX1AV9ojiKCfIseL5uoo1DdYnTWVFgl1/view?usp=sharing',
     'https://drive.google.com/file/d/1NOlVKRH-8JDTurXoUlppeDrELfcxaopo/view?usp=sharing',
-    'https://drive.google.com/file/d/1S92OOKuU6ESl511dP5w5aFAN7cZx86vq/view?usp=sharing',
-    'https://drive.google.com/file/d/1Ci3WFLLwOui0qW9f6tcFm-9Zz2TkOwU-/view?usp=sharing',
-    'https://drive.google.com/file/d/13wDS6-O3UPOPTPU44FX2dpV5_t4cbM5T/view?usp=sharing',
     'https://drive.google.com/file/d/14pNCP2zI8kjOj_nDVLwMmr_tbrgUmNii/view?usp=sharing',
     'https://drive.google.com/file/d/1mmqSDIJHWaOCdZmkf3laJYIFFLILKcQK/view?usp=sharing',
     'https://docs.google.com/document/d/1czSWuV5tto8vj39kZ0QFsGn0ioMtjx7Y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
