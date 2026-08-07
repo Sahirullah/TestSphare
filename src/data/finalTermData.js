@@ -44,8 +44,6 @@ export const finalTermData = [
     'https://docs.google.com/document/d/10NoSM5hyeOqUGqrD73t11ZzHD63VM8C9/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
   { id: 14, code: 'BIO201', title: 'Cell Biology', category: 'bio', image: '🧪' ,links:[
-    'https://drive.google.com/file/d/1qIybUdWz3jOuwBEcod7Q12bBuTOCCn6C/view?usp=sharing',
-    'https://drive.google.com/file/d/1_qUlv_bKqJ_-lmtqbZ1DRFfbJgfWgj4q/view?usp=sharing',
     'https://docs.google.com/document/d/1xCO3RVOjj6RCMm14SpQeanGUWLcNqD-E/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/file/d/1SLNrM24LyzekBLMoLNMfCjVoLSbhdNry/view?usp=sharing',
     'https://docs.google.com/document/d/1MeTZB1RawaHHzUewQ5OyQWIkXiZwPl0D/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
@@ -399,8 +397,6 @@ export const finalTermDataPart2 = [
   { id: 68, code: 'CS411', title: 'Visual Programming', category: 'cs', image: '💻',links:[
     'https://drive.google.com/file/d/1hYc90QcuHsZhnUr6i8JdaogJDBImULHn/view?usp=sharing',
     'https://drive.google.com/file/d/1QzPl9m64e3lmABxOd4iTx9zdmGu4KpoO/view?usp=sharing',
-    'https://drive.google.com/file/d/111AKH8mFPp4RknGGp3ZO2vfCVK-iRDbT/view?usp=sharing',
-    'https://drive.google.com/file/d/1Z0ZAb9J1RlI33tcj1TpsjWCvAanZfYya/view?usp=sharing',
     'https://drive.google.com/file/d/1WSGz2bSkzqvXFDPZoV65W_5Iv3jun8iD/view?usp=sharing',
     'https://drive.google.com/file/d/1VYVa-NjDacKWytYmUoVCL6kaT_i1VRyU/view?usp=sharing'
   ] },
