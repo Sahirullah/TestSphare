@@ -21,9 +21,7 @@ export default defineConfig({
             './src/data/midtermData.js',
             './src/data/finalTermData.js',
             './src/data/midtermReviewsData.js',
-            './src/data/finalTermReviewsData.js',
-            './src/data/midtermExamPracticeData.js',
-            './src/data/finalTermExamPracticeData.js'
+            './src/data/finalTermReviewsData.js'
           ],
           'components': [
             './src/components/Header.jsx',
