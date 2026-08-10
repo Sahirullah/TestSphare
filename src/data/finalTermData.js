@@ -440,7 +440,6 @@ export const finalTermDataPart2 = [
   ]},
   { id: 77, code: 'CS601', title: 'Data Communication', category: 'cs', image: '💻' ,links:[
     'https://drive.google.com/file/d/1-3QnS-qvmZ9FqVs6642AlOpR66Ju1uFJ/view?usp=sharing',
-    'https://drive.google.com/file/d/1hCQnXJNV9hyj0IHxbdmxFUuCgd24cT4t/view?usp=sharing',
     'https://drive.google.com/file/d/1KVq-vNaixJbWRffrfmUPZmOVuAJzj7U6/view?usp=sharing',
     'https://drive.google.com/file/d/1f8JOYRO9vd5Zjrw_uwL0vBeRHrxR82s1/view?usp=sharing'
   ]},
