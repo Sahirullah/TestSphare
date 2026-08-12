@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import { useTheme } from '../context/ThemeContext';
 import './Contact.css';
 
 const FAQItem = ({ id, question, answer, isOpen, onToggle }) => {
@@ -25,6 +26,7 @@ const FAQItem = ({ id, question, answer, isOpen, onToggle }) => {
 };
 
 const Contact = () => {
+  const { isDarkMode } = useTheme();
   const [expandedFaqId, setExpandedFaqId] = useState(null);
   const [formData, setFormData] = useState({
     name: '',
@@ -63,7 +65,7 @@ const Contact = () => {
   return (
     <>
       <Header />
-      <div className="contact-page">
+      <div className={`contact-page ${isDarkMode ? 'dark-mode' : ''}`}>
       {/* Hero Section */}
       <section className="contact-hero">
         <div className="hero-overlay">

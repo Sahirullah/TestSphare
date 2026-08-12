@@ -423,3 +423,47 @@
     font-size: 24px;
   }
 }
+
+
+/* Dark Mode */
+.about-page.dark-mode {
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+.dark-mode .about-hero {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+}
+
+.dark-mode .about-hero h1 {
+  color: #ffffff;
+}
+
+.dark-mode .about-hero p {
+  color: #cbd5e1;
+}
+
+.dark-mode .about-content {
+  background: #1e293b;
+}
+
+.dark-mode .about-content h2 {
+  color: #ffffff;
+}
+
+.dark-mode .about-content p {
+  color: #cbd5e1;
+}
+
+.dark-mode .team-card {
+  background: #334155;
+  border-color: #475569;
+}
+
+.dark-mode .team-card h3 {
+  color: #ffffff;
+}
+
+.dark-mode .team-card p {
+  color: #cbd5e1;
+}

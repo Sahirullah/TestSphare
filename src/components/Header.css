@@ -881,6 +881,104 @@ html {
     background: rgba(255, 255, 255, 0.5);
   }
 }
+/* Dark Mode Styles */
+.dark-mode .header {
+  background: #1e293b;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode .top-bar {
+  background: #0f172a;
+}
+
+.dark-mode .logo {
+  color: #ffffff;
+}
+
+.dark-mode .logo-subtitle {
+  color: #e2e8f0;
+}
+
+.dark-mode .contact-label {
+  color: #94a3b8;
+}
+
+.dark-mode .contact-value {
+  color: #e2e8f0;
+}
+
+.dark-mode .theme-toggle {
+  background: rgba(255, 116, 31, 0.2);
+  border-color: #FF741F;
+}
+
+.dark-mode .theme-toggle:hover {
+  background: #FF741F;
+  box-shadow: 0 4px 15px rgba(255, 116, 31, 0.4);
+}
+
+.dark-mode .main-nav {
+  background: #1e293b;
+}
+
+.dark-mode .nav-links a {
+  color: #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.dark-mode .nav-links a:hover {
+  background: rgba(255, 116, 31, 0.15);
+  color: #ffffff;
+}
+
+.dark-mode .vu-nav {
+  background: #0f172a;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode .vu-nav-links a {
+  color: #e2e8f0;
+  border-right-color: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.dark-mode .vu-nav-links a:hover {
+  background: rgba(255, 116, 31, 0.15);
+  color: #ffffff;
+}
+
+.dark-mode .vu-dropdown-toggle {
+  color: #e2e8f0;
+  border-right-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark-mode .vu-dropdown-toggle:hover {
+  background: rgba(255, 116, 31, 0.15);
+  color: #ffffff;
+}
+
+.dark-mode .vu-dropdown-menu {
+  background: #1e3a4f;
+}
+
+.dark-mode .vu-dropdown-menu a {
+  color: #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.dark-mode .vu-dropdown-menu a:hover {
+  background: rgba(255, 116, 31, 0.15);
+  color: #ffffff;
+}
+
+.dark-mode .mobile-menu-toggle span {
+  background: #e2e8f0;
+}
+
+.dark-mode .mobile-menu-toggle:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
 /* Force first submenu to show immediately when dropdown opens on mobile */
 @media (max-width: 768px) {
   /* Make sure all submenus are properly positioned and visible when active */

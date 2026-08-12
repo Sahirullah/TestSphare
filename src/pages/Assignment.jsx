@@ -1,10 +1,12 @@
 import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import { useTheme } from '../context/ThemeContext';
 import { allAssignmentData, assignmentCategories } from '../data/assignmentData';
 import './Assignment.css';
 
 const Assignment = () => {
+  const { isDarkMode } = useTheme();
   const [selectedCategory, setSelectedCategory] = useState('all');
 
   const assignments = allAssignmentData.map(item => ({
@@ -21,7 +23,7 @@ const Assignment = () => {
     : assignments.filter(a => a.category === selectedCategory);
 
   return (
-    <div className="assignment-page">
+    <div className={`assignment-page ${isDarkMode ? 'dark-mode' : ''}`}>
       <Header />
       
       <div className="assignment-hero">

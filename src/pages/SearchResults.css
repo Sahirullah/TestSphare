@@ -401,3 +401,148 @@
     font-size: 19px;
   }
 }
+
+
+/* Dark Mode Styles */
+.search-results-container.dark-mode {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+.dark-mode .search-results-header h1 {
+  color: #ffffff;
+}
+
+.dark-mode .search-query {
+  color: #e0e0e0;
+}
+
+.dark-mode .search-query strong {
+  background: rgba(255, 255, 255, 0.15);
+  color: #ffffff;
+}
+
+.dark-mode .result-count {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.dark-mode .result-item {
+  background: #2a2a3e;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+
+.dark-mode .result-item:hover {
+  box-shadow: 0 15px 45px rgba(0, 0, 0, 0.5);
+}
+
+.dark-mode .result-header {
+  background: #2a2a3e;
+}
+
+.dark-mode .result-header:hover {
+  background: linear-gradient(135deg, #333344 0%, #373355 100%);
+}
+
+.dark-mode .result-image {
+  background: linear-gradient(135deg, rgba(102, 126, 234, 0.2) 0%, rgba(118, 75, 162, 0.2) 100%);
+}
+
+.dark-mode .result-title {
+  color: #ffffff;
+}
+
+.dark-mode .result-code {
+  color: #b8a5ff;
+  background: rgba(102, 126, 234, 0.2);
+}
+
+.dark-mode .resource-type {
+  color: #a8c5ff;
+}
+
+.dark-mode .result-category {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.dark-mode .result-details {
+  background: linear-gradient(135deg, #333344 0%, #373355 100%);
+  border-top-color: rgba(102, 126, 234, 0.2);
+}
+
+.dark-mode .files-title {
+  color: #ffffff;
+}
+
+.dark-mode .file-link-btn {
+  background: #1a1a2e;
+  border-color: #667eea;
+  color: #a8c5ff;
+}
+
+.dark-mode .file-link-btn:hover {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.dark-mode .practice-info {
+  background: linear-gradient(135deg, #2d2d1f 0%, #3a3a2a 100%);
+  border-top-color: #ffb700;
+}
+
+.dark-mode .practice-title {
+  color: #ffffff;
+}
+
+.dark-mode .practice-count {
+  color: #d0d0d0;
+}
+
+.dark-mode .no-details {
+  background: linear-gradient(135deg, #333344 0%, #373355 100%);
+  color: #999999;
+}
+
+.dark-mode .no-results {
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+}
+
+.dark-mode .no-results p {
+  color: #ffffff;
+}
+
+.dark-mode .no-results-hint {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.dark-mode .search-hints span {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.2);
+  color: #e0e0e0;
+}
+
+.dark-mode .search-hints span:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.dark-mode .back-btn {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.3);
+  color: #ffffff;
+}
+
+.dark-mode .back-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.dark-mode .expand-icon {
+  color: #a8c5ff;
+}
+
+.dark-mode .file-count {
+  background: rgba(39, 174, 96, 0.2);
+  color: #4caf50;
+}
+
+.dark-mode .loading {
+  color: #ffffff;
+}

@@ -1,10 +1,12 @@
 import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
+import { useTheme } from '../context/ThemeContext';
 import { vuHandoutsData, vuCategories } from '../data/vuHandoutsData';
 import './HighlightedHandout.css';
 
 const HighlightedHandout = () => {
+  const { isDarkMode } = useTheme();
   const [selectedCategory, setSelectedCategory] = useState('all');
 
   const handouts = vuHandoutsData.map(item => ({
@@ -22,7 +24,7 @@ const HighlightedHandout = () => {
     : handouts.filter(h => h.category === selectedCategory);
 
   return (
-    <div className="highlighted-handout-page">
+    <div className={`highlighted-handout-page ${isDarkMode ? 'dark-mode' : ''}`}>
       <Header />
       
       <div className="handout-hero">

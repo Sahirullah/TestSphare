@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import { searchData } from '../utils/searchUtils';
+import { useTheme } from '../context/ThemeContext';
 import './SearchResults.css';
 
 const SearchResults = () => {
@@ -9,6 +10,7 @@ const SearchResults = () => {
   const [results, setResults] = useState([]);
   const [expandedId, setExpandedId] = useState(null);
   const [loading, setLoading] = useState(true);
+  const { isDarkMode } = useTheme();
   
   const query = searchParams.get('q') || '';
   
@@ -68,7 +70,7 @@ const SearchResults = () => {
   };
   
   return (
-    <div className="search-results-container">
+    <div className={`search-results-container ${isDarkMode ? 'dark-mode' : ''}`}>
       <div className="search-results-header">
         <button className="back-btn" onClick={handleBack}>← Back</button>
         <h1>Search Results</h1>

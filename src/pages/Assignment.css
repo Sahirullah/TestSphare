@@ -298,3 +298,83 @@
     width: 100%;
   }
 }
+
+
+/* Dark Mode Styles */
+.assignment-page.dark-mode {
+  background: #0f172a;
+  color: #e2e8f0;
+}
+
+.dark-mode .assignment-hero {
+  background: linear-gradient(135deg, #1a3a4a 0%, #0f2a38 100%);
+}
+
+.dark-mode .assignment-hero h1 {
+  color: #ffffff;
+}
+
+.dark-mode .assignment-hero p {
+  color: #e2e8f0;
+}
+
+.dark-mode .filter-btn {
+  background: #1e293b;
+  color: #e2e8f0;
+  border-color: #334155;
+}
+
+.dark-mode .filter-btn:hover {
+  background: #334155;
+  color: #ffffff;
+}
+
+.dark-mode .filter-btn.active {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
+
+.dark-mode .assignment-card {
+  background: #1e293b;
+  border-color: #334155;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.dark-mode .assignment-card:hover {
+  border-color: #667eea;
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.2);
+}
+
+.dark-mode .card-category {
+  background: rgba(102, 126, 234, 0.2);
+  color: #a8c5ff;
+}
+
+.dark-mode .card-body h3 {
+  color: #ffffff;
+}
+
+.dark-mode .card-body p {
+  color: #cbd5e1;
+}
+
+.dark-mode .feature-tag {
+  background: #334155;
+  color: #cbd5e1;
+}
+
+.dark-mode .download-btn {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.dark-mode .download-btn:hover {
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.5);
+}
+
+.dark-mode .no-results {
+  color: #cbd5e1;
+}
+
+.dark-mode .assignment-container {
+  background: #0f172a;
+}
