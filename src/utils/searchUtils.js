@@ -1,25 +1,50 @@
-import { assignmentData, assignmentDataClass10 } from '../data/assignmentData';
-import { midtermData } from '../data/midtermData';
-import { finalTermData } from '../data/finalTermData';
-import { quizzesData } from '../data/quizzesData';
+import { assignmentData, assignmentDataClass10, allAssignmentData } from '../data/assignmentData';
+import { midtermData, allMidtermData } from '../data/midtermData';
+import { finalTermData, allFinalTermData } from '../data/finalTermData';
+import { quizzesData, allQuizzesData } from '../data/quizzesData';
 import { vuHandoutsData } from '../data/vuHandoutsData';
+import { examPracticeData } from '../data/examPracticeData';
 
-// Combine all searchable data
+// Combine all searchable data from all sources
 export const getAllSearchableData = () => {
-  try {
-    const allData = [
-      ...(assignmentData || []),
-      ...(assignmentDataClass10 || []),
-      ...(midtermData || []),
-      ...(finalTermData || []),
-      ...(quizzesData || []),
-      ...(vuHandoutsData || []),
-    ];
-    return allData;
-  } catch (error) {
-    console.error('Error loading search data:', error);
-    return [];
+  const allData = [];
+  
+  // Add assignment data (use allAssignmentData if available)
+  if (allAssignmentData) {
+    allData.push(...allAssignmentData);
+  } else if (assignmentData) {
+    allData.push(...assignmentData);
+    if (assignmentDataClass10) allData.push(...assignmentDataClass10);
   }
+  
+  // Add midterm data (use allMidtermData if available)
+  if (allMidtermData) {
+    allData.push(...allMidtermData);
+  } else if (midtermData) {
+    allData.push(...midtermData);
+  }
+  
+  // Add final term data (use allFinalTermData if available)
+  if (allFinalTermData) {
+    allData.push(...allFinalTermData);
+  } else if (finalTermData) {
+    allData.push(...finalTermData);
+  }
+  
+  // Add quizzes data (use allQuizzesData if available)
+  if (allQuizzesData) {
+    allData.push(...allQuizzesData);
+  } else if (quizzesData) {
+    allData.push(...quizzesData);
+  }
+  
+  // Add exam practice data
+  if (examPracticeData) allData.push(...examPracticeData);
+  
+  // Add VU handouts data
+  if (vuHandoutsData) allData.push(...vuHandoutsData);
+  
+  return allData;
 };
 
 // Search function - case insensitive partial matching
@@ -29,6 +54,11 @@ export const searchData = (query) => {
   const searchTerm = query.toLowerCase().trim();
   const allData = getAllSearchableData();
   
+  if (!allData || allData.length === 0) {
+    console.warn('No data available to search');
+    return [];
+  }
+  
   const results = allData.filter(item => {
     if (!item) return false;
     
@@ -37,23 +67,27 @@ export const searchData = (query) => {
     const category = (item.category || '').toLowerCase();
     const subject = (item.subject || '').toLowerCase();
     const type = (item.type || '').toLowerCase();
-    const className = (item.class || '').toLowerCase();
     
     return (
       title.includes(searchTerm) ||
       code.includes(searchTerm) ||
       category.includes(searchTerm) ||
       subject.includes(searchTerm) ||
-      type.includes(searchTerm) ||
-      className.includes(searchTerm)
+      type.includes(searchTerm)
     );
   });
-
-  // Remove duplicates based on id
+  
+  // Remove duplicates based on code + title combination to avoid exact duplicates
   const seen = new Set();
-  return results.filter(item => {
-    if (seen.has(item.id)) return false;
-    seen.add(item.id);
-    return true;
-  });
+  const uniqueResults = [];
+  
+  for (const item of results) {
+    const key = `${item.code}-${item.title}`;
+    if (!seen.has(key)) {
+      seen.add(key);
+      uniqueResults.push(item);
+    }
+  }
+  
+  return uniqueResults;
 };
