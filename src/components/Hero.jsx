@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 // Using card images from assets folder
 import card1 from '../assets/card1.js';
 import card2 from '../assets/card2.js';
@@ -6,6 +7,22 @@ import card3 from '../assets/card3.js';
 import './Hero.css';
 
 const Hero = () => {
+  const [searchQuery, setSearchQuery] = useState('');
+  const navigate = useNavigate();
+
+  const handleSearch = (e) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      navigate(`/search?q=${encodeURIComponent(searchQuery)}`);
+    }
+  };
+
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter') {
+      handleSearch(e);
+    }
+  };
+
   return (
     <section className="hero">
       <div className="hero-container">
@@ -22,8 +39,11 @@ const Hero = () => {
               type="text" 
               placeholder="Search for handouts, assignments, past papers..."
               className="search-input"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              onKeyPress={handleKeyPress}
             />
-            <button className="search-btn">Search</button>
+            <button className="search-btn" onClick={handleSearch}>Search</button>
           </div>
           <div className="hero-stats">
             <div className="stat">

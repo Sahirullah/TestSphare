@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { lazy, Suspense } from 'react'
 import { ThemeProvider } from './context/ThemeContext'
 import Home from './pages/Home'
+import SearchResults from './pages/SearchResults'
 
 // Lazy load pages for better performance
 const About = lazy(() => import('./pages/About'))
@@ -29,6 +30,7 @@ function App() {
           <Suspense fallback={<LoadingFallback />}>
             <Routes>
               <Route path="/" element={<Home />} />
+              <Route path="/search" element={<SearchResults />} />
               <Route path="/about" element={<About />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/vu-handout" element={<VUHandout />} />
