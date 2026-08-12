@@ -77,17 +77,10 @@ export const searchData = (query) => {
     );
   });
   
-  // Remove duplicates based on code + title combination to avoid exact duplicates
-  const seen = new Set();
-  const uniqueResults = [];
+  // Sort results to prioritize those with links/files
+  const resultsWithFiles = results.filter(item => item.link || item.links);
+  const resultsWithQuestions = results.filter(item => item.questions && !(item.link || item.links));
+  const resultsWithoutFiles = results.filter(item => !item.link && !item.links && !item.questions);
   
-  for (const item of results) {
-    const key = `${item.code}-${item.title}`;
-    if (!seen.has(key)) {
-      seen.add(key);
-      uniqueResults.push(item);
-    }
-  }
-  
-  return uniqueResults;
+  return [...resultsWithFiles, ...resultsWithQuestions, ...resultsWithoutFiles];
 };
