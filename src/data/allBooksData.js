@@ -84,7 +84,12 @@ export const allBooksData = [
   { id: 49, code: 'CHE301', title: 'Transition Elements Notes', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1iwLeqz1z8bWjsthY0y9vK_2ApjhvfvzI/view?usp=sharing'},
   { id: 49, code: 'CHE301', title: 'Acidic Strength of carb.acids ', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1m8OTc4J9ad5xo2bKZyRk4KZDkWrP6MLs/view?usp=sharing'},
   { id: 49, code: 'CHE301', title: 'Chemistry shortlisting 1st year for final revision', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1hq568vVwR6trF-GJ_JcEQ0bYBAauYptV/view?usp=sharing'},
-  { id: 49, code: 'CHE301', title: '', category: 'che', image: '⚗️' ,link:''},
+  { id: 49, code: 'CHE301', title: 'Organic Chemistry Notes', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1l4ycHLQaHFNf6XeUEMKBX31jeKPnX55w/view?usp=sharing'},
+  { id: 49, code: 'CHE301', title: 'Fundamentals concepts new', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1sNOua81kU0d5LxnzbRvdJiyJM6PcKHKS/view?usp=sharing'},
+  { id: 49, code: 'CHE301', title: 'Fundamentals concepts', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1Rl5j2hx6nCeh7AKw4-0uIbRpgB7MPJzH/view?usp=sharing'},
+  { id: 49, code: 'CHE301', title: 'Chemical Equilibrium', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1YmanonMJtEJmXe-dxO_qSMIxeXId1nTj/view?usp=sharing'},
+  { id: 49, code: 'CHE301', title: 'Chemical Equilibrium new', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1JGxXc3HIlu8DRQSlTt-5VLj0ir5r-7Hq/view?usp=sharing'},
+
   
   // CS - Computer Science
   { id: 50, code: 'CS001', title: 'Computer Proficiency License', category: 'cs', image: '💻',link:'https://drive.google.com/file/d/15ZjdJ5uB6JiJTgu0xBiD5TJvloL174cJ/view?usp=drive_link' },
