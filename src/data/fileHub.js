@@ -35,9 +35,15 @@ export const finalTermData = [
   { id: 11, code: 'BIF733', title: 'Bioinformatics', category: 'bif', image: '🧬' ,links:''},
 
   // BIO - Biology
-  { id: 12, code: 'BIO101', title: 'Basic Biology I', category: 'bio', image: '🧪' ,links:[
-    'https://docs.google.com/document/d/13deeCeqg1zaQPchMP7PUtDvYp6Gu4uxY/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/1kaAJyeNAyD6HvRBIQMZZ0HaWKdIKM53y/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  { id: 12, code: 'BIO101', title: 'Biology chp1 to chp8', category: 'bio', image: '🧪' ,links:[
+    'https://drive.google.com/file/d/1-t6SwkfkLeNcIjGfOPAMwYl-NfamtXln/view?usp=sharing',
+    'https://drive.google.com/file/d/1V5sttbsmPZ-m5eEYTxBUXNQZkcTlRXTE/view?usp=sharing',
+    'https://drive.google.com/file/d/18M0wvWPryTLtmFOdYgWbLMG_uUwYCGZA/view?usp=sharing',
+    'https://drive.google.com/file/d/1UdVRSw6zcWrbYMOuJDw-8fDrYXchuz_Q/view?usp=sharing',
+    'https://drive.google.com/file/d/15HMJU0wRvnDmbOh_px6a6fe9l3Tnjhy0/view?usp=sharing',
+    'https://drive.google.com/file/d/1ts_6hv4JVh4U2_WimAdKD05CA4r5WuYZ/view?usp=sharing',
+    'https://drive.google.com/file/d/1OWtHX7SIB5QBlzKAGsh75uBtQH0nKDCJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1MprySxsw9F8_UU9rRgES9lmELlDrgjKG/view?usp=sharing'
   ]},
   { id: 13, code: 'BIO102', title: 'Basic Biology II', category: 'bio', image: '🧪' ,links:[
     'https://docs.google.com/document/d/1IMpeUzLHiEbrMoZyWcSCXvQBcIUK-sN2/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
