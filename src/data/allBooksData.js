@@ -81,6 +81,7 @@ export const allBooksData = [
   { id: 49, code: 'CHE301', title: 'Periods Notes Extensive', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1lbDXxdGEvbvQ2regA5LyGzaPkIFXYrF2/view?usp=sharing'},
   { id: 49, code: 'CHE301', title: 'Groups Notes', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1IhBkECoe4ako0Nv_KCdvwdMG-E1jfxlZ/view?usp=sharing'},
   { id: 49, code: 'CHE301', title: 'Compounds of N and S', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1c0oJcWkef5chAWgI9RNq-3BGYEZCwlZL/view?usp=sharing'},
+  { id: 49, code: 'CHE301', title: 'S and P Block Elements Revision', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1BIVJ883G3ZdnUtz99A_QX3kRrqvMlgM5/view?usp=sharing'},
   { id: 49, code: 'CHE301', title: 'Transition Elements Notes', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1iwLeqz1z8bWjsthY0y9vK_2ApjhvfvzI/view?usp=sharing'},
   { id: 49, code: 'CHE301', title: 'Acidic Strength of carb.acids ', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1m8OTc4J9ad5xo2bKZyRk4KZDkWrP6MLs/view?usp=sharing'},
   { id: 49, code: 'CHE301', title: 'Chemistry shortlisting 1st year for final revision', category: 'che', image: '⚗️' ,link:'https://drive.google.com/file/d/1hq568vVwR6trF-GJ_JcEQ0bYBAauYptV/view?usp=sharing'},
