@@ -228,21 +228,22 @@
 }
 
 .download-btn {
-  background: linear-gradient(135deg, #5b4fb8 0%, #7c5cdb 100%);
-  color: white;
-  border: none;
-  padding: 12px 20px;
-  border-radius: 8px;
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  padding: 12px 14px;
+  border-radius: 20px;
   cursor: pointer;
   font-size: 14px;
   font-weight: 600;
   transition: all 0.3s ease;
-  width: 100%;
+  width: auto;
 }
 
 .download-btn:hover {
+  background: rgba(255, 152, 0, 0.15);
   transform: scale(1.02);
-  box-shadow: 0 4px 12px rgba(91, 79, 184, 0.3);
+  box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
 }
 
 .download-btn:active {

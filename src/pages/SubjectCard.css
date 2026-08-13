@@ -103,34 +103,23 @@
   border: 2px solid #ff9800;
   background: transparent;
   color: #ff9800;
-  min-height: 32px;
+  height: 32px;
   white-space: nowrap;
-}
-
-.download-btn {
   cursor: pointer;
+  line-height: 1;
+  margin: 0;
+  font-family: inherit;
+  box-sizing: border-box;
 }
 
-.download-btn:hover {
+.download-btn:hover,
+.coming-soon:hover {
   background: rgba(255, 152, 0, 0.15);
   transform: scale(1.05);
   box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
 }
 
-.download-btn:active {
-  transform: scale(0.98);
-}
-
-.coming-soon {
-  cursor: pointer;
-  opacity: 0.8;
-}
-
-.coming-soon:hover {
-  background: rgba(255, 152, 0, 0.1);
-  opacity: 1;
-}
-
+.download-btn:active,
 .coming-soon:active {
   transform: scale(0.98);
 }
@@ -170,6 +159,7 @@
   .coming-soon {
     padding: 8px 12px;
     font-size: 11px;
+    height: 28px;
   }
 }
 
@@ -202,5 +192,6 @@
   .coming-soon {
     padding: 6px 10px;
     font-size: 10px;
+    height: 24px;
   }
 }

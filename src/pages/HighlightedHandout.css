@@ -195,11 +195,11 @@
 }
 
 .download-btn {
-  background: linear-gradient(135deg, #ffd700 0%, #ffed4e 100%);
-  color: #333;
-  border: none;
-  padding: 12px 20px;
-  border-radius: 6px;
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  padding: 12px 14px;
+  border-radius: 20px;
   font-weight: 700;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -210,8 +210,9 @@
 }
 
 .download-btn:hover:not(:disabled) {
+  background: rgba(255, 152, 0, 0.15);
   transform: scale(1.05);
-  box-shadow: 0 6px 20px rgba(255, 215, 0, 0.4);
+  box-shadow: 0 6px 20px rgba(255, 152, 0, 0.3);
 }
 
 .download-btn:disabled {

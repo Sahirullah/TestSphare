@@ -221,11 +221,11 @@
 }
 
 .download-btn {
-  padding: 10px 16px;
-  background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
-  color: white;
-  border: none;
-  border-radius: 8px;
+  padding: 10px 14px;
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  border-radius: 20px;
   cursor: pointer;
   font-size: 13px;
   font-weight: 700;
@@ -236,8 +236,9 @@
 }
 
 .download-btn:hover {
+  background: rgba(255, 152, 0, 0.15);
   transform: scale(1.05);
-  box-shadow: 0 8px 20px rgba(243, 156, 18, 0.4);
+  box-shadow: 0 4px 12px rgba(255, 152, 0, 0.3);
 }
 
 .download-btn:active {

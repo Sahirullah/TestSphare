@@ -218,11 +218,11 @@
 }
 
 .download-btn {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 8px;
+  border: 2px solid #ff9800;
+  background: transparent;
+  color: #ff9800;
+  padding: 10px 14px;
+  border-radius: 20px;
   cursor: pointer;
   font-size: 14px;
   font-weight: 600;
@@ -231,7 +231,7 @@
 
 .download-btn:hover {
   transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(118, 75, 162, 0.4);
+  box-shadow: 0 4px 12px rgba(255, 152, 0, 0.4);
 }
 
 .no-results {
