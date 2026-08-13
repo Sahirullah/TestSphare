@@ -35,6 +35,7 @@ export const finalTermData = [
   { id: 11, code: 'BIF733', title: 'Bioinformatics', category: 'bif', image: '🧬' ,links:''},
 
   // BIO - Biology
+  //Biology chp1 to chp8
   { id: 12, code: 'BIO101', title: 'Biology chp1 to chp8', category: 'bio', image: '🧪' ,links:[
     'https://drive.google.com/file/d/1-t6SwkfkLeNcIjGfOPAMwYl-NfamtXln/view?usp=sharing',
     'https://drive.google.com/file/d/1V5sttbsmPZ-m5eEYTxBUXNQZkcTlRXTE/view?usp=sharing',
@@ -45,8 +46,8 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1OWtHX7SIB5QBlzKAGsh75uBtQH0nKDCJ/view?usp=sharing',
     'https://drive.google.com/file/d/1MprySxsw9F8_UU9rRgES9lmELlDrgjKG/view?usp=sharing'
   ]},
+  //Biology chp9 to chp13
   { id: 13, code: 'BIO102', title: 'Biology chp9 to chp13', category: 'bio', image: '🧪' ,links:[
-
     'https://drive.google.com/file/d/1Pt5YPVMl2Dru5zANk4-rdQXuSeYBmmQp/view?usp=sharing',
     'https://drive.google.com/file/d/1_UVwI9mnj-Vk4UR1DRuwSmgc0LOtByZs/view?usp=sharing',
     'https://drive.google.com/file/d/143LjV3udNk0nDipgmJTNEK-w0cXP6yMJ/view?usp=sharing',
