@@ -25,7 +25,7 @@ const FileHub = () => {
       <div className="exam-hero">
         <div className="hero-content">
           <div className="hero-icon">📝</div>
-          <h1>Final Term Files & Past Papers</h1>
+          <h1>Files Hub</h1>
           <p>Download authentic VU final term exam papers</p>
         </div>
       </div>
