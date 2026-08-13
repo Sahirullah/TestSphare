@@ -1,16 +1,16 @@
 import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { allFinalTermData, finalTermCategories } from '../data/finalTermData';
+import { finalTermData, finalTermCategories } from '../data/fileHub';
 import { useTheme } from '../context/ThemeContext';
 import SubjectCard from './SubjectCard';
 import './ExamPractice.css';
 
-const FinalTermPastPapers = () => {
+const FileHub = () => {
   const { isDarkMode } = useTheme();
   const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const exams = allFinalTermData.map(item => ({
+  const exams = finalTermData.map(item => ({
     ...item
   })).sort((a, b) => a.code.localeCompare(b.code));
 
@@ -64,4 +64,4 @@ const FinalTermPastPapers = () => {
   );
 };
 
-export default FinalTermPastPapers;
+export default FileHub;

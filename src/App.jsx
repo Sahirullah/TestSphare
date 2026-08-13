@@ -10,7 +10,7 @@ const About = lazy(() => import('./pages/About'))
 const Contact = lazy(() => import('./pages/Contact'))
 const AllBooks = lazy(() => import('./pages/AllBooks'))
 const PastPapers = lazy(() => import('./pages/PastPapers'))
-const FinalTermPastPapers = lazy(() => import('./pages/FinalTermPastPapers'))
+const FileHub = lazy(() => import('./pages/FileHub'))
 const Quizzes = lazy(() => import('./pages/Quizzes'))
 const Assignment = lazy(() => import('./pages/Assignment'))
 const MidtermReviews = lazy(() => import('./pages/MidtermReviews'))
@@ -36,7 +36,7 @@ function App() {
               <Route path="/vu-handout" element={<AllBooks />} />
               <Route path="/highlighted-handout" element={<HighlightedHandout />} />
               <Route path="/midterm" element={<PastPapers />} />
-              <Route path="/final-term" element={<FinalTermPastPapers />} />
+              <Route path="/final-term" element={<FileHub />} />
               <Route path="/quizzes" element={<Quizzes />} />
               <Route path="/assignment" element={<Assignment />} />
               <Route path="/midterm-reviews" element={<MidtermReviews />} />

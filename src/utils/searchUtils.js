@@ -1,6 +1,6 @@
 import { assignmentData, assignmentDataClass10, allAssignmentData } from '../data/assignmentData';
 import { midtermData, allMidtermData } from '../data/midtermData';
-import { finalTermData, allFinalTermData } from '../data/finalTermData';
+import { finalTermData, allFinalTermData } from '../data/fileHub';
 import { quizzesData, allQuizzesData } from '../data/quizzesData';
 import { allBooksData } from '../data/allBooksData';
 import { examPracticeData } from '../data/examPracticeData';
