@@ -2,14 +2,14 @@ import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { useTheme } from '../context/ThemeContext';
-import { vuHandoutsData, vuCategories } from '../data/vuHandoutsData';
+import { allBooksData, allBooksCategories } from '../data/allBooksData';
 import './HighlightedHandout.css';
 
 const HighlightedHandout = () => {
   const { isDarkMode } = useTheme();
   const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const handouts = vuHandoutsData.map(item => ({
+  const handouts = allBooksData.map(item => ({
     ...item,
     description: `Highlighted and annotated VU handouts for ${item.title} (${item.code}) in PDF Format. Key points emphasized for better understanding.`,
     status: 'Highlighted Notes',
@@ -17,7 +17,7 @@ const HighlightedHandout = () => {
     isHighlighted: true
   })).sort((a, b) => a.code.localeCompare(b.code));
 
-  const categories = vuCategories;
+  const categories = allBooksCategories;
 
   const filteredHandouts = selectedCategory === 'all' 
     ? handouts 

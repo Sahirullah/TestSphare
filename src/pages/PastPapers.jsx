@@ -1,16 +1,16 @@
 import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { allFinalTermData, finalTermCategories } from '../data/finalTermData';
+import { allMidtermData, midtermCategories } from '../data/midtermData';
 import { useTheme } from '../context/ThemeContext';
 import SubjectCard from './SubjectCard';
 import './ExamPractice.css';
 
-const FinalTermFiles = () => {
+const PastPapers = () => {
   const { isDarkMode } = useTheme();
   const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const exams = allFinalTermData.map(item => ({
+  const exams = allMidtermData.map(item => ({
     ...item
   })).sort((a, b) => a.code.localeCompare(b.code));
 
@@ -25,8 +25,8 @@ const FinalTermFiles = () => {
       <div className="exam-hero">
         <div className="hero-content">
           <div className="hero-icon">📝</div>
-          <h1>Final Term Files & Past Papers</h1>
-          <p>Download authentic VU final term exam papers</p>
+          <h1>Midterm Files & Past Papers</h1>
+          <p>Download authentic VU midterm exam papers</p>
         </div>
       </div>
 
@@ -34,7 +34,7 @@ const FinalTermFiles = () => {
         <div className="category-filter">
           <h2>Select Category</h2>
           <div className="filter-buttons">
-            {finalTermCategories.map(cat => (
+            {midtermCategories.map(cat => (
               <button
                 key={cat.id}
                 className={`filter-btn ${selectedCategory === cat.id ? 'active' : ''}`}
@@ -64,4 +64,4 @@ const FinalTermFiles = () => {
   );
 };
 
-export default FinalTermFiles;
+export default PastPapers;

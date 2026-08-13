@@ -1,20 +1,20 @@
 import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { vuHandoutsData, vuCategories } from '../data/vuHandoutsData';
-import './VUHandout.css';
+import { allBooksData, allBooksCategories } from '../data/allBooksData';
+import './AllBooks.css';
 
-const VUHandout = () => {
+const AllBooks = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const handouts = vuHandoutsData.map(item => ({
+  const handouts = allBooksData.map(item => ({
     ...item,
     description: `Download complete VU updated handouts for ${item.title} (${item.code}) in PDF Format.`,
     status: 'Updated Handouts',
     hasLecture: true
   })).sort((a, b) => a.code.localeCompare(b.code));
 
-  const categories = vuCategories;
+  const categories = allBooksCategories;
 
   const filteredHandouts = selectedCategory === 'all' 
     ? handouts 
@@ -96,4 +96,4 @@ const VUHandout = () => {
   );
 };
 
-export default VUHandout;
+export default AllBooks;

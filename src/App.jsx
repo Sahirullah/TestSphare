@@ -8,9 +8,9 @@ import SearchResults from './pages/SearchResults'
 // Lazy load pages for better performance
 const About = lazy(() => import('./pages/About'))
 const Contact = lazy(() => import('./pages/Contact'))
-const VUHandout = lazy(() => import('./pages/VUHandout'))
-const MidtermFiles = lazy(() => import('./pages/MidtermFiles'))
-const FinalTermFiles = lazy(() => import('./pages/FinalTermFiles'))
+const AllBooks = lazy(() => import('./pages/AllBooks'))
+const PastPapers = lazy(() => import('./pages/PastPapers'))
+const FinalTermPastPapers = lazy(() => import('./pages/FinalTermPastPapers'))
 const Quizzes = lazy(() => import('./pages/Quizzes'))
 const Assignment = lazy(() => import('./pages/Assignment'))
 const MidtermReviews = lazy(() => import('./pages/MidtermReviews'))
@@ -33,10 +33,10 @@ function App() {
               <Route path="/search" element={<SearchResults />} />
               <Route path="/about" element={<About />} />
               <Route path="/contact" element={<Contact />} />
-              <Route path="/vu-handout" element={<VUHandout />} />
+              <Route path="/vu-handout" element={<AllBooks />} />
               <Route path="/highlighted-handout" element={<HighlightedHandout />} />
-              <Route path="/midterm" element={<MidtermFiles />} />
-              <Route path="/final-term" element={<FinalTermFiles />} />
+              <Route path="/midterm" element={<PastPapers />} />
+              <Route path="/final-term" element={<FinalTermPastPapers />} />
               <Route path="/quizzes" element={<Quizzes />} />
               <Route path="/assignment" element={<Assignment />} />
               <Route path="/midterm-reviews" element={<MidtermReviews />} />

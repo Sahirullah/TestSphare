@@ -1,4 +1,4 @@
-export const vuHandoutsData = [
+export const allBooksData = [
   // ACC - Accounting
   { id: 1, code: 'ACC311', title: 'Fundamentals of Auditing', category: 'acc', image: '📘', link: 'https://drive.google.com/file/d/1-F4uxF6-5XxWmq9CN2ZlpZmoqbBJjOGM/view?usp=drive_link' },
   { id: 2, code: 'ACC501', title: 'Business Finance', category: 'acc', image: '📘' , link: 'https://drive.google.com/file/d/1sTazPUBbOaXspt2MjEFV1cSAbyKg6O1H/view?usp=drive_link'},
@@ -298,7 +298,7 @@ export const vuHandoutsData = [
   { id: 238, code: 'ZOO512', title: 'Animal Diversity: Invertebrates', category: 'zoo', image: '🐾' },
 ];
 
-export const vuCategories = [
+export const allBooksCategories = [
   { id: 'all', name: 'All Courses' },
   { id: 'acc', name: 'ACC - Accounting' },
   { id: 'bif', name: 'BIF - Bioinformatics' },

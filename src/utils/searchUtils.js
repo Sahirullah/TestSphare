@@ -2,7 +2,7 @@ import { assignmentData, assignmentDataClass10, allAssignmentData } from '../dat
 import { midtermData, allMidtermData } from '../data/midtermData';
 import { finalTermData, allFinalTermData } from '../data/finalTermData';
 import { quizzesData, allQuizzesData } from '../data/quizzesData';
-import { vuHandoutsData } from '../data/vuHandoutsData';
+import { allBooksData } from '../data/allBooksData';
 import { examPracticeData } from '../data/examPracticeData';
 
 // Combine all searchable data from all sources
@@ -41,8 +41,8 @@ export const getAllSearchableData = () => {
   // Add exam practice data
   if (examPracticeData) allData.push(...examPracticeData);
   
-  // Add VU handouts data
-  if (vuHandoutsData) allData.push(...vuHandoutsData);
+  // Add All Books data
+  if (allBooksData) allData.push(...allBooksData);
   
   return allData;
 };
