@@ -45,9 +45,13 @@ export const finalTermData = [
     'https://drive.google.com/file/d/1OWtHX7SIB5QBlzKAGsh75uBtQH0nKDCJ/view?usp=sharing',
     'https://drive.google.com/file/d/1MprySxsw9F8_UU9rRgES9lmELlDrgjKG/view?usp=sharing'
   ]},
-  { id: 13, code: 'BIO102', title: 'Basic Biology II', category: 'bio', image: '🧪' ,links:[
-    'https://docs.google.com/document/d/1IMpeUzLHiEbrMoZyWcSCXvQBcIUK-sN2/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
-    'https://docs.google.com/document/d/10NoSM5hyeOqUGqrD73t11ZzHD63VM8C9/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
+  { id: 13, code: 'BIO102', title: 'Biology chp9 to chp13', category: 'bio', image: '🧪' ,links:[
+
+    'https://drive.google.com/file/d/1Pt5YPVMl2Dru5zANk4-rdQXuSeYBmmQp/view?usp=sharing',
+    'https://drive.google.com/file/d/1_UVwI9mnj-Vk4UR1DRuwSmgc0LOtByZs/view?usp=sharing',
+    'https://drive.google.com/file/d/143LjV3udNk0nDipgmJTNEK-w0cXP6yMJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1FC6bt9I7VZJvF3SZsQRjlrN7cjEiyKAy/view?usp=sharing',
+    'https://drive.google.com/file/d/1W7JC2dgsHJ4e_rGtG7zm5t7x2xwDdYxP/view?usp=sharing'
   ]},
   { id: 14, code: 'BIO201', title: 'Cell Biology', category: 'bio', image: '🧪' ,links:[
     'https://docs.google.com/document/d/1xCO3RVOjj6RCMm14SpQeanGUWLcNqD-E/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
