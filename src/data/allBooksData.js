@@ -289,7 +289,9 @@ export const allBooksData = [
   { id: 193, code: 'PHY301', title: 'Light Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1AjfkFG51x12DKZmr5YYjjftjc3N8wCs7/view?usp=sharing' },
   { id: 193, code: 'PHY301', title: 'Nuclear Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing' },
   { id: 193, code: 'PHY301', title: 'Physics shortlist for NMDCAT', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1--xbso7q4k31s0UTExoGDzXcydzNnIC0/view?usp=sharing' },
-  { id: 193, code: 'PHY301', title: 'Circuit Theory', category: 'phy', image: '⚛️', link:'' },
+  { id: 193, code: 'PHY301', title: 'Electronic Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1EXp-Mu-H6JUwWJ_F_nPE555cqeoa7RH4/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'Heat and thermodynamic Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1g9AAhl0aFq7GwROUR6TH9srXoxG3zuqf/view?usp=sharing' },
+
   
   // PSC - Political Science
   { id: 194, code: 'PSC201', title: 'Political Science Course', category: 'psc', image: '🗳️' },
