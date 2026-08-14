@@ -167,6 +167,16 @@ export const allBooksData = [
   { id: 115, code: 'ENG001', title: 'English Course', category: 'eng', image: '📚' ,link:''},
   { id: 116, code: 'ENG101', title: 'English Course', category: 'eng', image: '📚' ,link:''},
   { id: 117, code: 'ENG201', title: 'English Course', category: 'eng', image: '📚' ,link:''},
+  //My Drive Notes
+  { id: 117, code: 'ENG201', title: 'English Idioms', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/12s_o0RhJGS_2XQPOiFOIEvcUhTXzrc1E/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'English Idioms 01', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/1FgOqKm7HHf98ie-ybp8Tr8YExtUcDT5_/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'English Idioms 02', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/1py5k7Jyzn_IJ2htHFwWfdLVNKk-YECo_/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'English Idioms NOA', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/1pKPkCCy9uzFCFbrI5b_tSPHiYEvBk5JZ/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'English Most repeated Idioms', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/1xXlz99jzgxVLlueBJUQfIVOLBu3vQXZ5/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'Grammar 3 Articles, preposition and punctuation', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/10J89zlfmbpSUSOBZqYxPiizNbapD6i8R/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'English grammar spilling and punctuation', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/1QdvZv_nnXbmzoVi8KlUbXByfMBbgSP-5/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'English tenses', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/1UDjJ_eimGLxiU5qE6uT7LiF9-brHnSGd/view?usp=sharing'},
+  { id: 117, code: 'ENG201', title: 'The 20 Rules of Subject Verb Agreement in Standard English.pdf', category: 'eng', image: '📚' ,link:'https://drive.google.com/file/d/1wWy-JCeNYq189F25a7JY8LYLx6UI6F7X/view?usp=sharing'},
   
   // ETH - Ethics
   { id: 118, code: 'ETH201', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠',link:'' },
