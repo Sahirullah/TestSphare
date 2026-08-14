@@ -281,6 +281,15 @@ export const allBooksData = [
   // PHY - Physics
   { id: 192, code: 'PHY101', title: 'Physics', category: 'phy', image: '⚛️' },
   { id: 193, code: 'PHY301', title: 'Circuit Theory', category: 'phy', image: '⚛️' },
+  //My Drive Notes
+  { id: 193, code: 'PHY301', title: 'First year MDCAT physics', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1mVlZfqbKM1IBMJoKsAuw3VAaCUiuQyOk/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'Physics_Notes_Part_1 by NMDCAT 2020 TEAM.pdf', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/15Doqp7MWvQPLSgFqOJyK15KViMy58KWW/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'Oscillation Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1WP-SdMJIIabQAG3gMVsFm1k0Z07QIqQw/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'wave Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1cLzVvvJ0OtHoPF73Ee1otAf0SPLKILAH/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'Light Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1AjfkFG51x12DKZmr5YYjjftjc3N8wCs7/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'Nuclear Notes', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'Physics shortlist for NMDCAT', category: 'phy', image: '⚛️', link:'https://drive.google.com/file/d/1--xbso7q4k31s0UTExoGDzXcydzNnIC0/view?usp=sharing' },
+  { id: 193, code: 'PHY301', title: 'Circuit Theory', category: 'phy', image: '⚛️', link:'' },
   
   // PSC - Political Science
   { id: 194, code: 'PSC201', title: 'Political Science Course', category: 'psc', image: '🗳️' },

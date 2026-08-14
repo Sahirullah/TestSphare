@@ -1311,18 +1311,30 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/file/d/1SqkSfwbEz6SmykkXQzFFVXp624P3hs0Z/view?usp=sharing',
     'https://drive.google.com/file/d/1RaKzLPnBj96_i5gTEn62ATTB-w1X_sC-/view?usp=sharing'
   ] },
-  { id: 193, code: 'PHY301', title: 'Circuit Theory', category: 'phy', image: '⚛️',links:[
-    'https://drive.google.com/file/d/1QUaf_41b5hFVzZqA4jtsWT3vbe5GJtIg/view?usp=sharing',
-    'https://drive.google.com/file/d/1C0nL-rMc28TVQ34O4twkBSrKPUkUNJFw/view?usp=sharing',
-    'https://drive.google.com/file/d/1Yi32KkaZ2HMqZ5wZAFe5PTPc5F4qHTt9/view?usp=sharing',
-    'https://drive.google.com/file/d/1uS_FImxaolgkzF45a-PctXh7RX-3gqrq/view?usp=sharing',
-    'https://drive.google.com/file/d/1PkpN8Ci7C8iPMFJ368xtPDRgVpRHmbZr/view?usp=sharing',
-    'https://drive.google.com/file/d/1T7GEGB4BKIFF57iXbX2ijNiyUiOzLXD-/view?usp=sharing',
-    'https://drive.google.com/file/d/1xijIGpLiyzk1AnI1pyP-okvGBZbsQ8es/view?usp=sharing',
-    'https://drive.google.com/file/d/1t74g8E_p0Xg1AlCZO2Oeh4iMxwYAHOgJ/view?usp=sharing',
-    'https://drive.google.com/file/d/1d6TdT4qvC3GQ6AhiMxw6qZ7nuDF6D7Ib/view?usp=sharing'
+
+  // physics Chp01 to Chp08
+  { id: 193, code: 'PHY301', title: 'physics Chp01 to Chp08', category: 'phy', image: '⚛️',links:[
+     'https://drive.google.com/file/d/1mVlZfqbKM1IBMJoKsAuw3VAaCUiuQyOk/view?usp=sharing',
+     'https://drive.google.com/file/d/1BgHRZOoswmHPO1y6IOyHHe9RxYNrmNSJ/view?usp=sharing',
+     'https://drive.google.com/file/d/12LeOKxyfq8kSizewRWsnXkSsB8Wm6YOe/view?usp=sharing',
+     'https://drive.google.com/file/d/1WP-SdMJIIabQAG3gMVsFm1k0Z07QIqQw/view?usp=sharing',
+     'https://drive.google.com/file/d/1Js9SeSgynFIaVFvBXK2PRgwHqOE_t7Dd/view?usp=sharing',
+     'https://drive.google.com/file/d/1_C4QPd6NtxsMoU0dTJtCuBre6tw5buG3/view?usp=sharing',
+     'https://drive.google.com/file/d/1aI_xBY5NIfSPM18_1kBHJXJlxHLY_o4Y/view?usp=sharing',
+     'https://drive.google.com/file/d/1g9AAhl0aFq7GwROUR6TH9srXoxG3zuqf/view?usp=sharing'
   ] },
-  
+// physics Chp09 to Chp16
+ { id: 193, code: 'PHY301', title: 'physics Chp01 to Chp08', category: 'phy', image: '⚛️',links:[
+      'https://drive.google.com/file/d/1EXp-Mu-H6JUwWJ_F_nPE555cqeoa7RH4/view?usp=sharing',
+      'https://drive.google.com/file/d/1K3WBeugEU72SgyjfKytr7l1PXxEErQtr/view?usp=sharing',
+      'https://drive.google.com/file/d/1LRNIXmW7CF5iS_p8ykXNMbRJ4UdTlner/view?usp=sharing',
+      'https://drive.google.com/file/d/12ScqDVPqAoLm9omijIOBL0djQbeizB_2/view?usp=sharing',
+      'https://drive.google.com/file/d/1--xbso7q4k31s0UTExoGDzXcydzNnIC0/view?usp=sharing',
+      'https://drive.google.com/file/d/15Doqp7MWvQPLSgFqOJyK15KViMy58KWW/view?usp=sharing',
+      'https://drive.google.com/file/d/1ZIcba7ull8ORWavkNTii2UtUxH7BpwZb/view?usp=sharing',
+      'https://drive.google.com/file/d/16hA2MxZ1EEVfPVwY23fsNTGlJPyzuRY1/view?usp=sharing'
+  ] },
+
   // PSC - Political Science
   { id: 194, code: 'PSC201', title: 'Political Science Course', category: 'psc', image: '🗳️' },
   { id: 195, code: 'PSC401', title: 'Political Science Course', category: 'psc', image: '🗳️' },
