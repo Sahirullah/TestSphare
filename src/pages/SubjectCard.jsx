@@ -1,8 +1,9 @@
 import './SubjectCard.css';
 
 const SubjectCard = ({ exam }) => {
-  // Get valid links
-  const validLinks = exam.links ? exam.links.filter(link => link && link.trim()) : [];
+  // Get valid links - handle both 'links' and 'Link' property names
+  const links = exam.links || exam.Link || [];
+  const validLinks = Array.isArray(links) ? links.filter(link => link && typeof link === 'string' && link.trim()) : [];
   const totalSlots = 8; // Always show 8 button slots
 
   const handleComingSoon = (e) => {
