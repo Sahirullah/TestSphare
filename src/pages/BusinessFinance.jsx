@@ -1,20 +1,20 @@
 import { useState } from 'react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { literatureLanguagesData, literatureLanguagesCategories } from '../data/literatureLanguagesData';
+import { businessFinanceData, businessFinanceCategories } from '../data/businessFinanceData';
 import './AllBooks.css';
 
-const LiteratureLanguages = () => {
+const BusinessFinance = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
 
-  const materials = literatureLanguagesData.map(item => ({
+  const materials = businessFinanceData.map(item => ({
     ...item,
     description: `Complete study materials for ${item.title} (${item.code}) in PDF Format.`,
     status: 'Study Material',
     hasLecture: true
   })).sort((a, b) => a.code.localeCompare(b.code));
 
-  const categories = literatureLanguagesCategories;
+  const categories = businessFinanceCategories;
 
   const filteredMaterials = selectedCategory === 'all' 
     ? materials 
@@ -27,8 +27,8 @@ const LiteratureLanguages = () => {
       <div className="handout-hero">
         <div className="hero-content">
           <div className="hero-icon">📚</div>
-          <h1>Literature & Languages Resources</h1>
-          <p>Comprehensive study materials for literature and language courses.</p>
+          <h1>Business & Finance Resources</h1>
+          <p>Comprehensive study materials for business and finance courses.</p>
           <p>Download your study materials in PDF, Doc for free.</p>
           <p>Trusted educational resources available.</p>
         </div>
@@ -96,4 +96,4 @@ const LiteratureLanguages = () => {
   );
 };
 
-export default LiteratureLanguages;
+export default BusinessFinance;

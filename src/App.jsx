@@ -23,7 +23,7 @@ const IslamReligion = lazy(() => import('./pages/IslamReligion'))
 const ScienceTechnology = lazy(() => import('./pages/ScienceTechnology'))
 const LawPolitics = lazy(() => import('./pages/LawPolitics'))
 const PhilosophyHistory = lazy(() => import('./pages/PhilosophyHistory'))
-const LiteratureLanguages = lazy(() => import('./pages/LiteratureLanguages'))
+const BusinessFinance = lazy(() => import('./pages/BusinessFinance'))
 const ResearchInnovation = lazy(() => import('./pages/ResearchInnovation'))
 
 const LoadingFallback = () => <div style={{ padding: '40px', textAlign: 'center' }}>Loading...</div>
@@ -56,7 +56,7 @@ function App() {
               <Route path="/science-technology" element={<ScienceTechnology />} />
               <Route path="/law-politics" element={<LawPolitics />} />
               <Route path="/philosophy-history" element={<PhilosophyHistory />} />
-              <Route path="/literature-languages" element={<LiteratureLanguages />} />
+              <Route path="/business-finance" element={<BusinessFinance />} />
               <Route path="/research-innovation" element={<ResearchInnovation />} />
             </Routes>
           </Suspense>

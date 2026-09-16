@@ -57,7 +57,7 @@ const Footer = () => {
               <li><Link to="/science-technology">Science & Technology</Link></li>
               <li><Link to="/law-politics">Law & Politics</Link></li>
               <li><Link to="/philosophy-history">Philosophy & History</Link></li>
-              <li><Link to="/literature-languages">Literature & Languages</Link></li>
+              <li><Link to="/business-finance">Business & Finance</Link></li>
               <li><Link to="/research-innovation">Research & Innovation</Link></li>
             </ul>
           </div>
