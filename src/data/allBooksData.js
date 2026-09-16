@@ -355,7 +355,8 @@ export const allBooksData = [
   // International Exams
   { id: 239, code: 'NMDCAT', title: 'NMDCAT Past Papers', category: 'nmdcat', image: '🩺', link: '' },
   { id: 240, code: 'ETEA', title: 'ETEA Past Papers', category: 'etea', image: '⚙️', link: '' },
-  { id: 241, code: 'IELTS', title: 'IELTS Practice Tests', category: 'ielts', image: '🌍', link: '' },
+  //ILET
+  { id: 241, code: 'IELTS', title: 'IELTS Practice Tests', category: 'ielts', image: '🌍', link: 'https://drive.google.com/file/d/1IXa9TCNR2cXJoaLyhlE_UQvJXItlPOv7/view?usp=sharing' },
   { id: 242, code: 'TOEFL', title: 'TOEFL Preparation', category: 'toefl', image: '📖', link: '' },
   { id: 243, code: 'GRE', title: 'GRE Practice Tests', category: 'gre', image: '📚', link: '' },
   { id: 244, code: 'GMAT', title: 'GMAT Preparation', category: 'gmat', image: '💼', link: '' },

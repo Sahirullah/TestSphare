@@ -9,7 +9,7 @@ const AllBooks = () => {
 
   const handouts = allBooksData.map(item => ({
     ...item,
-    description: `Download complete VU updated handouts for ${item.title} (${item.code}) in PDF Format.`,
+    description: `Download complete TestSphare latest books for ${item.title} (${item.code}) in PDF Format.`,
     status: 'Updated Handouts',
     hasLecture: true
   })).sort((a, b) => a.code.localeCompare(b.code));
