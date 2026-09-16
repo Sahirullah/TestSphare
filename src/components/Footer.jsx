@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import logoImage from '../assets/logo (3).png';
 import './Footer.css';
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa';
@@ -52,12 +53,12 @@ const Footer = () => {
           <div className="footer-section">
             <h4 className="footer-title">Categories</h4>
             <ul className="footer-links">
-              <li><a href="#islam-other-religion">Islam & All religion</a></li>
-              <li><a href="#science-technology">Science & Technology</a></li>
-              <li><a href="#law-politics">Law & Politics</a></li>
-              <li><a href="#philosophy-history">Philosophy & History</a></li>
-              <li><a href="#literature-languages">Literature & Languages</a></li>
-              <li><a href="#research-innovation">Research & Innovation</a></li>
+              <li><Link to="/islam-other-religion">Islam & All religion</Link></li>
+              <li><Link to="/science-technology">Science & Technology</Link></li>
+              <li><Link to="/law-politics">Law & Politics</Link></li>
+              <li><Link to="/philosophy-history">Philosophy & History</Link></li>
+              <li><Link to="/literature-languages">Literature & Languages</Link></li>
+              <li><Link to="/research-innovation">Research & Innovation</Link></li>
             </ul>
           </div>
 

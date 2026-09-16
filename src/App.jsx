@@ -19,6 +19,12 @@ const ImportantSoftwares = lazy(() => import('./pages/ImportantSoftwares'))
 const ExamPractice = lazy(() => import('./pages/ExamPractice'))
 const HighlightedHandout = lazy(() => import('./pages/HighlightedHandout'))
 const Notes = lazy(() => import('./pages/Notes'))
+const IslamReligion = lazy(() => import('./pages/IslamReligion'))
+const ScienceTechnology = lazy(() => import('./pages/ScienceTechnology'))
+const LawPolitics = lazy(() => import('./pages/LawPolitics'))
+const PhilosophyHistory = lazy(() => import('./pages/PhilosophyHistory'))
+const LiteratureLanguages = lazy(() => import('./pages/LiteratureLanguages'))
+const ResearchInnovation = lazy(() => import('./pages/ResearchInnovation'))
 
 const LoadingFallback = () => <div style={{ padding: '40px', textAlign: 'center' }}>Loading...</div>
 
@@ -46,6 +52,12 @@ function App() {
               <Route path="/exam-practice" element={<ExamPractice />} />
               <Route path="/all-books" element={<AllBooks />} />
               <Route path="/past-paper" element={<PastPapers />} />
+              <Route path="/islam-other-religion" element={<IslamReligion />} />
+              <Route path="/science-technology" element={<ScienceTechnology />} />
+              <Route path="/law-politics" element={<LawPolitics />} />
+              <Route path="/philosophy-history" element={<PhilosophyHistory />} />
+              <Route path="/literature-languages" element={<LiteratureLanguages />} />
+              <Route path="/research-innovation" element={<ResearchInnovation />} />
             </Routes>
           </Suspense>
         </div>
