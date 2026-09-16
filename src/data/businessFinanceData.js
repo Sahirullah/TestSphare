@@ -6,6 +6,7 @@ export const businessFinanceData = [
   { id: 4, code: 'ECO101', title: 'Microeconomics', category: 'econ', image: '📈', link: '' },
   { id: 5, code: 'BUS301', title: 'Organizational Behavior', category: 'mgmt', image: '👥', link: '' },
   { id: 6, code: 'FIN201', title: 'Corporate Finance', category: 'fin', image: '💳', link: '' },
+  { id: 7, code: 'Engineering', title: 'Civil Engineering', category: 'engineering', image: '📐', link: 'https://drive.google.com/file/d/1Z_H42IcJeGYprfLYoXn5L12l8NHFFW9i/view?usp=sharing' },
 ];
 
 export const businessFinanceCategories = [
@@ -13,4 +14,5 @@ export const businessFinanceCategories = [
   { id: 'mgmt', name: 'Management' },
   { id: 'fin', name: 'Finance' },
   { id: 'econ', name: 'Economics' },
+  { id: 'engineering', name: 'Engineering' },
 ];
