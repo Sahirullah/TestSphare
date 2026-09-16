@@ -125,10 +125,10 @@ export const schoolBaseData = [
   { id: 32, code: 'BOARD017', title: 'BISE Mirpurkhas', category: 'boards', image: '📚', link: '' },
   { id: 33, code: 'BOARD018', title: 'BISE Multan', category: 'boards', image: '📚', link: '' },
 //        >>>>------<<<<<       KOHAT TEXTBOOK BOARD       >>>>------<<<<<
-  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class Drawing books', category: 'peshawar', image: '📚', link: 'https://drive.google.com/file/d/1pw9hfX3e5WNfs2Yi9_yEb4QcCiToTq7X/view?usp=sharing' },
-  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class', category: 'peshawar', image: '📚', link: '' },
-  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class', category: 'peshawar', image: '📚', link: '' },
-  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class', category: 'peshawar', image: '📚', link: '' },
+  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class Drawing book', category: 'peshawar', image: '📚', link: 'https://drive.google.com/file/d/1pw9hfX3e5WNfs2Yi9_yEb4QcCiToTq7X/view?usp=sharing' },
+  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class English book', category: 'peshawar', image: '📚', link: 'https://drive.google.com/file/d/1COCX-C2nIopQBvCT0ZTYHmOTzHUn2jxe/view?usp=sharing' },
+  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class Islamiat book', category: 'peshawar', image: '📚', link: 'https://drive.google.com/file/d/16cwHvA0WMcJcbNc_2IaMIkxFJPlZQL20/view?usp=sharing' },
+  { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class Mathematic book', category: 'peshawar', image: '📚', link: 'https://drive.google.com/file/d/1aWXklg1yvMrD_PORUEO25SjHkXGE6Ela/view?usp=sharing' },
   { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class', category: 'peshawar', image: '📚', link: '' },
   { id: 34, code: 'PTBB', title: 'BISE Peshawar 1st class', category: 'peshawar', image: '📚', link: '' },
 
