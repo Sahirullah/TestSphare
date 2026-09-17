@@ -142,7 +142,7 @@ const Header = () => {
                 <li><Link to="/uni-base" onClick={() => { setIsVUMenuOpen(false); setIsVUFilesOpen(false); }}>University Base</Link></li>
                 <li><Link to="/assignment" onClick={() => { setIsVUMenuOpen(false); setIsVUFilesOpen(false); }}>Assignments</Link></li>
                 <li><a href="#gdbs" onClick={() => { setIsVUMenuOpen(false); setIsVUFilesOpen(false); }}>GDBs</a></li>
-                <li><Link to="/midterm-reviews" onClick={() => { setIsVUMenuOpen(false); setIsVUFilesOpen(false); }}>Exam Reviews</Link></li>
+                <li><Link to="/midterm-reviews" onClick={() => { setIsVUMenuOpen(false); setIsVUFilesOpen(false); }}>Explore More Categories</Link></li>
               </ul>
             </li>
             <li><Link to="/blogs" onClick={() => setIsVUMenuOpen(false)}>Blogs</Link></li>
