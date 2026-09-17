@@ -76,6 +76,7 @@ export const allBooksData = [
   //CHE - Chemistry
   { id: 48, code: 'CHE201', title: 'Thermodynamics', category: 'che', image: '⚗️' ,link:'https://drive.google.com/uc?export=download&id=1ASgmNarCTEAtqhiLmLBu6oZ2Nl7hrNI9'},
   { id: 49, code: 'CHE301', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️' ,link:'https://drive.google.com/uc?export=download&id=1CV56EqoPc91JekcIRLdrqKgdpzGO0Bvp'},
+  
   //My Drive Notes
   { id: 49, code: 'CHE301', title: 'Organic Chemistry Handwriting Notes', category: 'che', image: '⚗️' ,link:'https://drive.google.com/uc?export=download&id=1ktr0gl_TEVxxPoPvPDWyZNSTK2JQI6lT'},
   { id: 49, code: 'CHE301', title: 'Periods Notes Extensive', category: 'che', image: '⚗️' ,link:'https://drive.google.com/uc?export=download&id=1lbDXxdGEvbvQ2regA5LyGzaPkIFXYrF2'},
