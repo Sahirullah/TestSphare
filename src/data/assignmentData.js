@@ -24,6 +24,7 @@ export const assignmentData = [
   
   // Class 9 - Computer Science
   { id: 12, code: 'CS-9', title: 'Computer Science - Class 9', category: 'computer', image: '💻', class: '9' },
+
 ];
 
 export const assignmentDataClass10 = [
