@@ -241,6 +241,7 @@ export const examPracticeData = [
   {"question_number": 49, "question": "------ will return the number of bytes reserved for a variable or data type.", "options": {"a": "sizeof operator", "b": "Free operator", "c": "Void pointer", "d": "New operator"}, "answer": "a"},
   {"question_number": 50, "question": "Default constructor takes----------.", "options": {"a": "One parameter", "b": "Two parameter", "c": "No parameter", "d": "Character type parameter"}, "answer": "c"}
 ])},
+
 //cs201 midterm mocktest 02
 {id: 30, code: 'CS201', title:'CS201 introductioin to programming.cs201 midterm free mock test 02', category:'cs', image: '💻', questions: convertCS201Questions([
   { "question_number": 1, "question": "Void calloc(50,sizeof(int)) will return", "options": { "a": "Char pointer", "b": "A memory chunk of 50 integers from heap", "c": "A memory chunk of 50 integers from stack", "d": "A memory chunk with zero pointer" }, "answer": "b" },
