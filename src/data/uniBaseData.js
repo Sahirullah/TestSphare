@@ -85,7 +85,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1AMH4Co3-ddl-zu9dCgr800M3ufEQXcm3/view?usp=sharing'
   ] },
 
-  //CS101 Midterm Pastpaper
+//CS101 Midterm Pastpaper
   { id: 52, code: 'CS101 midterm files', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing',
     'https://drive.google.com/file/d/1kXBzw7ztcvSbVFkrNhPVNDdlA3fR0CHs/view?usp=sharing',
@@ -97,6 +97,12 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1xg98zuubxhZE6zi5J1nyb1Acf2RdptWt/view?usp=sharing',
     'https://drive.google.com/file/d/1CZ3ZIsrDSc-Ve0qL2NRSteUSCENseNU4/view?usp=sharing'
   ]},
+
+//CS101 Finalterm Pastpaper
+  { id: 52, code: 'CS101 midterm files', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
+    ''
+  ]},
+
   //CS201 Midterm Past paper
   { id: 53, code: 'CS201 midterm files', title: 'Introduction to Programming.cs201 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1hffCphMimLCsXqcR0PpwPbsJroQjf-Fz/view?usp=sharing',

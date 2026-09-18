@@ -147,6 +147,7 @@ export const allBooksData = [
   { id: 100, code: 'CS718', title: 'Wireless Networks', category: 'cs', image: '💻' ,link:''},
   { id: 101, code: 'CS724', title: 'Software Process Improvement', category: 'cs', image: '💻',link:'' },
   { id: 102, code: 'CS726', title: 'Information Retrieval Techniques', category: 'cs', image: '💻',link:'' },
+  { id: 103, code: 'Civil Engineering', title: 'Civil Engineering pdf file.', category: 'cs', image: '💻',link:'https://drive.google.com/file/d/1Z_H42IcJeGYprfLYoXn5L12l8NHFFW9i/view?usp=sharing' },
   
   // ECO - Economics
   { id: 103, code: 'ECO401', title: 'Economics', category: 'eco', image: '📊' ,link:''},
@@ -415,4 +416,3 @@ export const allBooksCategories = [
   { id: 'urd', name: 'URD - Urdu' },
   { id: 'zoo', name: 'ZOO - Zoology' },
 ];
-
