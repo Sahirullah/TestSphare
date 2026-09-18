@@ -156,6 +156,7 @@ export const uniBaseData = [
   { id: 55, code: 'CS204 midterm files', title: 'Cyber Law.CS204 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 56, code: 'CS205 midterm files', title: 'Information Security.CS205 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 57, code: 'CS206 midterm files', title: 'Introduction to Network Design & Analysis.CS206 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  
   //CS301 Midterm past paper
   { id: 58, code: 'CS301 midterm files', title: 'Data Structures.CS301 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/18lUHA4zoHBP_PFeQn7i5GMNW1D-y7pA_/view?usp=sharing',
@@ -164,6 +165,17 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1PqS6YbVirkq4XmaDUlQE5eCeOsluJLgk/view?usp=sharing',
     'https://drive.google.com/file/d/1PVVjrh_zQqOnShuAEJZnWdLNQNz3fkFb/view?usp=sharing'
   ]},
+
+  //CS301 Finalterm past paper
+  { id: 58, code: 'CS301 Finalterm files', title: 'Data Structures.CS301 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1n3_JbaAE-JOkqJNV0DhVJ4w7WAGBDAJR/view?usp=sharing',
+    'https://drive.google.com/file/d/1c3V2_lmZ3rn8kQr8VIWJ0IHrMfMFmd65/view?usp=sharing',
+    'https://drive.google.com/file/d/1YvaOKPT1Rx7X4Jdsoup9RyHJpXrfCFiw/view?usp=sharing',
+    'https://drive.google.com/file/d/1tCCs34boVQRbBRqsI0FtDZsK0j2suYfB/view?usp=sharing',
+    'https://drive.google.com/file/d/1YX3v9huPNa66fvvkijRPIxtitoYKwFAa/view?usp=sharing',
+    'https://drive.google.com/file/d/1urzxPmROe7vJdLYtIST22gC0BjEvsSIo/view?usp=sharing'
+  ]},
+
   //CS302 Midtrem pastpaper
   { id: 59, code: 'CS302 midterm files', title: 'Digital Logic and Design.CS302 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1xMuPu9rLDawOvWTmwT2jko64T6QP4Zfo/view?usp=sharing',
