@@ -483,11 +483,32 @@ export const uniBaseData = [
 
   //CS607 midterm past paper
   { id: 87, code: 'CS607 Midterm files', title: 'Database Management System.CS607 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  
+  //CS607 finalterm past paper
+  { id: 87, code: 'CS607 Finalterm files', title: 'Database Management System.CS607 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1RlS3VEWIVbz4xQp-yyu0A-IskpdmkY1i/view?usp=sharing',
+    'https://drive.google.com/file/d/1jDFQoclewjHAMaxhRjaec8SRqEvTq72c/view?usp=sharing',
+    'https://drive.google.com/file/d/1lcpwFdkCGt4BcklIsq6UWkHEiaJWbL_e/view?usp=sharing',
+    'https://drive.google.com/file/d/1vdYerOCQVQ-REzQnZyWjCYZsWB8O6SxO/view?usp=sharing',
+    'https://drive.google.com/file/d/1a1y0MuAfvB-AIvCWniZcH8ZDk2PZB00L/view?usp=sharing'
+  ] },
+
+  //CS608 midterm pastpaper
   { id: 88, code: 'CS608', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  
   //CS609 midterm pastpaper
   { id: 89, code: 'CS609 Midterm files', title: 'cs609 system programming.cs609 midterm past paper', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1re5eCb91b7EuEOuWafGs-dM4Zn9IjXfP/view?usp=sharing'
   ] },
+  
+  //CS609 Finalterm pastpaper
+  { id: 89, code: 'CS609 Finalterm files', title: 'cs609 system programming.cs609 Finalterm past paper', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1FvwD13vOkYa1J1Fai7ZtudDtpN78JnZM/view?usp=sharing',
+    'https://drive.google.com/file/d/18bB9H6s84klzPZ-lCYYjklpXMPOF2qpe/view?usp=sharing',
+    'https://drive.google.com/file/d/1ABZjI2ruDuEhBcbmUH43PuAUEp1OX4FO/view?usp=sharing',
+    'https://drive.google.com/file/d/1Zxh-JgZ_JCD2LyQd9Gi7mDGJW4boa9jf/view?usp=sharing'
+  ] },
+
   //C610 midterm past paper
   { id: 90, code: 'CS610 Midterm files', title: 'CS610 Computer Networking.cs610 midterm past past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1sKpZKwCGx83CPcjFVTa0jLJPGcLtIFdF/view?usp=sharing',
@@ -495,15 +516,36 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1Q0MRQtbhlx87Mlqne53yncQs9wdxu3bQ/view?usp=sharing',
     'https://drive.google.com/file/d/16yD0PXNRdrHjGZwbUPslYGwqPX6DEZsu/view?usp=sharing'
   ] },
+  
+  //C610 Finalterm past paper
+  { id: 90, code: 'CS610 Finalterm files', title: 'CS610 Computer Networking.cs610 Finalterm past past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1paHGVo0OHetjjOJaqvzjRcfxMJjvTmhA/view?usp=sharing',
+    'https://drive.google.com/file/d/1k4j8M8skQ4q8itYPBA0AB-icCoF67tAK/view?usp=sharing',
+    'https://drive.google.com/file/d/1sfp1RtdcJaJw6t3WKnSq83tto2sSX4yX/view?usp=sharing',
+    'https://drive.google.com/file/d/1c-VSOukrvV3DBwNFWNGPOAo8Xd8EGNNS/view?usp=sharing',
+    'https://drive.google.com/file/d/1RFmSPmXiq1PPyEskeDx0k4r_bWFRuC3n/view?usp=sharing'
+  ] },
+
   //CS611 midterm past paper
   { id: 91, code: 'CS611 Midterm files', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
   { id: 91, code: 'CS612 Midterm files', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
   { id: 91, code: 'CS613 Midterm files', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  
   //CS614 midterm past paper
   { id: 91, code: 'CS614 Midterm files', title: 'CS614 data warehousing. cs614 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1L1jTRl3Bh-ydtfoSCbcAnHzRuYUXF4H7/view?usp=sharing',
     'https://drive.google.com/file/d/10C5iFrV1E5VjY81FYqFX3UAr6E6ncDql/view?usp=sharing',
     'https://drive.google.com/file/d/1GXQ5w76-I38yhn5lZ3SYyn1oCOWrrBJK/view?usp=sharing'
+  ] },
+
+  //CS614 Finalterm past paper
+  { id: 91, code: 'CS614 Finalterm files', title: 'CS614 data warehousing. cs614 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1GUH367Jl7RwHS7s48gg6Ybu8yCzAkwRg/view?usp=sharing',
+    'https://drive.google.com/file/d/1ifiKDvxSQnT1scVd6AWQniPOtWET_0AE/view?usp=sharing',
+    'https://drive.google.com/file/d/10VJRnjjS8MWMAqhB6s8IDOgT0a3bm1hT/view?usp=sharing',
+    'https://drive.google.com/file/d/15b2wRKbWulhOqAnyXw6JoHXDlx0F7d-e/view?usp=sharing',
+    'https://drive.google.com/file/d/1YLGaBfOdh1YJG_ZGH5dfXbtDm3k-56gI/view?usp=sharing',
+    'https://drive.google.com/file/d/1WpKAFlNVvzB100J9QtyaZxnLmdyV0ypp/view?usp=sharing'
   ] },
 ];
 
