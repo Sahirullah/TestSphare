@@ -377,7 +377,14 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1m6bP_WTiJlw9gzSzP3SFIlhS1VbhyWlG/view?usp=sharing'
   ] },
 
+//CS507 midterm past paper
   { id: 79, code: 'CS507', title: 'Database Management System.CS507 midterm past papers.', category: 'cs', image: '💻', links: [] },
+
+  //CS507 Finalterm past paper
+  { id: 79, code: 'CS507', title: 'Database Management System.CS507 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1x3687z931pdlxixBfCQ521TYnWSZynT7/view?usp=sharing',
+    'https://drive.google.com/file/d/1i9eESxaLPwB9DuJMtlKxKnFcACqNPiBH/view?usp=sharing'
+  ] },
   
   //CS508 midterm past paper
   { id: 80, code: 'CS508', title: 'CS508 Modern Programming languages.CS508 midterm past papers.', category: 'cs', image: '💻', links: [
