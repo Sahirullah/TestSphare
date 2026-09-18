@@ -288,11 +288,19 @@ export const uniBaseData = [
 
  // { id: 72, code: 'CS409', title: 'Database Management System.CS409 midterm past papers.', category: 'cs', image: '💻', links: [] },
  // { id: 73, code: 'CS410', title: 'Database Management System.CS410 midterm past papers.', category: 'cs', image: '💻', links: [] },
-  //CS411 midterm past paper
+ 
+ //CS411 midterm past paper
   { id: 74, code: 'CS411', title: 'CS411 Visual Programming.CS411 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1YrIBW2fhQbq_3ylJC3GGuLN4lzWYgtom/view?usp=sharing',
     'https://drive.google.com/file/d/1x2NtiNCwbZaJMpicA2Vr8sVnLsTnwNKk/view?usp=sharing'
   ] },
+
+  //CS411 Finalterm past paper
+  { id: 74, code: 'CS411', title: 'CS411 Visual Programming.CS411 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1AIiMaZXS_jYuAfvyd1IZqSJ7S2jya-ow/view?usp=sharing',
+    'https://drive.google.com/file/d/1CDFQyb2dRGB4-w2stiCyzBNf6CW7uBDj/view?usp=sharing'
+  ] },
+  
   //CS501 midterm past paper
   { id: 75, code: 'CS501', title: 'CS501 Advance Computer Architecture.CS501 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/19Kfe1fVNgDPy3Fqm1u7tvclM7kieDhjA/view?usp=sharing',
