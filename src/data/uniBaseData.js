@@ -100,7 +100,20 @@ export const uniBaseData = [
 
 //CS101 Finalterm Pastpaper
   { id: 52, code: 'CS101 midterm files', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
-    ''
+    'https://drive.google.com/file/d/1RL0WkKeCZZ8wITc7fLxTioiPD35eI_Q7/view?usp=sharing',
+    'https://drive.google.com/file/d/17jfo6JBcs4gfVod5FAgg8MfOtsUJrZXg/view?usp=sharing',
+    'https://drive.google.com/file/d/1O7D8ZKKjJbeeD0FpBvX7MN1qXucgonHl/view?usp=sharing',
+    'https://drive.google.com/file/d/1IC_3ox5-1eRw-z4CLfVAqAQa5C_GD1FX/view?usp=sharing',
+    'https://drive.google.com/file/d/1xDHshvFcdZIZ0G651w8bdBkrGXnmGtOz/view?usp=sharing',
+    'https://drive.google.com/file/d/1eSCJSJUaYxSW8g6wgUzu25FBw15KjDIo/view?usp=sharing',
+    'https://drive.google.com/file/d/10ZzuV1MATLhBHbiMjGBk2zpc7JFpvO4E/view?usp=sharing',
+    'https://drive.google.com/file/d/1d8jg2S-US_MGcNeKFhLqFI32-83jvnq3/view?usp=sharing'
+  ]},
+  
+//CS101 Finalterm Pastpaper
+  { id: 52, code: 'CS101 midterm files', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1Lygl3d22Dk336vvrzTa8RmA2-vDacxD-/view?usp=sharing',
+    'https://drive.google.com/file/d/12nG172p6LT_8hHAT10MKI8V84omS59lj/view?usp=sharing'
   ]},
 
   //CS201 Midterm Past paper
@@ -110,7 +123,19 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1RfnHTlnpeU7vLwmBi4CLR9ZiQvZjsssF/view?usp=sharing',
     'https://drive.google.com/file/d/1AmJ1-03XHVj-HagurVweg1woB1-BN5MO/view?usp=sharing',
     'https://drive.google.com/file/d/1CFZPgEB79SzRteM_4medAyL18lrUhwkm/view?usp=sharing'
-  ] },
+  ]},
+
+  //CS201 Finalterm Past paper
+  { id: 53, code: 'CS201 midterm files', title: 'Introduction to Programming.cs201 midterm past paper.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1X349vg_b-HPdrzTw8o2PW5YYpcyn62lq/view?usp=sharing',
+    'https://drive.google.com/file/d/1EgO_8up-yK6xMtF40267td4hDlKsG7rP/view?usp=sharing',
+    'https://drive.google.com/file/d/1WSf4NrLJe_h8g1KIlOYklUZKY39WmDjo/view?usp=sharing',
+    'https://drive.google.com/file/d/1eB77zEvRY4oswgrIUXuiDVhvbLsNl0_u/view?usp=sharing',
+    'https://drive.google.com/file/d/1s8QHzVokpoy8oiNP4u6CT58vOIGJKalq/view?usp=sharing',
+    'https://drive.google.com/file/d/1fNQKnf7rZh7O0LH9I_bSuWKSjdP_RtIA/view?usp=sharing',
+    'https://drive.google.com/file/d/1SppaocsCZUXhLH54B02AUO4OzMaW2FFs/view?usp=sharing'
+  ]},
+
   //CS202 Midterm Pastpaper
   { id: 54, code: 'CS202 midterm files', title: 'Fundamentals of Front End Development.CS202 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1t8l2vZWPCgFDjG55j0vWaetfORakNf2R/view?usp=sharing',
