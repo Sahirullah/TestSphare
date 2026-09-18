@@ -185,15 +185,39 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1UjvKgeMvPKsDklllGcSKtRefZcMcCAEX/view?usp=sharing',
     'https://drive.google.com/file/d/1UjvKgeMvPKsDklllGcSKtRefZcMcCAEX/view?usp=sharing'
   ] },
+
+  //CS302 Finaltrem pastpaper
+  { id: 59, code: 'CS302 Finalterm files', title: 'Digital Logic and Design.CS302 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/15hotyE9oe6TN33g2ESjD0g6d_bqPv1ci/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZbostEzma-Jsu31ndb00bi3eENiehNY9/view?usp=sharing',
+    'https://drive.google.com/file/d/1XNIcU1zQoAI-BA-8QkNKd9DqmC9FWxLG/view?usp=sharing',
+    'https://drive.google.com/file/d/1gWfcupujvV3SPi0XkAcKaMa0_N_N0-IC/view?usp=sharing',
+    'https://drive.google.com/file/d/1YF-1LKBu0ArW9QUciM1XQG6XmcenQMNP/view?usp=sharing',
+    'https://drive.google.com/file/d/1-gt7yea4PLejibAuNDFgelCkwm0ufJeG/view?usp=sharing'
+  ] },
+
+
   //CS304 Midterm past paper
   { id: 60, code: 'CS304 midterm files', title: 'Object Oriented Programming.CS304 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/13fydDtrXIFm1ve9we1NwT0bgV2bu5KIi/view?usp=sharing',
     'https://drive.google.com/file/d/1LPNaSzSu0J5Ka7bQ_U9P9GmnGAZP2hlH/view?usp=sharing',
     'https://drive.google.com/file/d/1MWcJvGdEl-2VGjZm7gfpplBSR0kWAbb8/view?usp=sharing'
   ] },
+
+  //CS304 Finalterm past paper
+  { id: 60, code: 'CS304 midterm files', title: 'Object Oriented Programming.CS304 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1BxdeDU9NhdbhHNXyJCY2dJWaQ8jDXnvn/view?usp=sharing',
+    'https://drive.google.com/file/d/1bzWWW9X6DO7sgDIghFr0M-286nvEM3lj/view?usp=sharing',
+    'https://drive.google.com/file/d/1dgpyWcgc6m3vrAzlVjDPM4Xez3N9hXq7/view?usp=sharing',
+    'https://drive.google.com/file/d/1FoALyy2aBE8Xjc-6DXFPoUTSmUyDn-5-/view?usp=sharing',
+    'https://drive.google.com/file/d/14JeidKerPyNnpx9Lthh_iHBN3KW6Tq9P/view?usp=sharing',
+    'https://drive.google.com/file/d/1nYlO_hvdad5fhEoeHVoEI6rcPNnmQPWa/view?usp=sharing'
+  ] },
+
   { id: 61, code: 'CS310 midterm files', title: 'Open Source Web Application Development.CS310 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 62, code: 'CS311', title: 'Introduction to Web Services Development.CS311 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 63, code: 'CS312', title: 'Database Modeling and Design.CS312 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  
   //CS401 midterm past paper
   { id: 64, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming.CS401 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1MzbgUidLUzWvlle58TMJa2_UGLoT-7yt/view?usp=sharing',
@@ -203,6 +227,17 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1NwdNVK7RC30UA0ipyGi_AJmguDPo6D-U/view?usp=sharing',
     'https://drive.google.com/file/d/1Nj-zYfzvqNoTG3S06RUwyEfD7mpwgPlv/view?usp=sharing'
   ] },
+  
+  //CS401 Finalterm past paper
+  { id: 64, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming.CS401 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1y2LWL8yzctYnY-T6Y-hc5c_fYJEd-mn4/view?usp=sharing',
+    'https://drive.google.com/file/d/1cp6E2Tr-eswvQZwIhA3EwLqKhjb7VFfl/view?usp=sharing',
+    'https://drive.google.com/file/d/1rOaeILNBI2GckBUHwsEEsKgQrBzdlHbj/view?usp=sharing',
+    'https://drive.google.com/file/d/1TWIthH7lU57CU25Eu1Bj1SrkHXFsViFk/view?usp=sharing',
+    'https://drive.google.com/file/d/1V3zeP4jV3JiizhG9hOU1pf2CDHmQ50Zm/view?usp=sharing',
+    'https://drive.google.com/file/d/15gGJcZKSb6jpU70UVd47UvTnDQNoj_QG/view?usp=sharing'
+  ] },
+  
   //CS402 midterm past paper
   { id: 65, code: 'CS402', title: 'Theory of Automata.CS402 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/16AWcwDt02QqEJUFYVKU5lwJsg5dsffWo/view?usp=sharing',
