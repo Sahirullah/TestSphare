@@ -448,7 +448,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1wR3etYSiORVZqxcitkj2DuVcgZwM1QDu/view?usp=sharing'
   ] },
 
-  //CS605 midter past paper
+  //CS605 midterm past paper
   { id: 85, code: 'CS605 Midterm files', title: 'CS605- Software Engineering II. CS605 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1cfXT9Vacv04Uxpu3c4ZoKYWOzqTu0zCD/view?usp=sharing',
     'https://drive.google.com/file/d/134RLf0Z_vVntdrzDDYpdgS7vk1aYalYq/view?usp=sharing',
@@ -456,12 +456,31 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/16bISzGva5y2NzqQUVo3wMkTkIey3nRPA/view?usp=sharing',
     'https://drive.google.com/file/d/1bd0QDZMKSqtLMDR_X60ySplw_Nm5ExT8/view?usp=sharing'
   ] },
+  
+  //CS605 Finalterm past paper
+  { id: 85, code: 'CS605 Finalterm files', title: 'CS605- Software Engineering II. CS605 Finalterm past paper.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1LXcXNXtFkYVOuS3OG9ntbRiDZFeAATxM/view?usp=sharing',
+    'https://drive.google.com/file/d/1wqnyn8KaI34dokici6i1_3P83Jlhq0nk/view?usp=sharing',
+    'https://drive.google.com/file/d/1ACEG4CN2k9OOiZJUB3O7rWJ5VwqnPiw3/view?usp=sharing',
+    'https://drive.google.com/file/d/1O7yKQHT8ZBV8V1MJ-S5gjhBlOyRHvRlk/view?usp=sharing',
+    'https://drive.google.com/file/d/18ujOtXAz7Bwwyq8bfiPVghg_WDwWGFv5/view?usp=sharing',
+    'https://drive.google.com/file/d/1raR8qQ8V5zazWoLJD-rKbT35MYgx-NJU/view?usp=sharing'
+  ] },
+
   //CS606 midterm past paper
   { id: 86, code: 'CS606 Midterm files', title: 'cs606 compiler construction.CS606 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1slF38XHWsiylLJFelbvdUPCgfox6KlNA/view?usp=sharing',
     'https://drive.google.com/file/d/1bL8G_Fzztoy_rafEXlXrekYCokKisEDM/view?usp=sharing',
     'https://drive.google.com/file/d/1NctgnLm5S8ETHFrgCKJa8lAOOpVYI4fs/view?usp=sharing'
   ] },
+
+  //CS606 Finalterm past paper
+  { id: 86, code: 'CS606 Finalterm files', title: 'cs606 compiler construction.CS606 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1zWJ1xPVb2vLahDNtZ-JnAzbkc_XY1FMt/view?usp=sharing',
+    'https://drive.google.com/file/d/1t9qkrjOhxOCbbtQCSLfkSKVSu8QZ7QPh/view?usp=sharing',
+    'https://drive.google.com/file/d/15h07eL56qyOo4CgD5_Sm3b_EydvwRaIh/view?usp=sharing'
+  ] },
+
   //CS607 midterm past paper
   { id: 87, code: 'CS607 Midterm files', title: 'Database Management System.CS607 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 88, code: 'CS608', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
