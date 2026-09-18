@@ -72,8 +72,8 @@ export const uniBaseData = [
   { id: 49, code: 'CHE201 midterm files', title: 'Thermodynamics', category: 'che', image: '⚗️', links: [] },
   { id: 50, code: 'CHE301 midterm files', title: 'Analytical Chemistry & Instrumentation', category: 'che', image: '⚗️', links: [] },
   
-  // CS - Computer Science
-  //CS001 Midterm pastpaper
+// CS - Computer Science
+//CS001 Midterm pastpaper
   { id: 51, code: 'CS001 midterm files', title: 'Computer Proficiency License.CS001 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1UPAPe92JbBcT6eM-j7osVy9MZ7n2gnsB/view?usp=sharing',
     'https://drive.google.com/file/d/1gW4BuQnMBUPYmaOPAsPlZxGAX9RCujUQ/view?usp=sharing',
@@ -99,7 +99,7 @@ export const uniBaseData = [
   ]},
 
 //CS101 Finalterm Pastpaper
-  { id: 52, code: 'CS101 midterm files', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
+  { id: 52, code: 'CS101 Finalterm files', title: 'Introduction to Computing.CS101 Finalterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1RL0WkKeCZZ8wITc7fLxTioiPD35eI_Q7/view?usp=sharing',
     'https://drive.google.com/file/d/17jfo6JBcs4gfVod5FAgg8MfOtsUJrZXg/view?usp=sharing',
     'https://drive.google.com/file/d/1O7D8ZKKjJbeeD0FpBvX7MN1qXucgonHl/view?usp=sharing',
@@ -111,7 +111,7 @@ export const uniBaseData = [
   ]},
   
 //CS101 Finalterm Pastpaper
-  { id: 52, code: 'CS101 midterm files', title: 'Introduction to Computing.CS101 midterm past paper.', category: 'cs', image: '💻', links: [
+  { id: 52, code: 'CS101 Finalterm files', title: 'Introduction to Computing.CS101 Finalterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1Lygl3d22Dk336vvrzTa8RmA2-vDacxD-/view?usp=sharing',
     'https://drive.google.com/file/d/12nG172p6LT_8hHAT10MKI8V84omS59lj/view?usp=sharing'
   ]},
@@ -126,7 +126,7 @@ export const uniBaseData = [
   ]},
 
   //CS201 Finalterm Past paper
-  { id: 53, code: 'CS201 midterm files', title: 'Introduction to Programming.cs201 midterm past paper.', category: 'cs', image: '💻', links: [
+  { id: 53, code: 'CS201 Finalterm files', title: 'Introduction to Programming.cs201 finalterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1X349vg_b-HPdrzTw8o2PW5YYpcyn62lq/view?usp=sharing',
     'https://drive.google.com/file/d/1EgO_8up-yK6xMtF40267td4hDlKsG7rP/view?usp=sharing',
     'https://drive.google.com/file/d/1WSf4NrLJe_h8g1KIlOYklUZKY39WmDjo/view?usp=sharing',
@@ -144,6 +144,15 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1LY4Tq006m9VmK5gAdeAJdm-nxnGGANdu/view?usp=sharing',
     'https://drive.google.com/file/d/1LqjlWvN5_zaP_T5eAJnSmLmQhJmQaM1T/view?usp=sharing'
   ] },
+
+  //CS202 Finalterm Pastpaper
+  { id: 54, code: 'CS202 Finalterm files', title: 'Fundamentals of Front End Development.CS202 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1ls6zhJXz33aIE99YuSwMkX2q_fpXr_Yd/view?usp=sharing',
+    'https://drive.google.com/file/d/1FfjvCaYpTkszd-Ff-qmsyx1byHWZYicK/view?usp=sharing',
+    'https://drive.google.com/file/d/1osw5OBe-h7y0-o7uCxmvywxEoIrNF3Y1/view?usp=sharing',
+    'https://drive.google.com/file/d/1PAd0oGjHWHJB1T2E2zGE2lEZ320lHg-1/view?usp=sharing'
+  ] },
+
   { id: 55, code: 'CS204 midterm files', title: 'Cyber Law.CS204 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 56, code: 'CS205 midterm files', title: 'Information Security.CS205 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 57, code: 'CS206 midterm files', title: 'Introduction to Network Design & Analysis.CS206 midterm past papers.', category: 'cs', image: '💻', links: [] },
