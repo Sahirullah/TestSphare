@@ -205,7 +205,7 @@ export const uniBaseData = [
   ] },
 
   //CS304 Finalterm past paper
-  { id: 60, code: 'CS304 midterm files', title: 'Object Oriented Programming.CS304 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 60, code: 'CS304 Finalterm files', title: 'Object Oriented Programming.CS304 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1BxdeDU9NhdbhHNXyJCY2dJWaQ8jDXnvn/view?usp=sharing',
     'https://drive.google.com/file/d/1bzWWW9X6DO7sgDIghFr0M-286nvEM3lj/view?usp=sharing',
     'https://drive.google.com/file/d/1dgpyWcgc6m3vrAzlVjDPM4Xez3N9hXq7/view?usp=sharing',
@@ -219,7 +219,7 @@ export const uniBaseData = [
   { id: 63, code: 'CS312', title: 'Database Modeling and Design.CS312 midterm past papers.', category: 'cs', image: '💻', links: [] },
   
   //CS401 midterm past paper
-  { id: 64, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming.CS401 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 64, code: 'CS401 Midterm files', title: 'Computer Architecture & Assembly Language Programming.CS401 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1MzbgUidLUzWvlle58TMJa2_UGLoT-7yt/view?usp=sharing',
     'https://drive.google.com/file/d/1ly3wZLCdMnxZ6WAq_vR1e10zpiALnCpz/view?usp=sharing',
     'https://drive.google.com/file/d/1pTqmoLwsAnTz5-3JN9tNu7mQp1dVdSL_/view?usp=sharing',
@@ -229,7 +229,7 @@ export const uniBaseData = [
   ] },
   
   //CS401 Finalterm past paper
-  { id: 64, code: 'CS401', title: 'Computer Architecture & Assembly Language Programming.CS401 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 64, code: 'CS401 Finalterm files', title: 'Computer Architecture & Assembly Language Programming.CS401 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1y2LWL8yzctYnY-T6Y-hc5c_fYJEd-mn4/view?usp=sharing',
     'https://drive.google.com/file/d/1cp6E2Tr-eswvQZwIhA3EwLqKhjb7VFfl/view?usp=sharing',
     'https://drive.google.com/file/d/1rOaeILNBI2GckBUHwsEEsKgQrBzdlHbj/view?usp=sharing',
@@ -239,14 +239,14 @@ export const uniBaseData = [
   ] },
   
   //CS402 midterm past paper
-  { id: 65, code: 'CS402', title: 'Theory of Automata.CS402 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 65, code: 'CS402 Midterm files', title: 'Theory of Automata.CS402 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/16AWcwDt02QqEJUFYVKU5lwJsg5dsffWo/view?usp=sharing',
     'https://drive.google.com/file/d/1GY6pyax596DrziS9WDD566qrw7f2mvdr/view?usp=sharing',
     'https://drive.google.com/file/d/16mMMjvlCPEMPgN2ystYBy6998WC88qte/view?usp=sharing'
   ] },
 
   //CS402 Finalterm past paper
-  { id: 65, code: 'CS402', title: 'Theory of Automata.CS402 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 65, code: 'CS402 Finalterm files', title: 'Theory of Automata.CS402 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/12Weh_3gF4VwKhPTvQ8Vh9ECCECM6hXcS/view?usp=sharing',
     'https://drive.google.com/file/d/18f2ReOEpvogMf0WvouhSYTRHQmEY8ydq/view?usp=sharing',
     'https://drive.google.com/file/d/1KCBJL0JUn71nIdG3zI836NM6ENXjedR0/view?usp=sharing',
@@ -255,13 +255,13 @@ export const uniBaseData = [
   ] },
 
   //CS403 midterm past paper
-  { id: 66, code: 'CS403', title: 'Database Management System.CS403 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 66, code: 'CS403 Midterm files', title: 'Database Management System.CS403 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1K7TcPZZrZV54gZ2NKy4wUIyGP8MfOVKM/view?usp=sharing',
     'https://drive.google.com/file/d/1Mv8p2Yivo6GV4idUp0h0quaG9NhJmy3Y/view?usp=sharing'
   ] },
   
   //CS403 Finalterm past paper
-  { id: 66, code: 'CS403', title: 'Database Management System.CS403 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 66, code: 'CS403 Finalterm files', title: 'Database Management System.CS403 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1u2nkEe_MoNugpmT8WQku5rRHLEUnwK7K/view?usp=sharing',
     'https://drive.google.com/file/d/13mUrWUOFX37LDY1G-o_OfhFbYk3DcPzb/view?usp=sharing',
     'https://drive.google.com/file/d/1KriJQDn3Uo3A3wHZiBPIG8mzywUsx9KP/view?usp=sharing',
@@ -269,18 +269,18 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/17IH4r42RR4w2lTgzqWZrVwsxkr3QyG2H/view?usp=sharing'
   ] },
 
-  { id: 67, code: 'CS404', title: 'Database Management System.CS404 midterm past papers.', category: 'cs', image: '💻', links: [] },
-  { id: 68, code: 'CS405', title: 'Database Management System.CS405 midterm past papers.', category: 'cs', image: '💻', links: [] },
-  { id: 69, code: 'CS406', title: 'Database Management System.CS406 midterm past papers.', category: 'cs', image: '💻', links: [] },
-  { id: 70, code: 'CS407', title: 'Database Management System.CS407 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 67, code: 'CS404 Finalterm files', title: 'Database Management System.CS404 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 68, code: 'CS405 Finalterm files', title: 'Database Management System.CS405 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 69, code: 'CS406 Finalterm files', title: 'Database Management System.CS406 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 70, code: 'CS407 Finalterm files', title: 'Database Management System.CS407 midterm past papers.', category: 'cs', image: '💻', links: [] },
  
   //CS408 midterm past paper
-  { id: 71, code: 'CS408', title: 'CS408 Human computer interaction.Cs409 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 71, code: 'CS408 Midterm files', title: 'CS408 Human computer interaction.Cs409 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1EeuobzDv4AdAoovELuEJTm4VIh_MO7GE/view?usp=sharing'
   ] },
 
   //CS408 Finalterm past paper
-  { id: 71, code: 'CS408', title: 'CS408 Human computer interaction.Cs409 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 71, code: 'CS408 Finalterm files', title: 'CS408 Human computer interaction.Cs409 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/137_jCN64u-6CmP_pzsUFS6S-Y4iwU28H/view?usp=sharing',
     'https://drive.google.com/file/d/10DpEJrgFq9N6_fbaWULSAex30ZMZdBP2/view?usp=sharing',
     'https://drive.google.com/file/d/1Y-DSBpgmsQil2ou9O0gkmtgOvusI4IIn/view?usp=sharing'
@@ -290,26 +290,26 @@ export const uniBaseData = [
  // { id: 73, code: 'CS410', title: 'Database Management System.CS410 midterm past papers.', category: 'cs', image: '💻', links: [] },
  
  //CS411 midterm past paper
-  { id: 74, code: 'CS411', title: 'CS411 Visual Programming.CS411 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 74, code: 'CS411 Midterm files', title: 'CS411 Visual Programming.CS411 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1YrIBW2fhQbq_3ylJC3GGuLN4lzWYgtom/view?usp=sharing',
     'https://drive.google.com/file/d/1x2NtiNCwbZaJMpicA2Vr8sVnLsTnwNKk/view?usp=sharing'
   ] },
 
   //CS411 Finalterm past paper
-  { id: 74, code: 'CS411', title: 'CS411 Visual Programming.CS411 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 74, code: 'CS411 Finalterm files', title: 'CS411 Visual Programming.CS411 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1AIiMaZXS_jYuAfvyd1IZqSJ7S2jya-ow/view?usp=sharing',
     'https://drive.google.com/file/d/1CDFQyb2dRGB4-w2stiCyzBNf6CW7uBDj/view?usp=sharing'
   ] },
 
   //CS501 midterm past paper
-  { id: 75, code: 'CS501', title: 'CS501 Advance Computer Architecture.CS501 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 75, code: 'CS501 Midterm files', title: 'CS501 Advance Computer Architecture.CS501 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/19Kfe1fVNgDPy3Fqm1u7tvclM7kieDhjA/view?usp=sharing',
     'https://drive.google.com/file/d/1inK7WET60xy8Nvn7Ui224B6LpAr8Fph5/view?usp=sharing',
     'https://drive.google.com/file/d/1LrU-vXYZu-g7VhuYfuws3d7_5Qr-_W4G/view?usp=sharing'
   ] },
 
   //CS501 Finalterm past paper
-  { id: 75, code: 'CS501', title: 'CS501 Advance Computer Architecture.CS501 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 75, code: 'CS501 Finalterm files', title: 'CS501 Advance Computer Architecture.CS501 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1JEABGf8ItFx1JqjuG35-DC2jEVrIBsBZ/view?usp=sharing',
     'https://drive.google.com/file/d/1Z3lROJg_U2z-uIJzvxqNh21VaiRitLoA/view?usp=sharing',
     'https://drive.google.com/file/d/1hwxGnu3WVrq1pJJ3F78nUtgoOvpbLmGo/view?usp=sharing',
@@ -320,7 +320,7 @@ export const uniBaseData = [
   ] },
 
   //CS502 midterm past paper
-  { id: 76, code: 'CS502', title: 'CS502 Fundamentals of Algorithm.CS502 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 76, code: 'CS502 Midterm files', title: 'CS502 Fundamentals of Algorithm.CS502 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/140YRhTrWmfgAJgMHtpizYfSji9tIcAi0/view?usp=sharing',
     'https://drive.google.com/file/d/10dJEfrSy7HTbkBwClTYsFWktNJumVgt3/view?usp=sharing',
     ';https://drive.google.com/file/d/1j6ieN0nH3g7AJLn0I46lvDXSjuvKMSs9/view?usp=sharing',
@@ -329,7 +329,7 @@ export const uniBaseData = [
   ] },
 
   //CS502 Finalterm past paper
-  { id: 76, code: 'CS502', title: 'CS502 Fundamentals of Algorithm.CS502 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 76, code: 'CS502 Finalterm files', title: 'CS502 Fundamentals of Algorithm.CS502 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/18FKBsmK8E6gYSIoQr-nD48B6zikny2EL/view?usp=sharing',
     'https://drive.google.com/file/d/1zhdr70e2SEAcWFmoN_yJ3blmSwN9qLLH/view?usp=sharing',
     'https://drive.google.com/file/d/1OlzJZPizN_aeSGVOXXOt0d6bMAEkMV_p/view?usp=sharing',
@@ -337,7 +337,7 @@ export const uniBaseData = [
   ] },
 
   //CS504 midterm past paper
-  { id: 77, code: 'CS504', title: 'CS504 Software Engineering.CS504 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 77, code: 'CS504 Midterm files', title: 'CS504 Software Engineering.CS504 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1X01iE9qsGS3OcE_yehKz4y8muH2zb8-t/view?usp=sharing',
     'https://drive.google.com/file/d/1IQsyBBQkG6O0myi5BWWuRDZCYKn12--H/view?usp=sharing',
     'https://drive.google.com/file/d/1qJ6WXLLq_wxQ0wGciAum5wOPFd_gQkp8/view?usp=sharing',
@@ -345,7 +345,7 @@ export const uniBaseData = [
   ] },
   
   //CS504 Finalterm past paper
-  { id: 77, code: 'CS504', title: 'CS504 Software Engineering.CS504 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 77, code: 'CS504 Finalterm files', title: 'CS504 Software Engineering.CS504 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1E8NCdUBlHEuhN7621ST3_O0VbPUWyjvQ/view?usp=sharing',
     'https://drive.google.com/file/d/1aV5fC-AygCSdGsiqD0JvYUejQv9NovfP/view?usp=sharing',
     'https://drive.google.com/file/d/1bq-lY4czC_hJ2ncGFemuw2NAcE37yYw7/view?usp=sharing',
@@ -353,12 +353,12 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1lVbjm80T98-xZJNuBRnB-m7MHl-T2HDW/view?usp=sharing'
   ] },
 
-  { id: 77, code: 'CS505', title: 'Database Management System.CS505 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 77, code: 'CS505 Finalterm files', title: 'Database Management System.CS505 midterm past papers.', category: 'cs', image: '💻', links: [
 
   ] },
 
   //CS506 midterm past paper
-  { id: 78, code: 'CS506', title: 'Web design and development.CS506 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 78, code: 'CS506 Midterm files', title: 'Web design and development.CS506 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1_lDa1hNYH8-v9C-tojTcxKkYQ_5qHhjy/view?usp=sharing',
     'https://drive.google.com/file/d/1MrkfdrKO6NlFL5WWzNw7VKpoLHeEjObA/view?usp=sharing',
     'https://drive.google.com/file/d/1rE5cVvCNrGR7NbieWc82waU6PdE4hpOO/view?usp=sharing',
@@ -367,7 +367,7 @@ export const uniBaseData = [
   ] },
 
   //CS506 Finalterm past paper
-  { id: 78, code: 'CS506', title: 'Web design and development.CS506 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 78, code: 'CS506 Finalterm files', title: 'Web design and development.CS506 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/14I-_RFHVwQro1946sRlF0Pn0m74cGP3r/view?usp=sharing',
     'https://drive.google.com/file/d/1hMfW0Ksqn8KiyZK1li2SZK-qi5ISyBNe/view?usp=sharing',
     'https://drive.google.com/file/d/1FYzwpEuhMhk0UlyGuIif0lwKiClHeDRC/view?usp=sharing',
@@ -378,33 +378,33 @@ export const uniBaseData = [
   ] },
 
 //CS507 midterm past paper
-  { id: 79, code: 'CS507', title: 'Database Management System.CS507 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 79, code: 'CS507 Midterm files', title: 'Database Management System.CS507 midterm past papers.', category: 'cs', image: '💻', links: [] },
 
   //CS507 Finalterm past paper
-  { id: 79, code: 'CS507', title: 'Database Management System.CS507 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 79, code: 'CS507 Finalterm files', title: 'Database Management System.CS507 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1x3687z931pdlxixBfCQ521TYnWSZynT7/view?usp=sharing',
     'https://drive.google.com/file/d/1i9eESxaLPwB9DuJMtlKxKnFcACqNPiBH/view?usp=sharing'
   ] },
   
   //CS508 midterm past paper
-  { id: 80, code: 'CS508', title: 'CS508 Modern Programming languages.CS508 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 80, code: 'CS508 Midterm files', title: 'CS508 Modern Programming languages.CS508 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/13a2vsH6Sqn6OfK1f5h2kGrq5qsC42wIC/view?usp=sharing'
   ] },
 
   //CS508 Finalterm past paper
-  { id: 80, code: 'CS508', title: 'CS508 Modern Programming languages.CS508 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 80, code: 'CS508 Finalterm files', title: 'CS508 Modern Programming languages.CS508 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/16BpvXkL2xO10-Pj7hF37XkcxmTXjgpk9/view?usp=sharing'
   ] },
 
   //CS601 midterm past paper
-  { id: 81, code: 'CS601', title: 'Cs601 Data communication.CS601 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 81, code: 'CS601 Midterm files', title: 'Cs601 Data communication.CS601 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1P_C-Uu7qCcNCrctiXxi3aSSUTX9KiEbE/view?usp=sharing',
     'https://drive.google.com/file/d/1GJ4Npl0gj3SjmFf6w-n28C7VtAdogOtD/view?usp=sharing',
     'https://drive.google.com/file/d/1UhM08pXs7J4dZsK-V0caNXo6i9FGSzVn/view?usp=sharing'
   ] },
 
   //CS601 Finalterm past paper
-  { id: 81, code: 'CS601', title: 'Cs601 Data communication.CS601 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 81, code: 'CS601 Finalterm files', title: 'Cs601 Data communication.CS601 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/14k5qqUd45qgANEjsC5XWfnjbpDNyxYY6/view?usp=sharing',
     'https://drive.google.com/file/d/1tIR70AnkKZr9vrjTVRg0cNtQcdBTo7LI/view?usp=sharing',
     'https://drive.google.com/file/d/1066vv__Tkv3OlkgMZCdIku5IQ7nhD-7z/view?usp=sharing',
@@ -414,7 +414,7 @@ export const uniBaseData = [
   ] },
 
   //CS602  midterm past paper
-  { id: 82, code: 'CS602', title: 'CS602 Computer Graphic.CS602 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 82, code: 'CS602 Midterm files', title: 'CS602 Computer Graphic.CS602 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1HRi3hma-onHzuggEsFqxTxcGpU6hhIsN/view?usp=sharing',
     'https://drive.google.com/file/d/1B6F-h7w7Nb_CoyjYs2gCpaU1KMxU5C5t/view?usp=sharing',
     'https://drive.google.com/file/d/1MUXAi3gzmt8_PpAI-LHoG3Nhyp6kDxEN/view?usp=sharing',
@@ -422,16 +422,16 @@ export const uniBaseData = [
   ] },  
 
   //CS602 Finalterm Past papers
-  { id: 82, code: 'CS602', title: 'CS602 Computer Graphic.CS602 Finalterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 82, code: 'CS602 Finalterm files', title: 'CS602 Computer Graphic.CS602 Finalterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1V5lE3kqClJ1u7b_EEeo5P3CtZrPnuHKV/view?usp=sharing',
     'https://drive.google.com/file/d/1EB0XGV21MY-tpoztsu1gGeM8qHFyaeUM/view?usp=sharing',
     'https://drive.google.com/file/d/1nfvZBUu7RIiCu_Qu-4qv9RqOmxEMlmZm/view?usp=sharing',
     'https://drive.google.com/file/d/1woHZEkWrUEltlNpiW_EuDAppJVB5VAtI/view?usp=sharing'
   ] },
 
-  { id: 83, code: 'CS603', title: 'Database Management System.CS603 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 83, code: 'CS603 Midterm files', title: 'Database Management System.CS603 midterm past papers.', category: 'cs', image: '💻', links: [] },
   //CS604 midterm past paper
-  { id: 84, code: 'CS604', title: 'CS604 - Operating System . CS604 midterm pastpaper', category: 'cs', image: '💻', links: [
+  { id: 84, code: 'CS604 Midterm files', title: 'CS604 - Operating System . CS604 midterm pastpaper', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/19v3LYo1gu5P-pxom8QVlK_R6Xp61Hpe8/view?usp=sharing',
     'https://drive.google.com/file/d/1lvH6HpXI9ZrktPTNBn2VsxKKi6RjlfYx/view?usp=sharing',
     'https://drive.google.com/file/d/1FqPAs8Ca25Zx9NhRaze75er-ISiWuvH3/view?usp=sharing',
@@ -440,16 +440,16 @@ export const uniBaseData = [
   ] },
 
   //CS604 Fianlterm past paper
-  { id: 84, code: 'CS604', title: 'CS604 - Operating System . CS604 Fianlterm pastpaper', category: 'cs', image: '💻', links: [
+  { id: 84, code: 'CS604 Finalterm files', title: 'CS604 - Operating System . CS604 Fianlterm pastpaper', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1ekeCIc8PXVOSAoecKnVqwl3SX1pQBcZK/view?usp=sharing',
     'https://drive.google.com/file/d/1utL4TELHLpp7BL1OR8n3j0Hz_cJz4ci8/view?usp=sharing',
     'https://drive.google.com/file/d/1kqqfwAdZDgVXdCSzbxyT_zx7cbX3ah9n/view?usp=sharing',
     'https://drive.google.com/file/d/1QHK0K7cBCi8YYaY2n-072JjiwT6a4sOq/view?usp=sharing',
     'https://drive.google.com/file/d/1wR3etYSiORVZqxcitkj2DuVcgZwM1QDu/view?usp=sharing'
   ] },
-  
+
   //CS605 midter past paper
-  { id: 85, code: 'CS605', title: 'CS605- Software Engineering II. CS605 midterm past paper.', category: 'cs', image: '💻', links: [
+  { id: 85, code: 'CS605 Midterm files', title: 'CS605- Software Engineering II. CS605 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1cfXT9Vacv04Uxpu3c4ZoKYWOzqTu0zCD/view?usp=sharing',
     'https://drive.google.com/file/d/134RLf0Z_vVntdrzDDYpdgS7vk1aYalYq/view?usp=sharing',
     'https://drive.google.com/file/d/1PpNEsfd_DdKh1E2gjWiQQOJpTvOw5bXp/view?usp=sharing',
@@ -457,31 +457,31 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1bd0QDZMKSqtLMDR_X60ySplw_Nm5ExT8/view?usp=sharing'
   ] },
   //CS606 midterm past paper
-  { id: 86, code: 'CS606', title: 'cs606 compiler construction.CS606 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 86, code: 'CS606 Midterm files', title: 'cs606 compiler construction.CS606 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1slF38XHWsiylLJFelbvdUPCgfox6KlNA/view?usp=sharing',
     'https://drive.google.com/file/d/1bL8G_Fzztoy_rafEXlXrekYCokKisEDM/view?usp=sharing',
     'https://drive.google.com/file/d/1NctgnLm5S8ETHFrgCKJa8lAOOpVYI4fs/view?usp=sharing'
   ] },
   //CS607 midterm past paper
-  { id: 87, code: 'CS607', title: 'Database Management System.CS607 midterm past papers.', category: 'cs', image: '💻', links: [] },
+  { id: 87, code: 'CS607 Midterm files', title: 'Database Management System.CS607 midterm past papers.', category: 'cs', image: '💻', links: [] },
   { id: 88, code: 'CS608', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
   //CS609 midterm pastpaper
-  { id: 89, code: 'CS609', title: 'cs609 system programming.cs609 midterm past paper', category: 'cs', image: '💻', links: [
+  { id: 89, code: 'CS609 Midterm files', title: 'cs609 system programming.cs609 midterm past paper', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1re5eCb91b7EuEOuWafGs-dM4Zn9IjXfP/view?usp=sharing'
   ] },
   //C610 midterm past paper
-  { id: 90, code: 'CS610', title: 'CS610 Computer Networking.cs610 midterm past past papers.', category: 'cs', image: '💻', links: [
+  { id: 90, code: 'CS610 Midterm files', title: 'CS610 Computer Networking.cs610 midterm past past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1sKpZKwCGx83CPcjFVTa0jLJPGcLtIFdF/view?usp=sharing',
     'https://drive.google.com/file/d/16mznd7jbHTBTjduIQLprm6w441d2en9T/view?usp=sharing',
     'https://drive.google.com/file/d/1Q0MRQtbhlx87Mlqne53yncQs9wdxu3bQ/view?usp=sharing',
     'https://drive.google.com/file/d/16yD0PXNRdrHjGZwbUPslYGwqPX6DEZsu/view?usp=sharing'
   ] },
   //CS611 midterm past paper
-  { id: 91, code: 'CS611', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 91, code: 'CS612', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
-  { id: 91, code: 'CS613', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 91, code: 'CS611 Midterm files', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 91, code: 'CS612 Midterm files', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
+  { id: 91, code: 'CS613 Midterm files', title: 'Database Management System', category: 'cs', image: '💻', links: [] },
   //CS614 midterm past paper
-  { id: 91, code: 'CS614', title: 'CS614 data warehousing. cs614 midterm past papers.', category: 'cs', image: '💻', links: [
+  { id: 91, code: 'CS614 Midterm files', title: 'CS614 data warehousing. cs614 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1L1jTRl3Bh-ydtfoSCbcAnHzRuYUXF4H7/view?usp=sharing',
     'https://drive.google.com/file/d/10C5iFrV1E5VjY81FYqFX3UAr6E6ncDql/view?usp=sharing',
     'https://drive.google.com/file/d/1GXQ5w76-I38yhn5lZ3SYyn1oCOWrrBJK/view?usp=sharing'
