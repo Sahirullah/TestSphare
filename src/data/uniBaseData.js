@@ -390,19 +390,45 @@ export const uniBaseData = [
   { id: 80, code: 'CS508', title: 'CS508 Modern Programming languages.CS508 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/13a2vsH6Sqn6OfK1f5h2kGrq5qsC42wIC/view?usp=sharing'
   ] },
+
+  //CS508 Finalterm past paper
+  { id: 80, code: 'CS508', title: 'CS508 Modern Programming languages.CS508 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/16BpvXkL2xO10-Pj7hF37XkcxmTXjgpk9/view?usp=sharing'
+  ] },
+
   //CS601 midterm past paper
   { id: 81, code: 'CS601', title: 'Cs601 Data communication.CS601 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1P_C-Uu7qCcNCrctiXxi3aSSUTX9KiEbE/view?usp=sharing',
     'https://drive.google.com/file/d/1GJ4Npl0gj3SjmFf6w-n28C7VtAdogOtD/view?usp=sharing',
     'https://drive.google.com/file/d/1UhM08pXs7J4dZsK-V0caNXo6i9FGSzVn/view?usp=sharing'
   ] },
+
+  //CS601 Finalterm past paper
+  { id: 81, code: 'CS601', title: 'Cs601 Data communication.CS601 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/14k5qqUd45qgANEjsC5XWfnjbpDNyxYY6/view?usp=sharing',
+    'https://drive.google.com/file/d/1tIR70AnkKZr9vrjTVRg0cNtQcdBTo7LI/view?usp=sharing',
+    'https://drive.google.com/file/d/1066vv__Tkv3OlkgMZCdIku5IQ7nhD-7z/view?usp=sharing',
+    'https://drive.google.com/file/d/1IkVSPajZVGqDjA6pbEMXPCfUR-JXZSIz/view?usp=sharing',
+    'https://drive.google.com/file/d/1GRmlQezdVw8Hcj_S2VkNXgcIr1eX8ulI/view?usp=sharing',
+    'https://drive.google.com/file/d/1ukJvJerexEipLrzgwB3z1mFDfS00bEYJ/view?usp=sharing'
+  ] },
+
   //CS602  midterm past paper
   { id: 82, code: 'CS602', title: 'CS602 Computer Graphic.CS602 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1HRi3hma-onHzuggEsFqxTxcGpU6hhIsN/view?usp=sharing',
     'https://drive.google.com/file/d/1B6F-h7w7Nb_CoyjYs2gCpaU1KMxU5C5t/view?usp=sharing',
     'https://drive.google.com/file/d/1MUXAi3gzmt8_PpAI-LHoG3Nhyp6kDxEN/view?usp=sharing',
     'https://drive.google.com/file/d/1FtxNyW84Qese163CJhQRPaCn-8EuFO2B/view?usp=sharing'
+  ] },  
+
+  //CS602 Finalterm Past papers
+  { id: 82, code: 'CS602', title: 'CS602 Computer Graphic.CS602 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1V5lE3kqClJ1u7b_EEeo5P3CtZrPnuHKV/view?usp=sharing',
+    'https://drive.google.com/file/d/1EB0XGV21MY-tpoztsu1gGeM8qHFyaeUM/view?usp=sharing',
+    'https://drive.google.com/file/d/1nfvZBUu7RIiCu_Qu-4qv9RqOmxEMlmZm/view?usp=sharing',
+    'https://drive.google.com/file/d/1woHZEkWrUEltlNpiW_EuDAppJVB5VAtI/view?usp=sharing'
   ] },
+
   { id: 83, code: 'CS603', title: 'Database Management System.CS603 midterm past papers.', category: 'cs', image: '💻', links: [] },
   //CS604 midterm past paper
   { id: 84, code: 'CS604', title: 'CS604 - Operating System . CS604 midterm pastpaper', category: 'cs', image: '💻', links: [
@@ -412,6 +438,16 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1qfVve19Y6lWZi5TczjXOgXsJt3vfH7Mf/view?usp=sharing',
     'https://drive.google.com/file/d/1W8dpESnZ2qlkBomtmhQjHHmypw1Izst7/view?usp=sharing'
   ] },
+
+  //CS604 Fianlterm past paper
+  { id: 84, code: 'CS604', title: 'CS604 - Operating System . CS604 Fianlterm pastpaper', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1ekeCIc8PXVOSAoecKnVqwl3SX1pQBcZK/view?usp=sharing',
+    'https://drive.google.com/file/d/1utL4TELHLpp7BL1OR8n3j0Hz_cJz4ci8/view?usp=sharing',
+    'https://drive.google.com/file/d/1kqqfwAdZDgVXdCSzbxyT_zx7cbX3ah9n/view?usp=sharing',
+    'https://drive.google.com/file/d/1QHK0K7cBCi8YYaY2n-072JjiwT6a4sOq/view?usp=sharing',
+    'https://drive.google.com/file/d/1wR3etYSiORVZqxcitkj2DuVcgZwM1QDu/view?usp=sharing'
+  ] },
+  
   //CS605 midter past paper
   { id: 85, code: 'CS605', title: 'CS605- Software Engineering II. CS605 midterm past paper.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/1cfXT9Vacv04Uxpu3c4ZoKYWOzqTu0zCD/view?usp=sharing',
