@@ -13,7 +13,6 @@ const PastPapers = lazy(() => import('./pages/PastPaper.jsx'))
 const FileHub = lazy(() => import('./pages/FileHub'))
 const UniBase = lazy(() => import('./pages/UniBase'))
 const Assignment = lazy(() => import('./pages/Assignment'))
-const MidtermReviews = lazy(() => import('./pages/MidtermReviews'))
 const Blogs = lazy(() => import('./pages/Blogs'))
 const ImportantSoftwares = lazy(() => import('./pages/ImportantSoftwares'))
 const ExamPractice = lazy(() => import('./pages/ExamPractice'))
@@ -46,7 +45,6 @@ function App() {
               <Route path="/final-term" element={<FileHub />} />
               <Route path="/uni-base" element={<UniBase />} />
               <Route path="/assignment" element={<Assignment />} />
-              <Route path="/midterm-reviews" element={<MidtermReviews />} />
               <Route path="/blogs" element={<Blogs />} />
               <Route path="/notes" element={<Notes />} />
               <Route path="/softwares" element={<ImportantSoftwares />} />

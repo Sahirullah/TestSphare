@@ -17,9 +17,7 @@ export default defineConfig({
           'data': [
             './src/data/examPracticeData.js',
             './src/data/assignmentData.js',
-            './src/data/pastPaper.js',
-            './src/data/midtermReviewsData.js',
-            './src/data/finalTermReviewsData.js'
+            './src/data/pastPaper.js'
           ],
           'components': [
             './src/components/Header.jsx',

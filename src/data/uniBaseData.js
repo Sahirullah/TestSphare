@@ -10,7 +10,7 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1ogtuSCHOjbKb_I7TXxzsMXucJWcc_lIm/view?usp=sharing',
     'https://drive.google.com/file/d/1IbIB7IBTeJIosKM3Icr28VW53zL6aClt/view?usp=sharing',
     'https://drive.google.com/file/d/1JgSrrL65OHMqfzrFxSHKeGBQ9HvgYyRe/view?usp=sharing',
-    ';https://drive.google.com/file/d/1wdaGHzTxUQUkZobcPxygDyap4886cHsP/view?usp=sharing'
+    'https://drive.google.com/file/d/1wdaGHzTxUQUkZobcPxygDyap4886cHsP/view?usp=sharing'
   ] },
   
   // BIF - Bioinformatics
@@ -323,7 +323,7 @@ export const uniBaseData = [
   { id: 76, code: 'CS502 Midterm files', title: 'CS502 Fundamentals of Algorithm.CS502 midterm past papers.', category: 'cs', image: '💻', links: [
     'https://drive.google.com/file/d/140YRhTrWmfgAJgMHtpizYfSji9tIcAi0/view?usp=sharing',
     'https://drive.google.com/file/d/10dJEfrSy7HTbkBwClTYsFWktNJumVgt3/view?usp=sharing',
-    ';https://drive.google.com/file/d/1j6ieN0nH3g7AJLn0I46lvDXSjuvKMSs9/view?usp=sharing',
+    'https://drive.google.com/file/d/1j6ieN0nH3g7AJLn0I46lvDXSjuvKMSs9/view?usp=sharing',
     'https://drive.google.com/file/d/1iP0T9fPMAe5j7895wXJr3Xdw16yZ-a3l/view?usp=sharing',
     'https://drive.google.com/file/d/1iP0T9fPMAe5j7895wXJr3Xdw16yZ-a3l/view?usp=sharing'
   ] },
@@ -652,7 +652,7 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/17UYqJNkg1wQT2prK1jqCVJHBnlTz9Xo_/view?usp=sharing',
     'https://drive.google.com/file/d/1XUUiKtvI0VRkvLQfZD1C2IUvur1TFrol/view?usp=sharing',
     'https://drive.google.com/file/d/1rI4eSl_nfmwx6_9YFAHbFTn_TUd0iyXd/view?usp=sharing',
-    ';https://drive.google.com/file/d/1sh_fglR60i6-_dDdBrzEW2CWrtRKWB76/view?usp=sharing',
+    'https://drive.google.com/file/d/1sh_fglR60i6-_dDdBrzEW2CWrtRKWB76/view?usp=sharing',
     'https://drive.google.com/file/d/103V0Arwbdg3BXOvT7KchGOmNiiS9KvzT/view?usp=sharing'
   ]},
 
