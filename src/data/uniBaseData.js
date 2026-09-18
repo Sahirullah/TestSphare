@@ -547,6 +547,11 @@ export const uniBaseData = [
     'https://drive.google.com/file/d/1YLGaBfOdh1YJG_ZGH5dfXbtDm3k-56gI/view?usp=sharing',
     'https://drive.google.com/file/d/1WpKAFlNVvzB100J9QtyaZxnLmdyV0ypp/view?usp=sharing'
   ] },
+
+  //CS615 Finalterm past paper
+  { id: 91, code: 'CS615 Finalterm files', title: 'CS615 Software project management. cs615 Finalterm past papers.', category: 'cs', image: '💻', links: [
+    'https://drive.google.com/file/d/1OQjSaF9siJPONPCLSDDlzYralo6Zvm3P/view?usp=sharing'
+  ] },
 ];
 
 export const uniBaseDataPart2 = [
