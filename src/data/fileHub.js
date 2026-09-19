@@ -1471,6 +1471,7 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/uc?export=download&id=1i5Y49Aq-kM2IixhjdvZ-JlCwa3wtUfUk',
     'https://drive.google.com/uc?export=download&id=1zFAWxUbqX7r3bLv3cHnnttBPpjZuzYA5'
   ]},
+  
   { id: 168, code: 'MGT503', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
     'https://drive.google.com/uc?export=download&id=11SGapCqrdpKsXkS-CUJrONREVR1eOJZM',
     'https://drive.google.com/uc?export=download&id=1n2TagVtazmVpljzjJcWXEisd_uNo84Lq',
@@ -1481,6 +1482,7 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/uc?export=download&id=1fpZE1uU993J2TXYoNwl_OvAdzuW0Q05m',
     'https://drive.google.com/uc?export=download&id=1BntoAISXU217cxMDp9bnMEe2u-Xc23El'
   ]},
+
   { id: 168, code: 'MGT504', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
     'https://drive.google.com/uc?export=download&id=1_XbYEMlVosjsv_t8Y-f-aFYhQHE_HJfW',
     'https://drive.google.com/uc?export=download&id=1Gf-7g-0PkNLUNLZx9ESAcN8HgSjy3SLX',
@@ -1493,6 +1495,7 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/uc?export=download&id=1182a4f1gNqanDbSO8wrwV7wXVp3ecn-3',
     'https://drive.google.com/uc?export=download&id=15i61dX--wy6d6CxSCWmlTW30xBer9VYX'
   ]},
+
   { id: 168, code: 'MGT510', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
     'https://drive.google.com/uc?export=download&id=1zsBpMDxZ0T_A7oAKGgUp8PrkPTMjAU2K',
     'https://drive.google.com/uc?export=download&id=1gN_KIQLBxrYfuTH8DcYxVs4WADGDWMju',
