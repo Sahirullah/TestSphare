@@ -12,15 +12,18 @@ export const finalTermData = [
   
   // BIF - Bioinformatics
   { id: 3, code: 'BIF101', title: 'Cell Biology', category: 'bif', image: '🧬' ,Link:''},
+
   //BIF401
   { id: 4, code: 'BIF401', title: 'Bioinformatics-I', category: 'bif', image: '🧬' ,links :[
     'https://docs.google.com/document/d/1hjLw6Jzw3rOb5vpVxlU4YO3coPrnpt1a/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://drive.google.com/uc?export=download&id=1RAuP9xX8XrXutkqq0C3r6TouTYlBQ8dy'
   ]},
+
 //BIF402
   { id: 5, code: 'BIF402', title: 'Ethical & Legal Issues in Bioinformatics', category: 'bif', image: '🧬',links:[
     'https://docs.google.com/document/d/1CD44mp3vjH6Et-2Rd2ewGyBoY-o7FS-i/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+
 //BIF501
   { id: 6, code: 'BIF501', title: 'Bioinformatics-II', category: 'bif', image: '🧬' ,links:[
     'https://drive.google.com/uc?export=download&id=1VKoZSH_UwsavKZVGm893QxJcpz0uuYsG',
@@ -33,6 +36,7 @@ export const finalTermData = [
     'https://docs.google.com/document/d/1GLLCaKTGEW4klk1PCFYOM1_mYB4n7Y4r/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true',
     'https://docs.google.com/document/d/1dpq9bGslQ68sGAl4kBE5liyxL7YApqMa/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
+  
   { id: 10, code: 'BIF732', title: 'Bioinformatics', category: 'bif', image: '🧬' ,links:[
       ' https://docs.google.com/document/d/1KnAZ0USkVxuTFeYZbr2rxdDprK5FEu19/edit?usp=sharing&ouid=114958120571553419825&rtpof=true&sd=true'
   ]},
@@ -1471,7 +1475,8 @@ export const finalTermDataPart4 = [
     'https://drive.google.com/uc?export=download&id=1i5Y49Aq-kM2IixhjdvZ-JlCwa3wtUfUk',
     'https://drive.google.com/uc?export=download&id=1zFAWxUbqX7r3bLv3cHnnttBPpjZuzYA5'
   ]},
-  
+
+//
   { id: 168, code: 'MGT503', title: 'Business & Management Course', category: 'mgt', image: '📊',links:[
     'https://drive.google.com/uc?export=download&id=11SGapCqrdpKsXkS-CUJrONREVR1eOJZM',
     'https://drive.google.com/uc?export=download&id=1n2TagVtazmVpljzjJcWXEisd_uNo84Lq',
