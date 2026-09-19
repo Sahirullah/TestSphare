@@ -1,4 +1,5 @@
 export const philosophyHistoryData = [
+  
   // Philosophy & History
   { id: 1, code: 'PHI201', title: 'Introduction to Philosophy', category: 'phi', image: '🤔', link: 'https://drive.google.com/uc?export=download&id=' },
   { id: 2, code: 'HIS201', title: 'World History I', category: 'his', image: '📜', link: '' },
