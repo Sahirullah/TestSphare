@@ -58,6 +58,9 @@ const ExploreCategories = () => {
     }
   };
 
+  // Debug: Log categories count
+  console.log('Total categories:', categories.length);
+
   return (
     <div className="explore-categories-page">
       <Header />
