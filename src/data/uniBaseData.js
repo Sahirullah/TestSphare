@@ -691,6 +691,12 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1qzYcYyLMyq2R-a3kt-TfT-LQt78eBtx9/view?usp=sharing'
   ] },
 
+  //Math104 Finalterm Past paper
+  { id: 134, code: 'MATH104 Finalterm files', title: 'Math101', category: 'Math104 Set and Logic. Finalterm past papers.', category:'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1ZM_NEQ0Gdf72VmKlr3w04prwEH2Cirs9/view?usp=sharing',
+    'https://drive.google.com/file/d/1tFpV-2qobDPd5DqxbRtVeSJgJ3MDouys/view?usp=sharing'
+  ] },
+
    //Math201 Finalterm Past paper
   { id: 135, code: 'MATH201 Finalterm files', title: 'MATH202 Multivariable Calculus.math202 Finalterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1pAsibTDBrrv3V7O0mgwuMzA4XWC1Rm1_/view?usp=sharing',
