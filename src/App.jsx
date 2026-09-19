@@ -25,7 +25,6 @@ const PhilosophyHistory = lazy(() => import('./pages/PhilosophyHistory'))
 const BusinessFinance = lazy(() => import('./pages/BusinessFinance'))
 const ResearchInnovation = lazy(() => import('./pages/ResearchInnovation'))
 const ExploreCategories = lazy(() => import('./pages/ExploreCategories'))
-const HecPastPapers = lazy(() => import('./pages/HecPastPapers'))
 
 const LoadingFallback = () => <div style={{ padding: '40px', textAlign: 'center' }}>Loading...</div>
 
@@ -59,7 +58,6 @@ function App() {
               <Route path="/business-finance" element={<BusinessFinance />} />
               <Route path="/research-innovation" element={<ResearchInnovation />} />
               <Route path="/explore-categories" element={<ExploreCategories />} />
-              <Route path="/hec-past-papers" element={<HecPastPapers />} />
             </Routes>
           </Suspense>
         </div>
