@@ -735,18 +735,42 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/14ov8YEEF7VaIAPp2FQi7CZTCh-HFgIbN/view?usp=sharing'
   ] },
 
-  
+//MGT501 Midterm pastpaper
   { id: 142, code: 'MGT501 Midterm files', title: 'mgt501 human resources management. mgt501 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1kkL2lL4loxQ-MrBMhHUTTvWbvdkBniqb/view?usp=sharing',
     'https://drive.google.com/file/d/1ppNrFOk48eLqYdUOYdKiH1XIEgBLGJr4/view?usp=sharing'
   ]},
+  
+
+//MGT501 Finalterm pastpaper
+  { id: 142, code: 'MGT501 Finalterm files', title: 'mgt501 human resources management. mgt501 Finalterm past papers.', category: 'mgt', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/14H8xrIzIT6yl2UkEviJZ-XZ0K5mKnNAm/view?usp=sharing',
+    'https://drive.google.com/file/d/1Jg0XRTKm9TEkTuxub3f0WncAK4L1Zewt/view?usp=sharing'
+  ]},
+
+//MGT501 Midterm pastpaper
   { id: 143, code: 'PHY101 Midterm files', title: 'phy101 physics. phy101 midterm past papers.', category: 'phy', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing',
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing'
   ]},
+
+//PHY101 Finalterm pastpaper
+  { id: 143, code: 'PHY101 Finalterm files', title: 'phy101 physics. phy101 Finalterm past papers.', category: 'phy', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1ktg6hil5NDBqilMty4JxkpWjsyPPUekp/view?usp=sharing'
+  ]},
+
+//PHY301 Finalterm pastpaper
+  { id: 143, code: 'PHY301 Finalterm files', title: 'phy301 Circuit Theory. phy301 Finalterm past papers.', category: 'phy', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1VRaLxKbgdTHFwaGOrQbwJ9yi7mTriMii/view?usp=sharing',
+    'https://drive.google.com/file/d/1bQ9Xei8_NiIG5bUKnbaLjjYXjD5o7Gch/view?usp=sharing'
+  ]},
+
+//SOC101 Midterm pastpaper
   { id: 144, code: 'SOC101 Midterm files', title: 'soc101 introduction to sociology . soc101 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1IHegGIabUhmccPzxJw_xohMIKBk2LAdM/view?usp=sharing'
   ]},
+
+//STA301 Midterm pastpaper
   { id: 145, code: 'STA301 Midterm files', title: 'STA301 statistic and probability. sta301 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/17UYqJNkg1wQT2prK1jqCVJHBnlTz9Xo_/view?usp=sharing',
     'https://drive.google.com/file/d/1XUUiKtvI0VRkvLQfZD1C2IUvur1TFrol/view?usp=sharing',
