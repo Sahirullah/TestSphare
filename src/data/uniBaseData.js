@@ -620,12 +620,25 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1O_YGW71-xlTcW8w893YxjnQufOWlW4u1/view?usp=sharing',
     'https://drive.google.com/file/d/1Xqev4o1zisTdSQ4zc7t12V0Tb-Jc7hLJ/view?usp=sharing'
   ] },
+  
+  // ENG - English Finalterm past papers
+  { id: 116, code: 'ENG101 finalterm files', title: 'English 101. eng101 finalterm past papers.', category: 'eng', image: '📚', links: [
+    'https://drive.google.com/file/d/13_whIUVIzkf6oDomlHNkFEYXnmcswRye/view?usp=sharing',
+    'https://drive.google.com/file/d/1yynpAD5djxcOcWd_BEKyh40UcYmROtZV/view?usp=sharing'
+  ] },
 
+  //ENG201 Midterm files
   { id: 117, code: 'ENG201 Midterm files', title: 'English 201. eng201 midterm past paper.', category: 'eng', image: '📚', links: [
     'https://drive.google.com/file/d/1jeoiketnPOpt1TM8hkee5ZsVONZXnmuQ/view?usp=sharing',
     'https://drive.google.com/file/d/1_6wdmVYa4YiOdlnYIGuDZlaYzDgMN4Qp/view?usp=sharing',
     'https://drive.google.com/file/d/1k-QN95U8_QAg426AkPSBvEulYWiqkez1/view?usp=sharing'
   ] },
+  //ENG201 Finalterm files
+  { id: 117, code: 'ENG201 Finalterm files', title: 'English 201. eng201 Finalterm past paper.', category: 'eng', image: '📚', links: [
+    'https://drive.google.com/file/d/1jO7FDGQakc6eZGnKQ5UaxptshiPqXEZ7/view?usp=sharing',
+    'https://drive.google.com/file/d/1diYmaQDfV5jCd5FsUP5oEL6Y2p5b5tUw/view?usp=sharing'
+  ] },
+
  // { id: 118, code: 'ENG203 Midterm files', title: 'English 201', category: 'eng', image: '📚', links: [] },
   
   // ETH - Ethics
