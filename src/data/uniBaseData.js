@@ -706,16 +706,35 @@ export const uniBaseDataPart2 = [
   ] },
   { id: 139, code: 'MATH202 Midterm files', title: 'HRM 628', category: 'mth', image: '👩‍💼', links: [] },
 
-
+//MCM301 Midterm pastpaper
   { id: 140, code: 'MCM301 Midterm files', title: 'MCM301 Communication Skills. mcm301 midterm past papers.', category: 'mcm', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1M7os09HXxV41FfiVWWlx8yxMzZWUG5kO/view?usp=sharing',
     'https://drive.google.com/file/d/1GFruHLDWRGqSD55vOLDN-oI8ItrvcGew/view?usp=sharing'
   ] },
-  //MGT
+//MCM301 Finalterm pastpaper
+  { id: 140, code: 'MCM301 Finalterm files', title: 'MCM301 Communication Skills. mcm301 Finalterm past papers.', category: 'mcm', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1BVNXyMoKl4VIn0ZqqbNE9gvrPkK8ECMq/view?usp=sharing',
+    'https://drive.google.com/file/d/1EzBlOKO_F8nLANCE9eoXsXSRpfnlEyF8/view?usp=sharing'
+  ] },
+
+//MGT201 Finalterm Pastpaper
+  { id: 141, code: 'MGT201 Finalterm files', title: 'mgt201 Finance Management.mgt301 Finalterm past papers.', category: 'mgt', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1DNWrMiaTc9xUwavu2c7h2F4BRGZvvyFa/view?usp=sharing',
+    'https://drive.google.com/file/d/1GmaBOOzk-o7jGFDjt6pYHMqyRDmtpT_u/view?usp=sharing'
+  ] },
+
+//MGT Midterm past paper
   { id: 141, code: 'MGT301 Midterm files', title: 'mgt301 Principle of marketing.mgt301 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1SDSBfsk3361gioTkte9SOOawbmF4mmMt/view?usp=sharing',
     'https://drive.google.com/file/d/1RaOg_u3y2_oYisIcGdb7fEEglmVaKyZt/view?usp=sharing'
   ] },
+
+//MGT Finalterm past paper
+  { id: 141, code: 'MGT301 Finalterm files', title: 'mgt301 Principle of marketing.mgt301 Finalterm past papers.', category: 'mgt', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1LWQMupC_UCIc5uH2P7yubWdtiyS_w8c_/view?usp=sharing',
+    'https://drive.google.com/file/d/14ov8YEEF7VaIAPp2FQi7CZTCh-HFgIbN/view?usp=sharing'
+  ] },
+
   
   { id: 142, code: 'MGT501 Midterm files', title: 'mgt501 human resources management. mgt501 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1kkL2lL4loxQ-MrBMhHUTTvWbvdkBniqb/view?usp=sharing',
