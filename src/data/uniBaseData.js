@@ -595,127 +595,127 @@ export const uniBaseDataPart2 = [
   { id: 103, code: 'CS726 Midterm files', title: 'Information Retrieval Techniques', category: 'cs', image: '💻', links: [] },
   
   // ECO - Economics
-  { id: 104, code: 'ECO401', title: 'Economics', category: 'eco', image: '📊', links: [
+  { id: 104, code: 'ECO401 Midterm files', title: 'Economics', category: 'eco', image: '📊', links: [
     'https://drive.google.com/file/d/1i7V4j9o75KBN1j5Q_bn1VurVKxdOSTvg/view?usp=sharing'
   ] },
-  { id: 105, code: 'ECO402', title: 'Microeconomics', category: 'eco', image: '📊', links: [] },
-  { id: 106, code: 'ECO403', title: 'Macroeconomics', category: 'eco', image: '📊', links: [
+  { id: 105, code: 'ECO402 Midterm files', title: 'Microeconomics', category: 'eco', image: '📊', links: [] },
+  { id: 106, code: 'ECO403 Midterm files', title: 'Macroeconomics', category: 'eco', image: '📊', links: [
     'https://drive.google.com/file/d/1VZdptOjadMwRnBJXANzf5WUZQnxEkDnq/view?usp=sharing'
   ] },
-  { id: 107, code: 'ECO404', title: 'Managerial Economics', category: 'eco', image: '📊', links: [] },
-  { id: 108, code: 'ECO501', title: 'Development Economics', category: 'eco', image: '📊', links: [] },
-  { id: 109, code: 'ECO601', title: 'Business Econometrics', category: 'eco', image: '📊', links: [] },
-  { id: 110, code: 'ECO606', title: 'Mathematical Economics I', category: 'eco', image: '📊', links: [] },
-  { id: 111, code: 'ECO607', title: 'Mathematical Economics II', category: 'eco', image: '📊', links: [] },
-  { id: 112, code: 'ECO612', title: 'Population Economics', category: 'eco', image: '📊', links: [] },
+  { id: 107, code: 'ECO404 Midterm files', title: 'Managerial Economics', category: 'eco', image: '📊', links: [] },
+  { id: 108, code: 'ECO501 Midterm files', title: 'Development Economics', category: 'eco', image: '📊', links: [] },
+  { id: 109, code: 'ECO601 Midterm files', title: 'Business Econometrics', category: 'eco', image: '📊', links: [] },
+  { id: 110, code: 'ECO606 Midterm files', title: 'Mathematical Economics I', category: 'eco', image: '📊', links: [] },
+  { id: 111, code: 'ECO607 Midterm files', title: 'Mathematical Economics II', category: 'eco', image: '📊', links: [] },
+  { id: 112, code: 'ECO612 Midterm files', title: 'Population Economics', category: 'eco', image: '📊', links: [] },
   
   // EDU - Education
-  { id: 113, code: 'EDU101', title: 'Education 101', category: 'edu', image: '🎓', links: [] },
-  { id: 114, code: 'EDU201', title: 'Education 201', category: 'edu', image: '🎓', links: [] },
-  { id: 115, code: 'EDU301', title: 'Education 301', category: 'edu', image: '🎓', links: [] },
+  { id: 113, code: 'EDU101 Midterm files', title: 'Education 101', category: 'edu', image: '🎓', links: [] },
+  { id: 114, code: 'EDU201 Midterm files', title: 'Education 201', category: 'edu', image: '🎓', links: [] },
+  { id: 115, code: 'EDU301 Midterm files', title: 'Education 301', category: 'edu', image: '🎓', links: [] },
   
   // ENG - English midterm past papers
-  { id: 116, code: 'ENG101', title: 'English 101. eng101 midterm past papers.', category: 'eng', image: '📚', links: [
+  { id: 116, code: 'ENG101 Midterm files', title: 'English 101. eng101 midterm past papers.', category: 'eng', image: '📚', links: [
     'https://drive.google.com/file/d/1RX56p1ZKdpsFhJjQo6mrW9gYxwbXrdCx/view?usp=sharing',
     'https://drive.google.com/file/d/1O_YGW71-xlTcW8w893YxjnQufOWlW4u1/view?usp=sharing',
     'https://drive.google.com/file/d/1Xqev4o1zisTdSQ4zc7t12V0Tb-Jc7hLJ/view?usp=sharing'
   ] },
 
-  { id: 117, code: 'ENG201', title: 'English 201. eng201 midterm past paper.', category: 'eng', image: '📚', links: [
+  { id: 117, code: 'ENG201 Midterm files', title: 'English 201. eng201 midterm past paper.', category: 'eng', image: '📚', links: [
     'https://drive.google.com/file/d/1jeoiketnPOpt1TM8hkee5ZsVONZXnmuQ/view?usp=sharing',
     'https://drive.google.com/file/d/1_6wdmVYa4YiOdlnYIGuDZlaYzDgMN4Qp/view?usp=sharing',
     'https://drive.google.com/file/d/1k-QN95U8_QAg426AkPSBvEulYWiqkez1/view?usp=sharing'
   ] },
- // { id: 118, code: 'ENG203', title: 'English 201', category: 'eng', image: '📚', links: [] },
+ // { id: 118, code: 'ENG203 Midterm files', title: 'English 201', category: 'eng', image: '📚', links: [] },
   
   // ETH - Ethics
-  { id: 119, code: 'ETH201', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠', links: [] },
-  { id: 120, code: 'ETH202', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠', links: [] },
+  { id: 119, code: 'ETH201 Midterm files', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠', links: [] },
+  { id: 120, code: 'ETH202 Midterm files', title: 'Ethics (For Non-Muslims)', category: 'eth', image: '🧠', links: [] },
   
   // FIN - Finance
-  { id: 121, code: 'FIN611', title: 'Finance 611', category: 'fin', image: '💰', links: [] },
-  { id: 122, code: 'FIN621', title: 'Finance 621', category: 'fin', image: '💰', links: [] },
-  { id: 123, code: 'FIN622', title: 'Finance 622', category: 'fin', image: '💰', links: [] },
-  { id: 124, code: 'FIN623', title: 'Finance 623', category: 'fin', image: '💰', links: [] },
-  { id: 125, code: 'FIN624', title: 'Finance 624', category: 'fin', image: '💰', links: [] },
-  { id: 126, code: 'FIN625', title: 'Finance 625', category: 'fin', image: '💰', links: [] },
+  { id: 121, code: 'FIN611 Midterm files', title: 'Finance 611', category: 'fin', image: '💰', links: [] },
+  { id: 122, code: 'FIN621 Midterm files', title: 'Finance 621', category: 'fin', image: '💰', links: [] },
+  { id: 123, code: 'FIN622 Midterm files', title: 'Finance 622', category: 'fin', image: '💰', links: [] },
+  { id: 124, code: 'FIN623 Midterm files', title: 'Finance 623', category: 'fin', image: '💰', links: [] },
+  { id: 125, code: 'FIN624 Midterm files', title: 'Finance 624', category: 'fin', image: '💰', links: [] },
+  { id: 126, code: 'FIN625 Midterm files', title: 'Finance 625', category: 'fin', image: '💰', links: [] },
   
   // GSC - General Science
-  { id: 127, code: 'GSC101', title: 'General Science', category: 'gsc', image: '🌍', links: [] },
-  { id: 128, code: 'GSC201', title: 'Teaching of General Science', category: 'gsc', image: '🌍', links: [] },
+  { id: 127, code: 'GSC101 Midterm files', title: 'General Science', category: 'gsc', image: '🌍', links: [] },
+  { id: 128, code: 'GSC201 Midterm files', title: 'Teaching of General Science', category: 'gsc', image: '🌍', links: [] },
   
   // HRM - Human Resource Management
-  { id: 129, code: 'HRM613', title: 'HRM 613', category: 'hrm', image: '👩‍💼', links: [] },
-  { id: 130, code: 'HRM617', title: 'HRM 617', category: 'hrm', image: '👩‍💼', links: [] },
-  { id: 131, code: 'HRM623', title: 'HRM 623', category: 'hrm', image: '👩‍💼', links: [] },
-  { id: 132, code: 'HRM624', title: 'HRM 624', category: 'hrm', image: '👩‍💼', links: [] },
-  { id: 133, code: 'HRM628', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 129, code: 'HRM613 Midterm files', title: 'HRM 613', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 130, code: 'HRM617 Midterm files', title: 'HRM 617', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 131, code: 'HRM623 Midterm files', title: 'HRM 623', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 132, code: 'HRM624 Midterm files', title: 'HRM 624', category: 'hrm', image: '👩‍💼', links: [] },
+  { id: 133, code: 'HRM628 Midterm files', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
 
   //Math Midterm Past paper
-  { id: 134, code: 'MATH101', title: 'HRM 628', category: 'Math101 calculus and analytical geometry. midterm past papers.', category:'mth', image: '👩‍💼', links: [
+  { id: 134, code: 'MATH101 Midterm files', title: 'HRM 628', category: 'Math101 calculus and analytical geometry. midterm past papers.', category:'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1AciOecKcathNmT8ZkyP9BZhyirjP6JZP/view?usp=sharing'
   ] },
-  { id: 135, code: 'MATH202', title: 'MATH202 Discrete Mathematics.math202 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
+  { id: 135, code: 'MATH202 Midterm files', title: 'MATH202 Discrete Mathematics.math202 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1YwWgtZD5QA6gKFjwlnkvsoBpWxPVpNgA/view?usp=sharing',
     'https://drive.google.com/file/d/1hn17kOHc-c97_6TkQPgpME76h_bMY_F4/view?usp=sharing',
     'https://drive.google.com/file/d/1fCEjlqvrjW8CQclwhXW8ezFqCgjRadjj/view?usp=sharing',
     'https://drive.google.com/file/d/1QssH8ienhpiGtLVOqtNNEh77JG7i6ZC3/view?usp=sharing',
     'https://drive.google.com/file/d/1OrMMzsc3kHa-tEVJShEiRzEltq8wV6aS/view?usp=sharing'
   ] },
-  { id: 136, code: 'MATH301', title: 'HRM 628', category: 'Math301 Probability and Statistics. math301 midterm past papers. ',category:'mth', image: '👩‍💼', links: [
+  { id: 136, code: 'MATH301 Midterm files', title: 'HRM 628', category: 'Math301 Probability and Statistics. math301 midterm past papers. ',category:'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1Aph-amSS8sVeExMEoC2mhLIqJoGP5h7H/view?usp=sharing',
     'https://drive.google.com/file/d/1LrnrLWo7FD2rDsWZ9MmG7xOYzI8AYnQD/view?usp=sharing',
     'https://drive.google.com/file/d/1ZPtFTlToSQoO8Mono7Bl5F3uy2WufGZb/view?usp=sharing'
   ] },
-  { id: 137, code: 'MATH401', title: 'math401 Differential Equations.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
+  { id: 137, code: 'MATH401 Midterm files', title: 'math401 Differential Equations.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1uvBNKEr0XzQrwVduhsoL7ZWCxAgZtPL5/view?usp=sharing',
     'https://drive.google.com/file/d/1kWApmlXTVR4xwpQKP06IpplYvEuRI2Co/view?usp=sharing',
     'https://drive.google.com/file/d/1d-tfVGwAqLvtIWHhxAa_TdF-ODb7as0D/view?usp=sharing'
   ] },
-  { id: 138, code: 'MATH501', title: 'Math501 linear algebra. math501 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
+  { id: 138, code: 'MATH501 Midterm files', title: 'Math501 linear algebra. math501 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1mn3vQnrVAJsoEQWmO6yC3_8cl9aMfh-z/view?usp=sharing',
     'https://drive.google.com/file/d/1E7oorhxhHA7MXI79xb58JPteOHttYVES/view?usp=sharing',
     'https://drive.google.com/file/d/1C-MeHzj5-KrYSOqgh_ZvavSRu-tnuZSj/view?usp=sharing'
   ] },
-  { id: 139, code: 'MATH601', title: 'Math601 Operation Research.math601 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
+  { id: 139, code: 'MATH601 Midterm files', title: 'Math601 Operation Research.math601 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1Hg1v6EvBAivlRX_SD_W0WO7sK93WuMC-/view?usp=sharing'
   ] },
-  { id: 139, code: 'MATH603', title: 'math603 numerical analysis.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
+  { id: 139, code: 'MATH603 Midterm files', title: 'math603 numerical analysis.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/18LQARZoac5oUIUtVbkN_6Q6Jh1l0THWg/view?usp=sharing',
     'https://drive.google.com/file/d/1NQu6tveLlbsPAmYA50VYcuHWZr80Y_h4/view?usp=sharing'
   ] },
-  { id: 139, code: 'MATH633', title: 'math633 Group theory. math633 midterm past papers. ', category: 'mth', image: '👩‍💼', links: [
+  { id: 139, code: 'MATH633 Midterm files', title: 'math633 Group theory. math633 midterm past papers. ', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1iRRwgYTx5OsvDba4eSzUCt0DbyUO2lE_/view?usp=sharing',
     'https://drive.google.com/file/d/1GYOmUQT2Ewiy5ZpHSRuKafWeowL85FN9/view?usp=sharing',
     'https://drive.google.com/file/d/1AGZY9dJ3u2rvHK8_p_7-JdMQW0GKVFSQ/view?usp=sharing',
     'https://drive.google.com/file/d/1FGcTpKIwv7SUOIzTU-BXXukPfpxXQj7m/view?usp=sharing',
     'https://drive.google.com/file/d/1aOH2awEK5B9At6vDPWdZxVPAgdjXJ8c1/view?usp=sharing'
   ] },
-  { id: 139, code: 'MATH202', title: 'HRM 628', category: 'mth', image: '👩‍💼', links: [] },
+  { id: 139, code: 'MATH202 Midterm files', title: 'HRM 628', category: 'mth', image: '👩‍💼', links: [] },
 
 
-  { id: 140, code: 'MCM301', title: 'MCM301 Communication Skills. mcm301 midterm past papers.', category: 'mcm', image: '👩‍💼', links: [
+  { id: 140, code: 'MCM301 Midterm files', title: 'MCM301 Communication Skills. mcm301 midterm past papers.', category: 'mcm', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1M7os09HXxV41FfiVWWlx8yxMzZWUG5kO/view?usp=sharing',
     'https://drive.google.com/file/d/1GFruHLDWRGqSD55vOLDN-oI8ItrvcGew/view?usp=sharing'
   ] },
   //MGT
-  { id: 141, code: 'MGT301', title: 'mgt301 Principle of marketing.mgt301 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
+  { id: 141, code: 'MGT301 Midterm files', title: 'mgt301 Principle of marketing.mgt301 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1SDSBfsk3361gioTkte9SOOawbmF4mmMt/view?usp=sharing',
     'https://drive.google.com/file/d/1RaOg_u3y2_oYisIcGdb7fEEglmVaKyZt/view?usp=sharing'
   ] },
   
-  { id: 142, code: 'MGT501', title: 'mgt501 human resources management. mgt501 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
+  { id: 142, code: 'MGT501 Midterm files', title: 'mgt501 human resources management. mgt501 midterm past papers.', category: 'mgt', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1kkL2lL4loxQ-MrBMhHUTTvWbvdkBniqb/view?usp=sharing',
     'https://drive.google.com/file/d/1ppNrFOk48eLqYdUOYdKiH1XIEgBLGJr4/view?usp=sharing'
   ]},
-  { id: 143, code: 'PHY101', title: 'phy101 physics. phy101 midterm past papers.', category: 'phy', image: '👩‍💼', links: [
+  { id: 143, code: 'PHY101 Midterm files', title: 'phy101 physics. phy101 midterm past papers.', category: 'phy', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing',
     'https://drive.google.com/file/d/19ZLb7K1lSlhJlmIz7o0Yymx6F6rIg0dm/view?usp=sharing'
   ]},
-  { id: 144, code: 'SOC101', title: 'soc101 introduction to sociology . soc101 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
+  { id: 144, code: 'SOC101 Midterm files', title: 'soc101 introduction to sociology . soc101 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1IHegGIabUhmccPzxJw_xohMIKBk2LAdM/view?usp=sharing'
   ]},
-  { id: 145, code: 'STA301', title: 'STA301 statistic and probability. sta301 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
+  { id: 145, code: 'STA301 Midterm files', title: 'STA301 statistic and probability. sta301 midterm past papers.', category: 'soc', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/17UYqJNkg1wQT2prK1jqCVJHBnlTz9Xo_/view?usp=sharing',
     'https://drive.google.com/file/d/1XUUiKtvI0VRkvLQfZD1C2IUvur1TFrol/view?usp=sharing',
     'https://drive.google.com/file/d/1rI4eSl_nfmwx6_9YFAHbFTn_TUd0iyXd/view?usp=sharing',
