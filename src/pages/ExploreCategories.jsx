@@ -26,31 +26,36 @@ const ExploreCategories = () => {
     { id: 17, name: 'GMAT - Graduate Management Admission Test', icon: '📈' },
     { id: 18, name: 'GRE - Graduate Record Examination', icon: '🎯' },
     { id: 19, name: 'GSC - General Science', icon: '🌍' },
-    { id: 20, name: 'HRM - Human Resource Management', icon: '👥' },
-    { id: 21, name: 'IELTS - International English Language Testing System', icon: '🌐' },
-    { id: 22, name: 'ISL - Islamic Studies', icon: '🕌' },
-    { id: 23, name: 'IT - Information Technology', icon: '🖥️' },
-    { id: 24, name: 'JEE - Joint Entrance Examination', icon: '🚀' },
-    { id: 25, name: 'MCAT - Medical College Admission Test', icon: '⚕️' },
-    { id: 26, name: 'MCM - Mass Communication', icon: '📢' },
-    { id: 27, name: 'MGMT - Management', icon: '📋' },
-    { id: 28, name: 'MGT - Business & Management', icon: '🏢' },
-    { id: 29, name: 'MKT - Marketing', icon: '🎨' },
-    { id: 30, name: 'MTH - Mathematics', icon: '🔢' },
-    { id: 31, name: 'NEET - National Eligibility cum Enhance Test', icon: '🔬' },
-    { id: 32, name: 'NMDCAT - National Medical & Dental College Admission Test', icon: '🏥' },
-    { id: 33, name: 'PAD - Public Administration', icon: '🏛️' },
-    { id: 34, name: 'PAK - Pakistan Studies', icon: '🇵🇰' },
-    { id: 35, name: 'PHY - Physics', icon: '⚡' },
-    { id: 36, name: 'PSC - Political Science', icon: '🗳️' },
-    { id: 37, name: 'PSY - Psychology', icon: '🧠' },
-    { id: 38, name: 'SOC - Sociology', icon: '👫' },
-    { id: 39, name: 'STA - Statistics', icon: '📊' }
+    { id: 20, name: 'HEC - Past Papers & Notes', icon: '📝', route: '/hec-past-papers' },
+    { id: 21, name: 'HRM - Human Resource Management', icon: '👥' },
+    { id: 22, name: 'IELTS - International English Language Testing System', icon: '🌐' },
+    { id: 23, name: 'ISL - Islamic Studies', icon: '🕌' },
+    { id: 24, name: 'IT - Information Technology', icon: '🖥️' },
+    { id: 25, name: 'JEE - Joint Entrance Examination', icon: '🚀' },
+    { id: 26, name: 'MCAT - Medical College Admission Test', icon: '⚕️' },
+    { id: 27, name: 'MCM - Mass Communication', icon: '📢' },
+    { id: 28, name: 'MGMT - Management', icon: '📋' },
+    { id: 29, name: 'MGT - Business & Management', icon: '🏢' },
+    { id: 30, name: 'MKT - Marketing', icon: '🎨' },
+    { id: 31, name: 'MTH - Mathematics', icon: '🔢' },
+    { id: 32, name: 'NEET - National Eligibility cum Enhance Test', icon: '🔬' },
+    { id: 33, name: 'NMDCAT - National Medical & Dental College Admission Test', icon: '🏥' },
+    { id: 34, name: 'PAD - Public Administration', icon: '🏛️' },
+    { id: 35, name: 'PAK - Pakistan Studies', icon: '🇵🇰' },
+    { id: 36, name: 'PHY - Physics', icon: '⚡' },
+    { id: 37, name: 'PSC - Political Science', icon: '🗳️' },
+    { id: 38, name: 'PSY - Psychology', icon: '🧠' },
+    { id: 39, name: 'SOC - Sociology', icon: '👫' },
+    { id: 40, name: 'STA - Statistics', icon: '📊' }
   ];
 
-  const handleCategoryClick = (categoryName) => {
-    console.log(`Clicked on ${categoryName}`);
-    // Future: Add navigation to category-specific pages
+  const handleCategoryClick = (categoryName, route) => {
+    if (route) {
+      navigate(route);
+    } else {
+      console.log(`Clicked on ${categoryName}`);
+      // Future: Add navigation to category-specific pages
+    }
   };
 
   return (
@@ -74,7 +79,7 @@ const ExploreCategories = () => {
                 <button
                   key={category.id}
                   className="category-button"
-                  onClick={() => handleCategoryClick(category.name)}
+                  onClick={() => handleCategoryClick(category.name, category.route)}
                   title={category.name}
                 >
                   <span className="category-button-icon">{category.icon}</span>
