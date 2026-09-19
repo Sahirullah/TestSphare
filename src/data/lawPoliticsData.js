@@ -1,4 +1,5 @@
 export const lawPoliticsData = [
+  
   // Law & Politics
   { id: 1, code: 'LAW201', title: 'Introduction to Law', category: 'law', image: '⚖️', link: 'https://drive.google.com/uc?export=download&id=' },
   { id: 2, code: 'LAW301', title: 'Constitutional Law', category: 'law', image: '⚖️', link: '' },
