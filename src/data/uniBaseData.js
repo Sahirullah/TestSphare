@@ -664,10 +664,12 @@ export const uniBaseDataPart2 = [
   { id: 132, code: 'HRM624 Midterm files', title: 'HRM 624', category: 'hrm', image: '👩‍💼', links: [] },
   { id: 133, code: 'HRM628 Midterm files', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
 
-  //Math Midterm Past paper
+  //Math101 Midterm Past paper
   { id: 134, code: 'MATH101 Midterm files', title: 'HRM 628', category: 'Math101 calculus and analytical geometry. midterm past papers.', category:'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1AciOecKcathNmT8ZkyP9BZhyirjP6JZP/view?usp=sharing'
   ] },
+
+   //Math202 Midterm Past paper
   { id: 135, code: 'MATH202 Midterm files', title: 'MATH202 Discrete Mathematics.math202 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1YwWgtZD5QA6gKFjwlnkvsoBpWxPVpNgA/view?usp=sharing',
     'https://drive.google.com/file/d/1hn17kOHc-c97_6TkQPgpME76h_bMY_F4/view?usp=sharing',
@@ -675,28 +677,39 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1QssH8ienhpiGtLVOqtNNEh77JG7i6ZC3/view?usp=sharing',
     'https://drive.google.com/file/d/1OrMMzsc3kHa-tEVJShEiRzEltq8wV6aS/view?usp=sharing'
   ] },
+
+   //Math301 Midterm Past paper
   { id: 136, code: 'MATH301 Midterm files', title: 'HRM 628', category: 'Math301 Probability and Statistics. math301 midterm past papers. ',category:'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1Aph-amSS8sVeExMEoC2mhLIqJoGP5h7H/view?usp=sharing',
     'https://drive.google.com/file/d/1LrnrLWo7FD2rDsWZ9MmG7xOYzI8AYnQD/view?usp=sharing',
     'https://drive.google.com/file/d/1ZPtFTlToSQoO8Mono7Bl5F3uy2WufGZb/view?usp=sharing'
   ] },
+   //Math401 Midterm Past paper
   { id: 137, code: 'MATH401 Midterm files', title: 'math401 Differential Equations.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1uvBNKEr0XzQrwVduhsoL7ZWCxAgZtPL5/view?usp=sharing',
     'https://drive.google.com/file/d/1kWApmlXTVR4xwpQKP06IpplYvEuRI2Co/view?usp=sharing',
     'https://drive.google.com/file/d/1d-tfVGwAqLvtIWHhxAa_TdF-ODb7as0D/view?usp=sharing'
   ] },
+
+   //Math501 Midterm Past paper
   { id: 138, code: 'MATH501 Midterm files', title: 'Math501 linear algebra. math501 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1mn3vQnrVAJsoEQWmO6yC3_8cl9aMfh-z/view?usp=sharing',
     'https://drive.google.com/file/d/1E7oorhxhHA7MXI79xb58JPteOHttYVES/view?usp=sharing',
     'https://drive.google.com/file/d/1C-MeHzj5-KrYSOqgh_ZvavSRu-tnuZSj/view?usp=sharing'
   ] },
+
+   //Math601 Midterm Past paper
   { id: 139, code: 'MATH601 Midterm files', title: 'Math601 Operation Research.math601 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1Hg1v6EvBAivlRX_SD_W0WO7sK93WuMC-/view?usp=sharing'
   ] },
+
+   //Math603 Midterm Past paper
   { id: 139, code: 'MATH603 Midterm files', title: 'math603 numerical analysis.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/18LQARZoac5oUIUtVbkN_6Q6Jh1l0THWg/view?usp=sharing',
     'https://drive.google.com/file/d/1NQu6tveLlbsPAmYA50VYcuHWZr80Y_h4/view?usp=sharing'
   ] },
+
+   //Math633 Midterm Past paper
   { id: 139, code: 'MATH633 Midterm files', title: 'math633 Group theory. math633 midterm past papers. ', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1iRRwgYTx5OsvDba4eSzUCt0DbyUO2lE_/view?usp=sharing',
     'https://drive.google.com/file/d/1GYOmUQT2Ewiy5ZpHSRuKafWeowL85FN9/view?usp=sharing',
@@ -704,6 +717,8 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1FGcTpKIwv7SUOIzTU-BXXukPfpxXQj7m/view?usp=sharing',
     'https://drive.google.com/file/d/1aOH2awEK5B9At6vDPWdZxVPAgdjXJ8c1/view?usp=sharing'
   ] },
+
+   //Math202 Midterm Past paper
   { id: 139, code: 'MATH202 Midterm files', title: 'HRM 628', category: 'mth', image: '👩‍💼', links: [] },
 
 //MCM301 Midterm pastpaper
