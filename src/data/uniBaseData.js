@@ -664,9 +664,38 @@ export const uniBaseDataPart2 = [
   { id: 132, code: 'HRM624 Midterm files', title: 'HRM 624', category: 'hrm', image: '👩‍💼', links: [] },
   { id: 133, code: 'HRM628 Midterm files', title: 'HRM 628', category: 'hrm', image: '👩‍💼', links: [] },
 
+  //Math001 Finalterm Past paper
+  { id: 134, code: 'MATH101 Finalterm files', title: 'Math001', category: 'Math001 Elementary Mathematic. Finalterm past papers.', category:'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1DfZYLWST34lDXGDy6-6ZjjFREXInkGpJ/view?usp=sharing',
+    'https://drive.google.com/file/d/1oUyjTTTnYp0h91Z2cHDycMb_mpsRD8tl/view?usp=sharing',
+    'https://docs.google.com/document/d/1Jsxau0msni_cHeppBwK0O7gtsX4eKSAY/edit?usp=sharing&ouid=115636303576237109989&rtpof=true&sd=true'
+  ] },
+
+  //Math100 Finalterm Past paper
+  { id: 134, code: 'MATH100 Finalterm files', title: 'Math100', category: 'Math101 General. midterm past papers.', category:'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1A3jBkY4KGALbTsNF7zsNwg7e-CUuGc4l/view?usp=sharing',
+    'https://drive.google.com/file/d/1aaDoILbLxZ5yFWz0zOH2hHqhVbxknaCL/view?usp=sharing'
+  ] },
+
   //Math101 Midterm Past paper
-  { id: 134, code: 'MATH101 Midterm files', title: 'HRM 628', category: 'Math101 calculus and analytical geometry. midterm past papers.', category:'mth', image: '👩‍💼', links: [
+  { id: 134, code: 'MATH101 Midterm files', title: 'Math101', category: 'Math101 calculus and analytical geometry. midterm past papers.', category:'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1AciOecKcathNmT8ZkyP9BZhyirjP6JZP/view?usp=sharing'
+  ] },
+
+  //Math101 Finalterm Past paper
+  { id: 134, code: 'MATH101 Finalterm files', title: 'Math101', category: 'Math101 calculus and analytical geometry. Finalterm past papers.', category:'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1jrfSI0TxofE3t6x3Y5f2mslp_4dgHMPE/view?usp=sharing',
+    'https://drive.google.com/file/d/1VCp1tHMitonOrsDXDv82r1MoJUvVXMKV/view?usp=sharing',
+    'https://drive.google.com/file/d/18KnMYgezamb_kvto09EFe_479PYiwqiY/view?usp=sharing',
+    'https://drive.google.com/file/d/1MHwRvbq3Atn2ZGgd6GnqGdcmvgMNw4-H/view?usp=sharing',
+    'https://drive.google.com/file/d/1qzYcYyLMyq2R-a3kt-TfT-LQt78eBtx9/view?usp=sharing'
+  ] },
+
+   //Math201 Finalterm Past paper
+  { id: 135, code: 'MATH201 Finalterm files', title: 'MATH202 Multivariable Calculus.math202 Finalterm past papers.', category: 'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1pAsibTDBrrv3V7O0mgwuMzA4XWC1Rm1_/view?usp=sharing',
+    'https://drive.google.com/file/d/1vYaoDuSU_mHVQEHakYO1b-koaioSOn5K/view?usp=sharing',
+    'https://drive.google.com/file/d/1pAsibTDBrrv3V7O0mgwuMzA4XWC1Rm1_/view?usp=sharing'
   ] },
 
    //Math202 Midterm Past paper
@@ -678,17 +707,40 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1OrMMzsc3kHa-tEVJShEiRzEltq8wV6aS/view?usp=sharing'
   ] },
 
+   //Math202 Finalterm Past paper
+  { id: 135, code: 'MATH202 Finalterm files', title: 'MATH202 Discrete Mathematics.math202 Finalterm past papers.', category: 'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1W7f3FTpQlwMVdw-yA9ee39b5FC7eIIJF/view?usp=sharing',
+    'https://drive.google.com/file/d/1u1E6nr21Fs2eqowwK2k88F09N0z-_dEn/view?usp=sharing',
+    'https://drive.google.com/file/d/1tQq2VM7ik0nkhjD-QWOFJFBk6-ow_5Wt/view?usp=sharing',
+    'https://drive.google.com/file/d/1xYbHsfjGzvnTk8VfnlxohPwzpg4SpDr2/view?usp=sharing'
+  ] },
+
    //Math301 Midterm Past paper
   { id: 136, code: 'MATH301 Midterm files', title: 'HRM 628', category: 'Math301 Probability and Statistics. math301 midterm past papers. ',category:'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1Aph-amSS8sVeExMEoC2mhLIqJoGP5h7H/view?usp=sharing',
     'https://drive.google.com/file/d/1LrnrLWo7FD2rDsWZ9MmG7xOYzI8AYnQD/view?usp=sharing',
     'https://drive.google.com/file/d/1ZPtFTlToSQoO8Mono7Bl5F3uy2WufGZb/view?usp=sharing'
   ] },
+  
+
+   //Math301 Finalterm Past paper
+  { id: 136, code: 'MATH301 Finalterm files', title: 'HRM 628', category: 'Math301 Probability and Statistics. math301 Finalterm past papers. ',category:'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1LOYJZ6n2MLg04Ty_xNKoe2lPTGrXo4Wi/view?usp=sharing',
+    'https://drive.google.com/file/d/1jtPQWF4kMiNMWVxHWI5o7YDB3E7rVXqe/view?usp=sharing'
+  ] },
+  
+
    //Math401 Midterm Past paper
   { id: 137, code: 'MATH401 Midterm files', title: 'math401 Differential Equations.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1uvBNKEr0XzQrwVduhsoL7ZWCxAgZtPL5/view?usp=sharing',
     'https://drive.google.com/file/d/1kWApmlXTVR4xwpQKP06IpplYvEuRI2Co/view?usp=sharing',
     'https://drive.google.com/file/d/1d-tfVGwAqLvtIWHhxAa_TdF-ODb7as0D/view?usp=sharing'
+  ] },
+
+   //Math401 Finalterm Past paper
+  { id: 137, code: 'MATH401 Finalterm files', title: 'math401 Differential Equations.Finalterm past papers.', category: 'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1vR1nitJpNDzfYawjMK7eNJ5WkwMl3te2/view?usp=sharing',
+    'https://drive.google.com/file/d/1ZJKW5EqZuN3KP_TCI52ivoWIXpKbY1Mv/view?usp=sharing'
   ] },
 
    //Math501 Midterm Past paper
@@ -698,15 +750,35 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/1C-MeHzj5-KrYSOqgh_ZvavSRu-tnuZSj/view?usp=sharing'
   ] },
 
+   //Math501 Finalterm Past paper
+  { id: 138, code: 'MATH501 Finalterm files', title: 'Math501 linear algebra. math501 Finalterm past papers.', category: 'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1IMQF1kvMq5Xl9KsbqpT-90rUSt9VA3ez/view?usp=sharing',
+    'https://drive.google.com/file/d/1rVMuwFei8Kl4YZxXCgFi4k7XYtTfp4OD/view?usp=sharing',
+    'https://drive.google.com/file/d/1l9DFyaa2cCyvLB8sa4uGtmDwbn26FTE1/view?usp=sharing'
+  ] },
+
    //Math601 Midterm Past paper
   { id: 139, code: 'MATH601 Midterm files', title: 'Math601 Operation Research.math601 midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/1Hg1v6EvBAivlRX_SD_W0WO7sK93WuMC-/view?usp=sharing'
+  ] },
+
+   //Math601 Finalterm Past paper
+  { id: 139, code: 'MATH601 Finalterm files', title: 'Math601 Operation Research.math601 Finalterm past papers.', category: 'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1ixvOfAbDznKROd4a_vAydWyRDvy7v10N/view?usp=sharing',
+    'https://drive.google.com/file/d/1PXll9TIvPilKR9UluzaT8r1OLKF1DjmX/view?usp=sharing',
+    'https://drive.google.com/file/d/1ER9GDZw_VW0TeH80oGO1-3aACjZXoXeB/view?usp=sharing'
   ] },
 
    //Math603 Midterm Past paper
   { id: 139, code: 'MATH603 Midterm files', title: 'math603 numerical analysis.midterm past papers.', category: 'mth', image: '👩‍💼', links: [
     'https://drive.google.com/file/d/18LQARZoac5oUIUtVbkN_6Q6Jh1l0THWg/view?usp=sharing',
     'https://drive.google.com/file/d/1NQu6tveLlbsPAmYA50VYcuHWZr80Y_h4/view?usp=sharing'
+  ] },
+
+   //Math603 Finalterm Past paper
+  { id: 139, code: 'MATH603 Finalterm files', title: 'math603 numerical analysis.Finalterm past papers.', category: 'mth', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1zFzj9KSLLDa5dMZdcCCZdbAsNMbkgd6M/view?usp=sharing',
+    'https://drive.google.com/file/d/1S6ocIEr0JLVTrGTy9SqDrFJmXaHPQOHI/view?usp=sharing'
   ] },
 
    //Math633 Midterm Past paper
