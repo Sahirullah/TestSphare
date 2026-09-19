@@ -779,6 +779,43 @@ export const uniBaseDataPart2 = [
     'https://drive.google.com/file/d/103V0Arwbdg3BXOvT7KchGOmNiiS9KvzT/view?usp=sharing'
   ]},
 
+//STA301 Finalterm pastpaper
+  { id: 145, code: 'STA301 Finalterm files', title: 'STA301 statistic and probability. sta301 Finalterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1uA3S3QjK_mMEy3KzxF7M_64lode8_qJR/view?usp=sharing',
+    'https://drive.google.com/file/d/1ntj3jTHFRnQAXrdEmpSyvoNze11E3xR1/view?usp=sharing',
+    'https://drive.google.com/file/d/1DdsQ8Stnq3iwAwyPpHEmz_X4fI2KeAG9/view?usp=sharing',
+    'https://drive.google.com/file/d/1h_202ZPA_cr3IqXf-DvMnzoDZUBEWgnU/view?usp=sharing',
+    'https://drive.google.com/file/d/1gh3U-a-2jw0X87jol68kA_El1xXE0mFY/view?usp=sharing',
+    'https://drive.google.com/file/d/1WCmqNFiTkbG3oMzd2J82nyhv2gjxELea/view?usp=sharing'
+  ]},
+
+//MGMT611 Finalterm pastpaper
+  { id: 145, code: 'MGMT611 Finalterm files', title: 'mgmt611 Human Relations. mgmt611 Finalterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1CEMDcS5Ef_pDqV4AuSBsmMswP8vZPYL5/view?usp=sharing',
+    'https://drive.google.com/file/d/1KFV6PkmERaWqvImaS9fv3wSUILaJXOm0/view?usp=sharing'
+  ]},
+
+//MGMT625 Finalterm pastpaper
+  { id: 145, code: 'MGMT625 Finalterm files', title: 'mgmt625 CHANGE MANAGEMENT. mgmt625 Finalterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://docs.google.com/document/d/1IDeykuEHf5Yn3nstHt3B3RQPEJ0HOg70/edit?usp=sharing&ouid=115636303576237109989&rtpof=true&sd=true'
+  ]},
+
+//MGMT627 Finalterm pastpaper
+  { id: 145, code: 'MGMT627 Finalterm files', title: 'mgmt627 Project Management. mgmt627 Finalterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://docs.google.com/document/d/1Ut3MucW5SKc1B2mk-E9zzs_JYM2XB7QB/edit?usp=sharing&ouid=115636303576237109989&rtpof=true&sd=true',
+    'https://drive.google.com/file/d/1-pWWrAHjEjHNc3-h-vSLcpWxzcPKFyop/view?usp=sharing'
+  ]},
+
+//MGMT628 Finalterm pastpaper
+  { id: 145, code: 'MGMT628 Finalterm files', title: 'mgmt628 Organizational Development. mgmt628 Finalterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/1iNc2uW1L4130ynNJxNpIMdBTlcGJ7I6X/view?usp=sharing'
+  ]},
+
+//MGMT630 midterm & Finalterm pastpaper
+  { id: 145, code: 'MGMT630 Finalterm files', title: 'mgmt630 Knowledge Management. mgmt630 midterm & Finalterm past papers.', category: 'soc', image: '👩‍💼', links: [
+    'https://drive.google.com/file/d/12chf5PDuYxnazSweshM_H1GS6Cdy15TA/view?usp=sharing'
+  ]},
+
 
 
 ];
@@ -809,4 +846,5 @@ export const uniBaseCategories = [
   { id: 'mgt', name: 'MGT - Marketing' },
   { id: 'phy', name: 'PHY - Physics' },
   { id: 'soc', name: 'SOC - Sociology' },
+  { id: 'mgmt', name: 'mgmt - MGMT' },
 ];
