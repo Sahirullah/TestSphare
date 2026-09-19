@@ -7,46 +7,46 @@ import './ExploreCategories.css';
 const ExploreCategories = () => {
   const navigate = useNavigate();
   const categories = [
-    { id: 1, name: 'All Courses', icon: '📚' },
-    { id: 2, name: 'ACC - Accounting', icon: '💰' },
-    { id: 3, name: 'ACT - American College Test', icon: '✏️' },
-    { id: 4, name: 'BIF - Bioinformatics', icon: '🧬' },
-    { id: 5, name: 'BIO - Biology', icon: '🔬' },
-    { id: 6, name: 'BNK - Banking', icon: '🏦' },
-    { id: 7, name: 'BT - Biotechnology', icon: '🧪' },
-    { id: 8, name: 'CHE - Chemistry', icon: '⚗️' },
-    { id: 9, name: 'CS - Computer Science', icon: '💻' },
-    { id: 10, name: 'ECO - Economics', icon: '📊' },
-    { id: 11, name: 'EDU - Education', icon: '🎓' },
-    { id: 12, name: 'ENG - English', icon: '📖' },
-    { id: 13, name: 'ETEA - Entry Test Engineering & Technology', icon: '🔧' },
-    { id: 14, name: 'ETH - Ethics', icon: '⚖️' },
-    { id: 15, name: 'FIN - Finance', icon: '💵' },
-    { id: 16, name: 'GATE - Graduate Aptitude Test in Engineering', icon: '🏆' },
-    { id: 17, name: 'GMAT - Graduate Management Admission Test', icon: '📈' },
-    { id: 18, name: 'GRE - Graduate Record Examination', icon: '🎯' },
-    { id: 19, name: 'GSC - General Science', icon: '🌍' },
-    { id: 20, name: 'HEC - Past Papers & Notes', icon: '📝', route: '/hec-past-papers' },
-    { id: 21, name: 'HRM - Human Resource Management', icon: '👥' },
-    { id: 22, name: 'IELTS - International English Language Testing System', icon: '🌐' },
-    { id: 23, name: 'ISL - Islamic Studies', icon: '🕌' },
-    { id: 24, name: 'IT - Information Technology', icon: '🖥️' },
-    { id: 25, name: 'JEE - Joint Entrance Examination', icon: '🚀' },
-    { id: 26, name: 'MCAT - Medical College Admission Test', icon: '⚕️' },
-    { id: 27, name: 'MCM - Mass Communication', icon: '📢' },
-    { id: 28, name: 'MGMT - Management', icon: '📋' },
-    { id: 29, name: 'MGT - Business & Management', icon: '🏢' },
-    { id: 30, name: 'MKT - Marketing', icon: '🎨' },
-    { id: 31, name: 'MTH - Mathematics', icon: '🔢' },
-    { id: 32, name: 'NEET - National Eligibility cum Enhance Test', icon: '🔬' },
-    { id: 33, name: 'NMDCAT - National Medical & Dental College Admission Test', icon: '🏥' },
-    { id: 34, name: 'PAD - Public Administration', icon: '🏛️' },
-    { id: 35, name: 'PAK - Pakistan Studies', icon: '🇵🇰' },
-    { id: 36, name: 'PHY - Physics', icon: '⚡' },
-    { id: 37, name: 'PSC - Political Science', icon: '🗳️' },
-    { id: 38, name: 'PSY - Psychology', icon: '🧠' },
-    { id: 39, name: 'SOC - Sociology', icon: '👫' },
-    { id: 40, name: 'STA - Statistics', icon: '📊' }
+    { id: 1, abbr: 'All', fullName: 'All Courses' },
+    { id: 2, abbr: 'ACC', fullName: 'Accounting' },
+    { id: 3, abbr: 'ACT', fullName: 'American College Test' },
+    { id: 4, abbr: 'BIF', fullName: 'Bioinformatics' },
+    { id: 5, abbr: 'BIO', fullName: 'Biology' },
+    { id: 6, abbr: 'BNK', fullName: 'Banking' },
+    { id: 7, abbr: 'BT', fullName: 'Biotechnology' },
+    { id: 8, abbr: 'CHE', fullName: 'Chemistry' },
+    { id: 9, abbr: 'CS', fullName: 'Computer Science' },
+    { id: 10, abbr: 'ECO', fullName: 'Economics' },
+    { id: 11, abbr: 'EDU', fullName: 'Education' },
+    { id: 12, abbr: 'ENG', fullName: 'English' },
+    { id: 13, abbr: 'ETEA', fullName: 'Entry Test Engineering & Technology' },
+    { id: 14, abbr: 'ETH', fullName: 'Ethics' },
+    { id: 15, abbr: 'FIN', fullName: 'Finance' },
+    { id: 16, abbr: 'GATE', fullName: 'Graduate Aptitude Test in Engineering' },
+    { id: 17, abbr: 'GMAT', fullName: 'Graduate Management Admission Test' },
+    { id: 18, abbr: 'GRE', fullName: 'Graduate Record Examination' },
+    { id: 19, abbr: 'GSC', fullName: 'General Science' },
+    { id: 20, abbr: 'HEC', fullName: 'Past Papers & Notes', route: '/hec-past-papers' },
+    { id: 21, abbr: 'HRM', fullName: 'Human Resource Management' },
+    { id: 22, abbr: 'IELTS', fullName: 'International English Language Testing System' },
+    { id: 23, abbr: 'ISL', fullName: 'Islamic Studies' },
+    { id: 24, abbr: 'IT', fullName: 'Information Technology' },
+    { id: 25, abbr: 'JEE', fullName: 'Joint Entrance Examination' },
+    { id: 26, abbr: 'MCAT', fullName: 'Medical College Admission Test' },
+    { id: 27, abbr: 'MCM', fullName: 'Mass Communication' },
+    { id: 28, abbr: 'MGMT', fullName: 'Management' },
+    { id: 29, abbr: 'MGT', fullName: 'Business & Management' },
+    { id: 30, abbr: 'MKT', fullName: 'Marketing' },
+    { id: 31, abbr: 'MTH', fullName: 'Mathematics' },
+    { id: 32, abbr: 'NEET', fullName: 'National Eligibility cum Enhance Test' },
+    { id: 33, abbr: 'NMDCAT', fullName: 'National Medical & Dental College Admission Test' },
+    { id: 34, abbr: 'PAD', fullName: 'Public Administration' },
+    { id: 35, abbr: 'PAK', fullName: 'Pakistan Studies' },
+    { id: 36, abbr: 'PHY', fullName: 'Physics' },
+    { id: 37, abbr: 'PSC', fullName: 'Political Science' },
+    { id: 38, abbr: 'PSY', fullName: 'Psychology' },
+    { id: 39, abbr: 'SOC', fullName: 'Sociology' },
+    { id: 40, abbr: 'STA', fullName: 'Statistics' }
   ];
 
   const handleCategoryClick = (categoryName, route) => {
@@ -82,11 +82,10 @@ const ExploreCategories = () => {
                 <button
                   key={category.id}
                   className="category-button"
-                  onClick={() => handleCategoryClick(category.name, category.route)}
-                  title={category.name}
+                  onClick={() => handleCategoryClick(category.fullName, category.route)}
+                  title={category.fullName}
                 >
-                  <span className="category-button-icon">{category.icon}</span>
-                  <span className="category-button-name">{category.name}</span>
+                  {category.abbr}
                 </button>
               ))}
             </div>
