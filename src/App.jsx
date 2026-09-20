@@ -27,7 +27,7 @@ const ResearchInnovation = lazy(() => import('./pages/ResearchInnovation'))
 const ExploreCategories = lazy(() => import('./pages/ExploreCategories'))
 const HecPastPapers = lazy(() => import('./pages/HecPastPapers'))
 
-const LoadingFallback = () => <div style={{ padding: '40px', textAlign: 'center' }}>Loading...</div>
+const LoadingFallback = () => <div style={{ padding: '40px', textAlign: 'center', fontWeight: 'bold' }}>Loading...</div>
 
 function App() {
   return (
