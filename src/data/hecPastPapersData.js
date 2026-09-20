@@ -24,5 +24,4 @@ export const hecPastPapersCategories = [
   { id: 'all', name: 'All Papers' },
   { id: 'paper', name: 'Past Papers' },
   { id: 'notes', name: 'Notes' },
-  { id: 'solutions', name: 'Solutions' }
 ];
