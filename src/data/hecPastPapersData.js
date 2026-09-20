@@ -4,6 +4,7 @@ export const hecPastPapersData = [
   { id: 2, code: 'HEC-NOTES', title: 'HEC General knowledge Notes', image: '📄', category: 'notes', link: 'https://drive.google.com/file/d/1PuCAqMa6QyNWyclP9eghwaX5CSdpHrrA/view?usp=sharing' },
   { id: 3, code: 'HEC-NOTES', title: 'HEC General knowledge Notes', image: '📄', category: 'notes', link: 'https://drive.google.com/file/d/1zVP0fBvh8XBfj6pphOyZDlcnmzAVGTMk/view?usp=sharing' },
   { id: 4, code: 'HEC-NOTES', title: 'HEC General knowledge Notes', image: '📄', category: 'notes', link: '' },
+  { id: 4, code: 'HEC-NOTES', title: 'HEC General knowledge Notes', image: '📄', category: 'notes', link: '' },
 
   //HEC past paper
   { id: 5, code: 'HEC-Past paper', title: 'HEC Past Papers 2022/2023', image: '📄', category: 'paper', link: 'https://drive.google.com/file/d/1Ovq6JVGOJBif3He5oYNBzMORYvgN6gfo/view?usp=sharing' },
